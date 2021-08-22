@@ -14,11 +14,13 @@ main_nav: true
 * Li, Y.\*, Shi, Z.\*, Liu, C., Tian, W., Kong, Z., and Williams, C., 2021, "Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection," *IEEE Transactions on Automation Science and Engineering*. (Conditionally Accepted)
     * ***This work is selected as the finalist of the Data Challenge Award, QSR Section, INFORMS, 2019***
 
-* Ye, Z., Liu, C., Tian, W., and Kan, C., 2021, "In-situ Point Cloud Fusion for Layer-wise Monitoring ofAdditive Manufacturing," Journal of Manufacturing Systems. (Accepted)
+* Ye, Z., Liu, C., Tian, W., and Kan, C., 2021, "In-situ Point Cloud Fusion for Layer-wise Monitoring of Additive Manufacturing," *Journal of Manufacturing Systems*. (Accepted)
 
 * Shi, Z.\*, Kan, C., Tian, W., and Liu, C., 2021, "A Blockchain-based G-code Protection Approach for Cyber-Physical Security in Additive Manufacturing," *ASME Journal of Computing and Information Science in Engineering*. Vol.21(4), pp.041007.
+     * ***[ASME Journal Twitter Post](https://twitter.com/ASMEJournals/status/1426604533858275328)***
+     * ***JCISE Most Read Article in August, 2021***
 
-* Liu, C., Kong, Z., Babu, S., Joslin, C., and Ferguson, J., 2020, "An Integrated Manifold Learning Approach for High Dimensional Data Feature Extractions and its Applications to Online Process Monitoring of Additive Manufacturing," *IISE Transactions*. (in press)
+* Liu, C., Kong, Z., Babu, S., Joslin, C., and Ferguson, J., 2020, "An Integrated Manifold Learning Approach for High Dimensional Data Feature Extractions and its Applications to Online Process Monitoring of Additive Manufacturing," *IISE Transactions*, Vol.53(11), pp.1215-1230.
     * ***This work is featured in the Industrial and Systems Engineer magazine (ISE) Magazine, October 2021***
     * ***This work received the Best Paper Award, QSR Section, INFORMS, 2017***
 
