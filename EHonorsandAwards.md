@@ -7,6 +7,7 @@ main_nav: true
 
 ### Selected Awards, Honors and Recognitions
 
+* Featured article in ISE Magazine, IISE, 2021
 * Best Poster Award, BOOM Workshop, IJCAI, Virtual, 2020 
 * Data Challenge Competition Finalist, Quality, Statistics & Reliability (QSR) Section, INFORMS, 2019 
 * Featured article in ISE Magazine, IISE, 2019
