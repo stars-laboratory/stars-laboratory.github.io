@@ -24,30 +24,55 @@ main_nav: true
 # Graduate Students
 
 ![Yuxuan]({{ site.baseurl }}/assets/yuxuan.jpg){:.profile}
-#### **Yuxuan Li, Ph.D. student**  
+#### **Yuxuan Li, Ph.D. student (Expected to Graduate in Summer 2023)**  
 
 * BEc, Economics Statistics, Renmin University of China, China 
 
 * E-mail: yuxuan.li@okstate.edu
 
-* Dissertation topic: Advanced Data Analytics for System Intelligence
+* Dissertation topic: Adversarial Learning-Assisted Data Analytics in Manufacturing and Healthcare
 
 &nbsp;
 
 ***
 
 ![Zhangyue]({{ site.baseurl }}/assets/zhangyue.jpeg){:.profile}
-#### **Zhangyue Shi, Ph.D. student**  
+#### **Zhangyue Shi, Ph.D. student (Expected to Graduate in Summer 2023)**  
 
 * BEng, Mechanical Engineering, Xi'an Jiaotong University, China
 
 * E-mail: zhshi@okstate.edu
 
-* Dissertation topic: Advanced Modeling and Analytics for Smart Manufacturing
+* Dissertation topic: Advanced Data Analytics-based Quality Assurance for Smart Manufacturing
 
 &nbsp;
 
 ***
+
+![Emmanuel Yangue]({{ site.baseurl }}/assets/Yangue Emmanuel.jpeg){:.profile}
+#### **Emmanuel Yangue, M.S. student (Expected to Graduate in Fall 2023)**  
+
+* B.S., Petroleum Engineering (double Major in Economics), University of Louisiana at Lafayette, Lafayette, Louisiana
+
+* M.A., Applied Economics, University of Houston, Houston, TX
+
+* E-mail: eyangue@okstate.edu
+
+&nbsp;
+
+***
+
+![Ziyang Zhang]({{ site.baseurl }}/assets/Ziyang's Photo.jpeg){:.profile}
+#### **Ziyang Zhang, Ph.D. student (Expected to Graduate in Summer 2025)**  
+
+* BEng, Mechanical Engineering, Xi'an Jiaotong University, China
+
+* E-mail: jan.zhang@okstate.edu
+
+&nbsp;
+
+***
+
 ![Ayse]({{ site.baseurl }}/assets/Ayse.jpeg){:.profile}
 #### **Ayse Dogan, M.S. student**  (Graduated in May 2021)
 
