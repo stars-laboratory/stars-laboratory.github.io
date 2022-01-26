@@ -7,12 +7,14 @@ main_nav: true
 
 ### Recent News and Updates
 
+* January 2022: STARs Lab received a grant from National Science Foundation (NSF). STARs Lab is collaborating with Dr. Yongwei Shan (PI) from the School of Civil & Environmental Engineering at OSU for a research project entitled "PFI-TT: Intelligent quality assurance and integration tool for sewer inspection data" sponsored by NSF. Thanks for the generous support from NSF! 
+* January 2022: PhD Student Yuxuan Li received the Roy & Virgina Dorrough Distinguished Graduate Fellowship. Congratulations! 
 * January 2022: Emmanuel Yangue joined our group as a new MS student. Welcome!
 * January 2022: Ziyang Zhang joined our group as a new Ph.D. student. Welcome!
 * December 2021: Our Paper “An LSTM-autoencoder based online side channel monitoring approach for cyber-physical attack detection in additive manufacturing” has been accepted by Journal of Intelligence Manufacturing. 
 * December 2021: PhD student Zhangyue Shi successfully passed his dissertation proposal defense. Congratulations! 
 * November 2021: Our paper “A Multilayer Network-Enabled Ultrasonic Image Series Analysis Approach for Online Cancer Drug Delivery Monitoring” has been accepted by Computer Methods and Programs in Biomedicine. 
-* October 2021: STARs Lab received a grant from NIH. STARs Lab is collaborating with Dr. Tieming Liu (PI), Dr. Bing Yao, and Dr. Liang Ye for a research project entitled “SCH: Harnessing Tensor Information to Improve EHR Data Quality for Accurate Data-driven Screening of Diabetic Retinopathy with Routine Lab Results” sponsored by NIH. Thanks for the generous support from NIH! 
+* October 2021: STARs Lab received a grant from National Institutes of Health (NIH). STARs Lab is collaborating with Dr. Tieming Liu (PI), Dr. Bing Yao, and Dr. Liang Ye for a research project entitled “SCH: Harnessing Tensor Information to Improve EHR Data Quality for Accurate Data-driven Screening of Diabetic Retinopathy with Routine Lab Results” sponsored by NIH. Thanks for the generous support from NIH! 
 * October 2021: Our group gave multiple invited talks at INFORMS Annual Meeting, 2021.  
 * October 2021: Our paper “Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection” has been accepted by IEEE Transactions on Automation Science and Engineering. 
 * October 2021: Dr. Liu’s paper is featured in the Industrial and Systems Engineer magazine (ISE) Magazine.
