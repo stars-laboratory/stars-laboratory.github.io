@@ -18,7 +18,7 @@ main_nav: true
 
 * Li, Y.\*, VanOsdol, J., Ranjan, A., and Liu, C., 2022, "A Multilayer Network-Enabled Ultrasonic Video Analysis Approach for Online Cancer Drug Delivery Monitoring," *Computer Methods and Programs in Biomedicine*. Vol, 213, p. 106505. [Link](https://doi.org/10.1016/j.cmpb.2021.106505)
 
-* Chen, Y., Abu-Heiba, A., Kassaee, S., Liu, C., Liu, G., Starke, M., Smith, B., and Momen, A., 2022, "Coupled Heat-Power Operation of Smart Buildings via Modular Pumped Hydro Storage," ASME Journal of Energy Resources Technology. (Accepted for Publication) 
+* Chen, Y., Abu-Heiba, A., Kassaee, S., Liu, C., Liu, G., Starke, M., Smith, B., and Momen, A., 2022, "Coupled Heat-Power Operation of Smart Buildings via Modular Pumped Hydro Storage," *ASME Journal of Energy Resources Technology*. (Accepted for Publication) 
 
 * Shi, Z.\*, Mamun, A., Kan, C., Tian, W., and Liu, C., 2021, "An LSTM-Autoencoder Based Online Side Channel Monitoring Approach for Cyber-physical Attack Detection in Additive Manufacturing, " *Journal of Intelligent Manufacturing*. (In press) [Link](https://doi.org/10.1007/s10845-021-01879-9)
 
