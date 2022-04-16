@@ -26,6 +26,8 @@ The lab is located at OSU Engineering north.
 
 <h1 align="center" id="form_elements">Questions and Inquiries</h1>
 
+The form below may not work. Feel free to contact us at chenang.liu@okstate.edu
+
 <fieldset>
 
   <form>
