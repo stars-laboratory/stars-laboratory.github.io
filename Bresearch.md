@@ -6,10 +6,12 @@ main_nav: true
 ---
 
 # Our Research
-The ultimate research goal of STARs Lab is to maximize the value of data in real-world manufacturing and healthcare systems, and make the system "smart" (learn "knowledge" from data). Our research direction is to develop effective and efficient data analytics methodologies for information extraction, prediction, decision-making, design, etc. 
+The ultimate research goal of STARs Lab is to maximize the value of data in real-world manufacturing, healthcare, and service systems, and make the system "smart" (learn "knowledge" from data). Our research direction is to develop effective and efficient data analytics methodologies for information extraction, prediction, decision-making, design, etc. 
 
 (Under construction, details coming soon)
 
 
+# Our Sponsors
 
-
+<img src="assets/NSF_Logo.png" width="120">
+<img src="assets/NIH_logo.jpg" height="80">
