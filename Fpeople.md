@@ -24,7 +24,7 @@ main_nav: true
 # Graduate Students
 
 ![Yuxuan]({{ site.baseurl }}/assets/yuxuan.jpg){:.profile}
-#### **Yuxuan Li, Ph.D. student**  
+#### **Yuxuan Li, Ph.D. candidate**  
 
 * Expected to Graduate in Summer 2023
 
@@ -39,7 +39,7 @@ main_nav: true
 ***
 
 ![Zhangyue]({{ site.baseurl }}/assets/zhangyue.jpeg){:.profile}
-#### **Zhangyue Shi, Ph.D. student**  
+#### **Zhangyue Shi, Ph.D. candidate**  
 
 * Expected to Graduate in Summer 2023
 
