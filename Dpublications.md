@@ -11,14 +11,18 @@ main_nav: true
 
 ### Journal Articles
 
-* Li, Y.\*, Shi, Z.\*, Liu, C., Tian, W., Kong, Z., and Williams, C., 2021, "Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection," *IEEE Transactions on Automation Science and Engineering*. (In press) [Link](https://doi.org/10.1109/TASE.2021.3118635)
+* Li, Y.\*, Shi, Z.\*, Liu, C., Tian, W., Kong, Z., and Williams, C., 2022, "Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection," *IEEE Transactions on Automation Science and Engineering*. (In press) [Link](https://doi.org/10.1109/TASE.2021.3118635)
     * ***This work is selected as the finalist of the Data Challenge Award, QSR Section, INFORMS, 2019***
+
+* Liu, C., Tian, W., and Kan, C., 2022, “When AI Meets Additive Manufacturing: Challenges and Emerging Opportunities for Human-Centered Products Development,” *Journal of Manufacturing Systems*. (Accepted for publication)
+
+* Liu, C., Wang, R., Ho, I., Kong, Z., Williams, C., Babu, S., and Joslin, C., 2022, “Toward Online Surface Morphology Measurement in Additive Manufacturing Using a Deep Learning-based Approach,” *Journal of Intelligent Manufacturing*. (Accepted for publication)
 
 * Mamun, A., Liu, C., Kan, C., and Tian, W., 2022, "Securing Cyber-Physical Additive Manufacturing Systems by In-situ Process Authentication using Streamline Video Analysis," *Journal of Manufacturing Systems*. Vol. 62 pp. 429-440. [Link](https://doi.org/10.1016/j.jmsy.2021.12.007)
 
 * Li, Y.\*, VanOsdol, J., Ranjan, A., and Liu, C., 2022, "A Multilayer Network-Enabled Ultrasonic Video Analysis Approach for Online Cancer Drug Delivery Monitoring," *Computer Methods and Programs in Biomedicine*. Vol, 213, p. 106505. [Link](https://doi.org/10.1016/j.cmpb.2021.106505)
 
-* Chen, Y., Abu-Heiba, A., Kassaee, S., Liu, C., Liu, G., Starke, M., Smith, B., and Momen, A., 2022, "Coupled Heat-Power Operation of Smart Buildings via Modular Pumped Hydro Storage," *ASME Journal of Energy Resources Technology*. (Accepted for Publication) 
+* Chen, Y., Abu-Heiba, A., Kassaee, S., Liu, C., Liu, G., Starke, M., Smith, B., and Momen, A., 2022, "Coupled Heat-Power Operation of Smart Buildings via Modular Pumped Hydro Storage," *ASME Journal of Energy Resources Technology*. (In press) [Link](https://doi.org/10.1115/1.4053783)
 
 * Shi, Z.\*, Mamun, A., Kan, C., Tian, W., and Liu, C., 2021, "An LSTM-Autoencoder Based Online Side Channel Monitoring Approach for Cyber-physical Attack Detection in Additive Manufacturing, " *Journal of Intelligent Manufacturing*. (In press) [Link](https://doi.org/10.1007/s10845-021-01879-9)
 
@@ -42,7 +46,10 @@ main_nav: true
 
 * Tootooni, M., Liu, C., Roberson, D., Rao, P., and Kong, Z., 2016, "Online Non-contact Surface Finish Measurement in Machining using Graph-based Image Analysis," *Journal of Manufacturing Systems*, Vol.41, pp.266-2. [Link](https://doi.org/10.1016/j.jmsy.2016.09.007)
 
+### Pre-print articles
 
+* Dogan, A.\*, Li, Y.\*, Odo, C., Sonawane, K., Lin, Y., and Liu, C., 2022, “A Utility-Based Machine Learning-Driven Personalized Lifestyle Recommendation for Cardiovascular Disease Prevention,” *medRxiv*. [Link](https://doi.org/10.1101/2022.02.02.22270339)
+    * ***This work received the 2022 IISE Graduate Research Award (MS student Ayse Dogan)***
 
 ### Conference Papers
 
