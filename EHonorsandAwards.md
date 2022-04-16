@@ -21,3 +21,17 @@ main_nav: true
 * Grado Graduate Teaching Assistant Award, Virginia Tech, 2016
 
 
+### Graduate Students’ Awards
+
+* Ayse Dogan: IISE Graduate Research Award, IISE, 2022
+* Yuxuan Li: Roy & Virgina Dorrough Distinguished Graduate Fellowship, OSU, 2022
+* Yuxuan Li: Best Poster Award, IJCAI-BOOM workshop, 2020
+* Yuxuan Li: QSR Data Challenge Competition Finalist, INFORMS, 2019
+* Zhangyue Shi: Outstanding Graduate Student Award, College of Engineering, Architecture and Technology (CEAT), OSU, 2022
+* Zhangyue Shi: NAMRC 49 / MSEC 2021 NSF Student Support Award, 2021
+* Zhangyue Shi: QSR Data Challenge Competition Finalist, INFORMS, 2019
+
+
+### Undergraduate Students’ Awards 
+* Jackson Baker: 2nd Place Award, 2020 IISE South Central Regional Undergraduate Student Technical Paper Competition
+* Sam Koscelny: 3rd Place Award, 2022 IISE South Central Regional Undergraduate Student Technical Paper Competition 
