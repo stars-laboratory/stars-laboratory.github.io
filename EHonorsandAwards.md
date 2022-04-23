@@ -35,3 +35,4 @@ main_nav: true
 ### Undergraduate Students’ Awards 
 * Jackson Baker: 2nd Place Award, 2020 IISE South Central Regional Undergraduate Student Technical Paper Competition
 * Sam Koscelny: 3rd Place Award, 2022 IISE South Central Regional Undergraduate Student Technical Paper Competition 
+* Andrew Bunting: 2022-23 Wentz Research Award, The Lew Wentz Foundation and the Henry Bellmon Office of Scholar Development and Undergraduate Research
