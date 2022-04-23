@@ -9,7 +9,8 @@ Here are the courses Dr. Liu has taught.
 
 ### Undergraduate Courses
 
-* IEM 3303/MET 3543 (Fall 2019, Fall 2020, Fall 2021, Fall 2022): Manufacturing Processes, Oklahoma State University
+* IEM 3303/MET 3543 (Fall 2019, Fall 2020, Fall 2021): Manufacturing Processes, Oklahoma State University
+    * *Redesigned Undergraduate-level Course* 
 * IEM 3713 (Spring 2021, Spring 2022): Software Programming for Data Analytics, Oklahoma State University
     * *Designed New Undergraduate-level Course* 
 * IEM 4103 (Spring 2021, Spring 2022):  Quality Control and Reliability Analysis, Oklahoma State University
