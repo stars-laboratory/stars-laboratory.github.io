@@ -93,3 +93,13 @@ main_nav: true
 * E-mail: adogan@okstate.edu
 
 * Thesis title: Data-Driven Modeling and Analysis for Cardiovascular Disease Risk Prediction and Reduction
+
+&nbsp;
+
+***
+
+# Undergraduate Students
+
+#### **Jacob O'Hara, 2nd-year undergraduate student** 
+
+* BS, Industrial Engineering and Management, OSU, ongoing 
