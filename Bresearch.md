@@ -17,3 +17,6 @@ The ultimate research goal of STARs Lab is to maximize the value of data in real
 
 ![NIH logo](/assets/NIH_Logo.png "NIH logo")
 
+![OCASCR logo](/assets/OCASCR.png "OCASCR logo")
+
+
