@@ -54,7 +54,7 @@ main_nav: true
 ***
 
 ![Emmanuel]({{ site.baseurl }}/assets/Yangue Emmanuel.jpg){:.profile}
-#### **Emmanuel Yangue, M.S. student**  
+#### **Emmanuel Yangue, M.S. thesis student**  
 
 * Expected to Graduate in Fall 2023
 
@@ -63,6 +63,8 @@ main_nav: true
 * M.A., Applied Economics, University of Houston, Houston, TX
 
 * E-mail: eyangue@okstate.edu
+
+* Thesis topic: AI-enabled Analytics for Smart Engineering Systems 
 
 &nbsp;
 
@@ -77,12 +79,31 @@ main_nav: true
 
 * E-mail: jan.zhang@okstate.edu
 
+* Dissertation topic: Artificial Intelligence for Complex Engineering System
+
+&nbsp;
+
+***
+
+![Boris]({{ site.baseurl }}/assets/Boris.png){:.profile}
+#### **Boris Oskolkov, M.S thesis student**  
+
+* Expected to Graduate in May 2024
+
+* B.S., Instrumentation Technology, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
+
+* M.S., Instrumentation Technology, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
+
+* E-mail: boris.oskolkov@okstate.edu
+
+* Thesis Topic: Data Science for Advanced Manufacturing
+
 &nbsp;
 
 ***
 
 ![Ayse]({{ site.baseurl }}/assets/Ayse.jpeg){:.profile}
-#### **Ayse Dogan, M.S. student**  (Graduated in May 2021)
+#### **Ayse Dogan, M.S. thesis student**  (Graduated in May 2021)
 
 * Current position: PhD Student at University of Illinois at Urbana-Champaign 
 
@@ -98,8 +119,40 @@ main_nav: true
 
 ***
 
-# Undergraduate Students
+# Undergraduate Researcher
 
-#### **Jacob O'Hara, 2nd-year undergraduate student** 
+#### **Jacob O'Hara (Spring 2022 - present)** 
 
-* BS, Industrial Engineering and Management, OSU, ongoing 
+* B.S., Industrial Engineering and Management, OSU, ongoing 
+
+* Project: Toward Early Diabetic Retinopathy Detection Assisted by Data Augmentation-enabled AI
+
+* Supported by OSU CEAT Undergraduate Research Scholarship
+
+&nbsp;
+
+***
+
+#### ** Andrew Bunting (Summer 2022 - present)** 
+
+* B.S., Industrial Engineering and Management, OSU, ongoing 
+
+* Project: Modeling and Simulation to Assist Effective Operation of Amusement Parks During Pandemics
+
+* Supported by Wentz Research Grant
+
+&nbsp;
+
+***
+
+#### **Kent Slater (Fall 2022 - present)** 
+
+* B.S., Industrial Engineering and Management, OSU, ongoing 
+
+* Project:  Intelligent Quality Assurance via Machine Learning 
+
+* Supported by NSF REU Supplement
+
+&nbsp;
+
+***
