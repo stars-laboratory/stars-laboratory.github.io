@@ -18,6 +18,7 @@ Email: chenang.liu@okstate.edu
 
 STARs Lab focuses on the following research directions:
 
-* Sensor fusion and advanced data analytics for smart manufacturing (e.g. additive manufacturing) and healthcare
-* Advanced statistical analysis for real-time quality monitoring and control
-* Machine learning and mathematical modeling for complex systems
+* Sensing, design, and analytics for smart manufacturing (e.g. additive manufacturing) and healthcare
+* Statistical and data-driven analysis for real-time quality monitoring and control
+* Advanced machine learning and mathematical modeling for complex engineering systems
+* Artificial intelligence for engineering applications
