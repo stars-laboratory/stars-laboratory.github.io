@@ -7,6 +7,14 @@ main_nav: true
 
 ### Recent News and Updates
 
+* September 2022: Undergraduate researcher Jacob O'Hara received OSU CEAT Undergraduate Research Scholarship. Congratulations! 
+* September 2022: Boris Oskolkov joined our lab as a new MS thesis student. Welcome!
+* August 2022: Undergraduate student Kent Slater joined our lab as an undergraduate researcher. He will be supported by the NSF REU Supplement Grant. Welcome! 
+* August 2022: PhD student Ziyang Zhang presented his research paper in the IEEE CASE 2022 conference.
+* August 2022: PhD candidate Yuxuan Li presented his research paper in the IEEE CASE 2022 conference.
+* June 2022: Our paper “Hybrid Data-Driven Feature Extraction-Enabled Surface Modeling for Metal Additive Manufacturing” has been accepted by the International Journal of Advanced Manufacturing Technology. 
+* May 2022: STARs Lab participated in an equipment grant from Oklahoma Center for Adult Stem Cell Research (OCASCR) for a project “Establishment of nanoString spatial biology system at OSU”, which is led by the PI Dr. Ashish Ranjan from the College of Veterinary Medicine at OSU. Thanks for the support from OCASCR! 
+* May 2022: Undergraduate student Andrew Bunting joined our lab as an undergraduate researcher. He will be supported by the Wentz Research Award. Welcome!
 * April 2022: PhD student Zhangyue Shi won the 2022 Outstanding Graduate Student Award in the College of Engineering, Architecture and Technology. Congratulations! 
 * April 2022: MS student Ayse Dogan’s thesis work won the 2022 IISE Graduate Research Award. Congratulations! 
 * April 2022: STARs Lab received the REU supplement for the ongoing PFI-TT project. Thanks for the generous support from NSF! Our lab is also looking for qualified undergraduate student to participate in this project. Feel free to contact Dr. Liu at chenang.liu@okstate.edu if you are interested in this project!  
