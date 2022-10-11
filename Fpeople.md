@@ -133,7 +133,7 @@ main_nav: true
 
 ***
 
-#### ** Andrew Bunting (Summer 2022 - present)** 
+#### **Andrew Bunting (Summer 2022 - present)** 
 
 * B.S., Industrial Engineering and Management, OSU, ongoing 
 
