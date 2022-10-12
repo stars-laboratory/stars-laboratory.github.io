@@ -49,6 +49,8 @@ main_nav: true
 
 * Dissertation topic: Advanced Data Analytics-based Quality Assurance for Smart Manufacturing
 
+* Personal website: https://shizhangyue.github.io/
+
 &nbsp;
 
 ***
