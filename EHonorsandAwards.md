@@ -27,6 +27,7 @@ main_nav: true
 * Yuxuan Li: Roy & Virgina Dorrough Distinguished Graduate Fellowship, OSU, 2022
 * Yuxuan Li: Best Poster Award, IJCAI-BOOM workshop, 2020
 * Yuxuan Li: QSR Data Challenge Competition Finalist, INFORMS, 2019
+* Zhangyue Shi: Robberson Summer Research and Creative Activity Fellowship, OSU, 2022
 * Zhangyue Shi: Outstanding Graduate Student Award, College of Engineering, Architecture and Technology (CEAT), OSU, 2022
 * Zhangyue Shi: NAMRC 49 / MSEC 2021 NSF Student Support Award, 2021
 * Zhangyue Shi: QSR Data Challenge Competition Finalist, INFORMS, 2019
