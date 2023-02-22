@@ -11,12 +11,15 @@ main_nav: true
 
 ### Journal Articles
 
-* Li, Y.\*, Shi, Z.\*, Liu, C., Tian, W., Kong, Z., and Williams, C., 2022, "Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection," *IEEE Transactions on Automation Science and Engineering*. (In press) [Link](https://doi.org/10.1109/TASE.2021.3118635)
-    * ***This work is selected as the finalist of the Data Challenge Award, QSR Section, INFORMS, 2019***
-
 * Liu, C., Wang, R., Ho, I., Kong, Z., Williams, C., Babu, S., and Joslin, C., 2022, “Toward Online Surface Morphology Measurement in Additive Manufacturing Using a Deep Learning-based Approach," *Journal of Intelligent Manufacturing*. (In press) [Link](https://doi.org/10.1007/s10845-022-01933-0)
 
-* Shi, Z.\*, Mamun, A., Kan, C., Tian, W., and Liu, C., 2021, "An LSTM-Autoencoder Based Online Side Channel Monitoring Approach for Cyber-physical Attack Detection in Additive Manufacturing," *Journal of Intelligent Manufacturing*. (In press) [Link](https://doi.org/10.1007/s10845-021-01879-9)
+* Shi, Z.\*, Mamun, A., Kan, C., Tian, W., and Liu, C., 2022, "An LSTM-Autoencoder Based Online Side Channel Monitoring Approach for Cyber-physical Attack Detection in Additive Manufacturing," *Journal of Intelligent Manufacturing*. (In press) [Link](https://doi.org/10.1007/s10845-021-01879-9)
+
+* Xiao, P., Shi, Z.\∗, Liu, C., and Darren, D., 2022, “Characteristics of circulating small non-coding RNAs in
+plasma and serum during human aging,” *Aging Medicine* (In Press). [Link](https://doi.org/10.1002/agm2.12241)
+
+* Li, Y.\*, Shi, Z.\*, Liu, C., Tian, W., Kong, Z., and Williams, C., 2022, "Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection," *IEEE Transactions on Automation Science and Engineering*. Vol. 19 (4), pp. 3338-3355 [Link](https://doi.org/10.1109/TASE.2021.3118635)
+    * ***This work is selected as the finalist of the Data Challenge Award, QSR Section, INFORMS, 2019***
 
 * Bappy, M., Liu, C., Bian, L., and Tian, W., 2022, “Morphological Dynamics-based Anomaly Detection towards In-situ Layer-wise Certification for Directed Energy Deposition Processes," *ASME Journal of Manufacturing Science and Engineering*. Vol. 144 (11), pp. 111007 [Link](https://doi.org/10.1115/1.4054805)
 
@@ -52,7 +55,9 @@ main_nav: true
 
 ### Pre-print articles
 
-* Li, Y.\*, Zhao, C., and Liu, C., “Model-Informed Generative Adversarial Network (MI-GAN) for Optimal Power Flow (OPF) Problem," *arXiv*. [Link](https://arxiv.org/abs/2206.01864)
+* Li, Y.\*, Zhao, C., and Liu, C., 2022, “Model-Informed Generative Adversarial Network (MI-GAN) for Optimal Power Flow (OPF) Problem," *arXiv*. [Link](https://arxiv.org/abs/2206.01864)
+
+* Shi, Z.\∗, Li, Y.\∗, and Liu, C., 2022, “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System,” *arXiv*. 
 
 * Li, Y.\*, Lin, Y., and Liu, C., 2022, “A Generative Adversarial Network-based Selective Ensemble Characteristic-to-Expression Synthesis (SE-CTES) Approach and Its Applications in Healthcare," *arXiv*. [Link](https://arxiv.org/abs/2205.14751)
    * ***This work received the Best Poster Award in the 2020 IJCAI BOOM Workshop***
@@ -94,3 +99,7 @@ main_nav: true
 
 * Liu, C., Roberson, D. and Kong, Z., "Textural Analysis-based Online Closed-Loop Quality Control for Additive Manufacturing Process," *IISE Annual Conference*, Pittsburgh, PA, May 20-23, 2017. [Link](https://www.researchgate.net/publication/316171394_Textural_Analysis-based_Online_Closed-Loop_Quality_Control_for_Additive_Manufacturing_Processes)
 
+### Book Chapters
+ 
+* Dou, C., Liu, C., Elkins, D., and Kong, Z., 2022, “Online Monitoring and Control of Polymer Additive
+Manufacturing Processes,” *ASM Handbook* Vol. 24A. (In Press)
