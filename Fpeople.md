@@ -59,7 +59,9 @@ main_nav: true
 ![Emmanuel]({{ site.baseurl }}/assets/Yangue Emmanuel.jpg){:.profile}
 #### **Emmanuel Yangue, M.S. thesis student**  
 
-* Expected to Graduate in Fall 2023
+* Expected to Graduate in Summer 2023
+
+* Will pursue PhD in STARs lab from Fall 2023 
 
 * B.S., Petroleum Engineering (double Major in Economics), University of Louisiana at Lafayette, Lafayette, Louisiana
 
