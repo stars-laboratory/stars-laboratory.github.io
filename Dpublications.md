@@ -15,7 +15,7 @@ main_nav: true
 
 * Shi, Z.\*, Mamun, A., Kan, C., Tian, W., and Liu, C., 2022, "An LSTM-Autoencoder Based Online Side Channel Monitoring Approach for Cyber-physical Attack Detection in Additive Manufacturing," *Journal of Intelligent Manufacturing*. (In press) [Link](https://doi.org/10.1007/s10845-021-01879-9)
 
-* Xiao, P., Shi, Z.\∗, Liu, C., and Darren, D., 2022, “Characteristics of circulating small non-coding RNAs in
+* Xiao, P., Shi, Z.\*, Liu, C., and Darren, D., 2022, “Characteristics of circulating small non-coding RNAs in
 plasma and serum during human aging,” *Aging Medicine* (In Press). [Link](https://doi.org/10.1002/agm2.12241)
 
 * Li, Y.\*, Shi, Z.\*, Liu, C., Tian, W., Kong, Z., and Williams, C., 2022, "Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection," *IEEE Transactions on Automation Science and Engineering*. Vol. 19 (4), pp. 3338-3355 [Link](https://doi.org/10.1109/TASE.2021.3118635)
@@ -57,7 +57,7 @@ plasma and serum during human aging,” *Aging Medicine* (In Press). [Link](http
 
 * Li, Y.\*, Zhao, C., and Liu, C., 2022, “Model-Informed Generative Adversarial Network (MI-GAN) for Optimal Power Flow (OPF) Problem," *arXiv*. [Link](https://arxiv.org/abs/2206.01864)
 
-* Shi, Z.\∗, Li, Y.\∗, and Liu, C., 2022, “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System,” *arXiv*. 
+* Shi, Z.\*, Li, Y.\*, and Liu, C., 2022, “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System,” *arXiv*. 
 
 * Li, Y.\*, Lin, Y., and Liu, C., 2022, “A Generative Adversarial Network-based Selective Ensemble Characteristic-to-Expression Synthesis (SE-CTES) Approach and Its Applications in Healthcare," *arXiv*. [Link](https://arxiv.org/abs/2205.14751)
    * ***This work received the Best Poster Award in the 2020 IJCAI BOOM Workshop***
