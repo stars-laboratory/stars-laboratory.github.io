@@ -7,11 +7,20 @@ main_nav: true
 
 ### Recent News and Updates
 
+* February 2022: STARs Lab received a grant from the Oklahoma Center for the Advancement of Science and Technology (OCAST). STARs Lab will lead a research project entitled “AI-enabled real-time imaging and diagnosis technique for effective drug delivery in solid tumor treatment” sponsored by OCAST. Our team will also collaborate with Dr. Ashish Ranjan’s lab to accomplish this project. Thanks for the generous support from OCAST! 
+* January 2022: MS Thesis student Emmanuel Yangue successfully passed his thesis proposal defense. Congratulations!
+* December 2022: Our papers “Solving Non-linear Optimization Problem in Engineering by Model-Informed Generative Adversarial Network (MI-GAN)” and “Knowledge Distillation-enabled Multi-stage Incremental Learning for Online Process Monitoring in Advanced Manufacturing” have been accepted by the 2022 IEEE International Conference on Data Mining (ICDM) Workshops. 
+* December 2022: Dr. Liu serves as an organizer for the [Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop]( https://sdm23wsmh.github.io/) at the [SDM23 conference](https://www.siam.org/conferences/cm/conference/sdm23). 
+* November 2022: Dr. Liu serves as a Guest Editor for a Special Issue of ASME Journal of Computing and Information Science in Engineering (JCISE). The special issue is on Digitalization and Reverse Engineering for Additive Manufacturing, and the Call for Papers can be found [here](https://www.asme.org/getmedia/3651c562-8b4d-49ce-b0d9-05cf9bba1401/jcise-si-digitalization-and-reverse-engineerin_final.pdf).  
+* November 2022: Dr. Liu gave a seminar in the Department of Industrial Engineering at University of Louisville.
+* October 2022: Dr. Liu serves as a co-chair of Data Analytics and Information Systems (DAIS) track at 2023 IISE Annual Conference & Expo.  
+* October 2022: Our group gave multiple invited talks at INFORMS Annual Meeting, Indianapolis, 2022.  
 * September 2022: Undergraduate researcher Jacob O'Hara received OSU CEAT Undergraduate Research Scholarship. Congratulations! 
 * September 2022: Boris Oskolkov joined our lab as a new MS thesis student. Welcome!
 * August 2022: Undergraduate student Kent Slater joined our lab as an undergraduate researcher. He will be supported by the NSF REU Supplement Grant. Welcome! 
 * August 2022: PhD student Ziyang Zhang presented his research paper in the IEEE CASE 2022 conference.
 * August 2022: PhD candidate Yuxuan Li presented his research paper in the IEEE CASE 2022 conference.
+* June 2022: PhD candidate Zhangyue Shi received the Robberson Summer Research and Creative Activity Fellowship. Congratulations! 
 * June 2022: Our paper “Hybrid Data-Driven Feature Extraction-Enabled Surface Modeling for Metal Additive Manufacturing” has been accepted by the International Journal of Advanced Manufacturing Technology. 
 * May 2022: STARs Lab participated in an equipment grant from Oklahoma Center for Adult Stem Cell Research (OCASCR) for a project “Establishment of nanoString spatial biology system at OSU”, which is led by the PI Dr. Ashish Ranjan from the College of Veterinary Medicine at OSU. Thanks for the support from OCASCR! 
 * May 2022: Undergraduate student Andrew Bunting joined our lab as an undergraduate researcher. He will be supported by the Wentz Research Award. Welcome!
@@ -26,7 +35,7 @@ main_nav: true
 * February 2022: Undergraduate student Sam Koscelny’s paper, mentored by Dr. Liu, won the third place in the IISE Southcentral Regional Undergraduate Technical Paper Competition. Congratulations!
 * January 2022: STARs Lab received a grant from National Science Foundation (NSF). STARs Lab is collaborating with Dr. Yongwei Shan (PI) from the School of Civil & Environmental Engineering at OSU for a research project entitled "PFI-TT: Intelligent quality assurance and integration tool for sewer inspection data" sponsored by NSF. Thanks for the generous support from NSF! 
 * January 2022: PhD Student Yuxuan Li received the Roy & Virgina Dorrough Distinguished Graduate Fellowship. Congratulations! 
-* January 2022: Emmanuel Yangue joined our group as a new MS student. Welcome!
+* January 2022: Emmanuel Yangue joined our group as a new MS thesis student. Welcome!
 * January 2022: Ziyang Zhang joined our group as a new Ph.D. student. Welcome!
 * December 2021: Our Paper “An LSTM-autoencoder based online side channel monitoring approach for cyber-physical attack detection in additive manufacturing” has been accepted by Journal of Intelligence Manufacturing. 
 * December 2021: PhD student Zhangyue Shi successfully passed his dissertation proposal defense. Congratulations! 
