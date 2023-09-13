@@ -7,16 +7,31 @@ main_nav: true
 
 # Publications
 
+[**Google Scholar**](https://scholar.google.com/citations?hl=en&user=f6TYdsUAAAAJ&view_op=list_works&sortby=pubdate) 
+
+[**Researchgate**](https://www.researchgate.net/profile/Chenang-Liu)
+
 "\*" student under my supervision
 
 ### Journal Articles
 
-* Liu, C., Wang, R., Ho, I., Kong, Z., Williams, C., Babu, S., and Joslin, C., 2022, “Toward Online Surface Morphology Measurement in Additive Manufacturing Using a Deep Learning-based Approach," *Journal of Intelligent Manufacturing*. (In press) [Link](https://doi.org/10.1007/s10845-022-01933-0)
+* Li, Y.\*, Shi, Z.\*, and Liu, C., 2023, “Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation,” *IISE Transactions*. (In Press) [Link](https://doi.org/10.1080/24725854.2023.2193257)
 
-* Shi, Z.\*, Mamun, A., Kan, C., Tian, W., and Liu, C., 2022, "An LSTM-Autoencoder Based Online Side Channel Monitoring Approach for Cyber-physical Attack Detection in Additive Manufacturing," *Journal of Intelligent Manufacturing*. (In press) [Link](https://doi.org/10.1007/s10845-021-01879-9)
+* Ha, C., Yao, D., Xu, Z., Liu, C., Liu, H., Elkins, D., Kiles, M., Deshpande, V., Kong, Z., Bauchy, B., and Zheng, X., 2023, “Rapid Inverse Design of Metamaterials based on Prescribed Mechanical Behavior
+through Machine Learning,” *Nature Communications*. (Accepted for Publication)
 
-* Xiao, P., Shi, Z.\*, Liu, C., and Darren, D., 2022, “Characteristics of circulating small non-coding RNAs in
-plasma and serum during human aging,” *Aging Medicine* (In Press). [Link](https://doi.org/10.1002/agm2.12241)
+* Dogan, A.\*, Li, Y.\*, Odo, C., Sonawane, K., Lin, Y., and Liu, C., 2023, “A Utility-Based Machine Learning-Driven Personalized Lifestyle Recommendation for Cardiovascular Disease Prevention,” *Journal of Biomedical Informatics*. Vol. 141, p. 104342 [Link](https://doi.org/10.1016/j.jbi.2023.104342)
+    * ***This work received the 2022 IISE Graduate Research Award (MS student Ayse Dogan)***
+
+* Kosolwattana, T., Liu, C., Hu, R., Han, S., Chen, H., and Lin, Y., 2024, “A Self-inspected Adaptive SMOTE Algorithm (SASMOTE) for Highly Imbalanced Data Classification," *BioData Mining*. Vol. 16 (15) [Link](https://doi.org/10.1186/s13040-023-00330-4)
+
+* Ashar, H., Singh, A., Kishore, D., Neel, T., More S., Liu C., Dugat, D., and Ranjan, A., 2023, “Enabling Chemo-Immunotherapy with HIFU in Canine Cancer Patients,” *Annals of Biomedical Engineering*. [Link](https://doi.org/10.1007/s10439-023-03194-1).  
+
+* Liu, C., Wang, R., Ho, I., Kong, Z., Williams, C., Babu, S., and Joslin, C., 2023, “Toward Online Surface Morphology Measurement in Additive Manufacturing Using a Deep Learning-based Approach," *Journal of Intelligent Manufacturing*. Vol. 34 (6), pp. 2673-2689. [Link](https://doi.org/10.1007/s10845-022-01933-0)
+
+* Shi, Z.\*, Mamun, A., Kan, C., Tian, W., and Liu, C., 2023, "An LSTM-Autoencoder Based Online Side Channel Monitoring Approach for Cyber-physical Attack Detection in Additive Manufacturing," *Journal of Intelligent Manufacturing*. 34, pp. 1815–1831 [Link](https://doi.org/10.1007/s10845-021-01879-9)
+
+* Xiao, P., Shi, Z.\*, Liu, C., and Darren, D., 2022, “Characteristics of circulating small non-coding RNAs in plasma and serum during human aging,” *Aging Medicine*. Vol. 6(1), pp. 35-48 [Link](https://doi.org/10.1002/agm2.12241)
 
 * Li, Y.\*, Shi, Z.\*, Liu, C., Tian, W., Kong, Z., and Williams, C., 2022, "Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection," *IEEE Transactions on Automation Science and Engineering*. Vol. 19 (4), pp. 3338-3355 [Link](https://doi.org/10.1109/TASE.2021.3118635)
     * ***This work is selected as the finalist of the Data Challenge Award, QSR Section, INFORMS, 2019***
@@ -57,27 +72,38 @@ plasma and serum during human aging,” *Aging Medicine* (In Press). [Link](http
 
 * Li, Y.\*, Zhao, C., and Liu, C., 2022, “Model-Informed Generative Adversarial Network (MI-GAN) for Optimal Power Flow (OPF) Problem," *arXiv*. [Link](https://arxiv.org/abs/2206.01864)
 
-* Shi, Z.\*, Li, Y.\*, and Liu, C., 2022, “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System,” *arXiv*. 
+* Shi, Z.\*, Li, Y.\*, and Liu, C., 2022, “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System,” *arXiv*. [Link](https://arxiv.org/abs/2302.01200)
+
+* Li, Y.\*, and Liu, C., 2023, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *arXiv*. [Link](https://arxiv.org/abs/2306.06268)
 
 * Li, Y.\*, Lin, Y., and Liu, C., 2022, “A Generative Adversarial Network-based Selective Ensemble Characteristic-to-Expression Synthesis (SE-CTES) Approach and Its Applications in Healthcare," *arXiv*. [Link](https://arxiv.org/abs/2205.14751)
    * ***This work received the Best Poster Award in the 2020 IJCAI BOOM Workshop***
 
-* Dogan, A.\*, Li, Y.\*, Odo, C., Sonawane, K., Lin, Y., and Liu, C., 2022, “A Utility-Based Machine Learning-Driven Personalized Lifestyle Recommendation for Cardiovascular Disease Prevention,” *medRxiv*. [Link](https://doi.org/10.1101/2022.02.02.22270339)
-    * ***This work received the 2022 IISE Graduate Research Award (MS student Ayse Dogan)***
-
-* Kosolwattana, T., Liu, C., Hu, R., Han, S., and Lin, Y., 2022, “A Self-inspected Adaptive SMOTE Algorithm (SASMOTE) for Highly Imbalanced Data Classification," [Link](https://doi.org/10.21203/rs.3.rs-1647776/v1) 
-
 ### Conference Papers
 
-* Shi, Z.\*, Li, Y.\*, and Liu, C., 2022, “Knowledge Distillation-enabled Multi-stage Incremental Learning for Online Process Monitoring in Advanced Manufacturing," *Proceedings of 2022 IEEE International Conference on Data Mining (ICDM) Workshops*. Accepted.
+* Yangue, E.\*, Ye, Z., Kan, C., and Liu, C., 2023, “Integrated Deep Learning-based Online Layer-wise Surface Prediction of Additive Manufacturing,” *Manufacturing Letters*. Accepted. 
 
-* Li, Y.\*, Zhao, C., and Liu, C., 2022, “Solving Non-linear Optimization Problem in Engineering by Model-Informed Generative Adversarial Network (MI-GAN)," *Proceedings of 2022 IEEE International Conference on Data Mining (ICDM) Workshops*. Accepted.
+* Ye, Z., Liu, C., and Kan, C., 2023, “Stereo Vision enabled Flexible In-situ Process Authentication of Additive Manufacturing,” *Manufacturing Letters*. Accepted. 
 
-* Li, Y.\*, Dogan, A.\*, and Liu, C., 2022, “Ensemble Generative Adversarial Imputation Network with Selective Multi-Generator (ESM-GAIN) for Missing Data Imputation," *Proceedings of 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)*. Accepted.
+* Ray, B., Oskolkov, B.\*, Liu, C., Leblanc, Z., and Tian, W., 2023, “FFF-based Metal and Ceramic Additive Manufacturing: Production Scaleup from a Stream of Variation Analysis Perspective,” *Manufacturing Letters*. Accepted. 
 
-* Zhang, Z.\*, Li, Y.\*, and Liu, C., 2022, “Collaborative Discrimination-Enabled Generative Adversarial Network (CoD-GAN) for the Data Augmentation in Imbalanced Classification," *Proceedings of 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)*. Accepted.
+* O’Hara, J.\*, Li, Y.\*, Zhang, Z.∗, and Liu, C., 2023, “Data-driven Diabetic Retinopathy (DR) Prediction with the Assistance of a Score-based Diffusion Model,” *Proceedings of 2023 IISE Annual Conference*. Accepted. 
 
-* Wang, Z., Liu, C., and Yao, B., 2022, “Multi-Branching Neural Network for Myocardial Infarction Prediction," *Proceedings of 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)*. Accepted.
+* Slater, K.\*, Li, Y.\*, Wang, Y., Shan, Y., and Liu, C., 2023, “A Generative Adversarial Network (GAN)-Assisted Data Quality Monitoring Approach for Out-of-Distribution Detection of High Dimensional Data,” *Proceedings of 2023 IISE Annual Conference*. Accepted. 
+
+* Chen, Y., Chen, J., Liu, C., Liu, G., Ferrari, M., and Sundararajan, A., 2023, “Integrated Modeling and Optimal Operation of Multi-Energy System for Coastal Community,” *Proceedings of the 2023 IEEE International Conference on Electro Information Technology (eIT)*. [Link](https://doi.org/10.1109/eIT57321.2023.10187307)
+
+* Yu, Z., and Liu, C., 2023, “Implementing Application-Driven Data Analytics in Engineering and Engineering Technology Courses With Student Feedback Assessment, ” *Proceedings of the ASME 2023 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference*. Accepted for Publication. 
+
+* Shi, Z.\*, Li, Y.\*, and Liu, C., 2022, “Knowledge Distillation-enabled Multi-stage Incremental Learning for Online Process Monitoring in Advanced Manufacturing," *Proceedings of 2022 IEEE International Conference on Data Mining (ICDM) Workshops*, pp. 860-867. [Link](https://doi.org/10.1109/ICDMW58026.2022.00154)
+
+* Li, Y.\*, Zhao, C., and Liu, C., 2022, “Solving Non-linear Optimization Problem in Engineering by Model-Informed Generative Adversarial Network (MI-GAN)," *Proceedings of 2022 IEEE International Conference on Data Mining (ICDM) Workshops*, pp. 198-205. [Link](https://doi.org/10.1109/ICDMW58026.2022.00035)
+
+* Li, Y.\*, Dogan, A.\*, and Liu, C., 2022, “Ensemble Generative Adversarial Imputation Network with Selective Multi-Generator (ESM-GAIN) for Missing Data Imputation," *Proceedings of 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)*, pp. 807-812. [Link](https://doi.org/10.1109/CASE49997.2022.9926629)
+
+* Zhang, Z.\*, Li, Y.\*, and Liu, C., 2022, “Collaborative Discrimination-Enabled Generative Adversarial Network (CoD-GAN) for the Data Augmentation in Imbalanced Classification," *Proceedings of 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)*, pp. 1510-1515. [Link](https://doi.org/10.1109/CASE49997.2022.9926707)
+
+* Wang, Z., Liu, C., and Yao, B., 2022, “Multi-Branching Neural Network for Myocardial Infarction Prediction," *Proceedings of 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)*, pp. 2118-2123. [Link](https://doi.org/10.1109/CASE49997.2022.9926714)
 
 * Zhou, H., Liu, C., Tian, W., and Kan, C., 2021, "Echo State Network Learning for the Detection of Cyber Attacks in Additive Manufacturing," *Proceedings of 2021 17th IEEE International Conference on Automation Science and Engineering (CASE)*, pp. 177-182. [Link](https://doi.org/10.1109/CASE49439.2021.9551673)
 
@@ -101,5 +127,4 @@ plasma and serum during human aging,” *Aging Medicine* (In Press). [Link](http
 
 ### Book Chapters
  
-* Dou, C., Liu, C., Elkins, D., and Kong, Z., 2022, “Online Monitoring and Control of Polymer Additive
-Manufacturing Processes,” *ASM Handbook* Vol. 24A. (In Press)
+* Dou, C., Elkins, D., Kong, Z., and Liu, C., 2023, “Online Monitoring and Control of Polymer Additive Manufacturing Processes,” *ASM Handbook* Vol. 24A. [Link](https://doi.org/10.31399/asm.hb.v24A.a0006968)
