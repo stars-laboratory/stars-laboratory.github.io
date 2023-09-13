@@ -24,6 +24,11 @@ main_nav: true
 ### Graduate Students’ Awards
 
 * Ayse Dogan: IISE Graduate Research Award, IISE, 2022
+* Emmanuel Yangue: Outstanding Graduate Student Award, College of Engineering, Architecture and Technology (CEAT), OSU, 2023
+* Emmanuel Yangue: Creativity, Innovation, and Entrepreneurship (CIE) Scholars, OSU, 2023
+* Emmanuel Yangue: NSF Student Travel Award, 2023
+* Yuxuan Li: NSF Student Travel Award, 2023
+* Yuxuan Li: Doctoral Phoenix Award, OSU, 2023
 * Yuxuan Li: Roy & Virgina Dorrough Distinguished Graduate Fellowship, OSU, 2022
 * Yuxuan Li: Best Poster Award, IJCAI-BOOM workshop, 2020
 * Yuxuan Li: QSR Data Challenge Competition Finalist, INFORMS, 2019
@@ -34,6 +39,8 @@ main_nav: true
 
 
 ### Undergraduate Students’ Awards 
+* Ethan Patrick O'Connor, 2023-2024 OSU CEAT Undergraduate Research Scholarship
+* Kent Slater: 2nd Place Award, 2023 IISE South Central Regional Undergraduate Student Technical Paper Competition
 * Andrew Bunting: 2022-23 Wentz Research Award, The Lew Wentz Foundation and the Henry Bellmon Office of Scholar Development and Undergraduate Research
 * Jacob O’Hara: 2022-2023 OSU CEAT Undergraduate Research Scholarship
 * Sam Koscelny: 3rd Place Award, 2022 IISE South Central Regional Undergraduate Student Technical Paper Competition 
