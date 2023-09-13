@@ -151,7 +151,7 @@ main_nav: true
 
 # Undergraduate Researcher
 
-### **Ethan Patrick O'Connor (Fall 2023 - present)**
+#### **Ethan Patrick O'Connor (Fall 2023 - present)**
 
 * B.S., Industrial Engineering and Management, OSU, ongoing 
 
@@ -202,6 +202,31 @@ main_nav: true
 &nbsp;
 
 ***
+
+#### **Ashton Parkey (Spring 2023 - present)**
+
+* B.S., Industrial Engineering and Management, OSU, ongoing 
+
+* Project: Ultrasound Image Analysis to Advance Cancer Treatment
+  
+* Supported by OCAST Grant
+
+&nbsp;
+
+***
+
+#### **Zoe Ward (Spring 2023 - present)**
+
+* B.S., Industrial Engineering and Management, OSU, ongoing 
+
+* Project: Ultrasound Image Analysis to Advance Cancer Treatment
+  
+* Supported by OCAST Grant
+
+&nbsp;
+
+***
+
 
 # Group Gallery
 
