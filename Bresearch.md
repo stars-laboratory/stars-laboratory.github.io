@@ -21,4 +21,4 @@ The ultimate research goal of STARs Lab is to maximize the value of data in real
 
 ![OCASCR logo](/assets/OCASCR.png "OCASCR logo")
 
-
+![OSU CEAT logo](/assets/ceat-full-color-hrz-logo.png "OSU CEAT logo")
