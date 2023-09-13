@@ -7,8 +7,8 @@ main_nav: true
 
 ### Recent News and Updates
 
-* February 2022: STARs Lab received a grant from the Oklahoma Center for the Advancement of Science and Technology (OCAST). STARs Lab will lead a research project entitled “AI-enabled real-time imaging and diagnosis technique for effective drug delivery in solid tumor treatment” sponsored by OCAST. Our team will also collaborate with Dr. Ashish Ranjan’s lab to accomplish this project. Thanks for the generous support from OCAST! 
-* January 2022: MS Thesis student Emmanuel Yangue successfully passed his thesis proposal defense. Congratulations!
+* February 2023: STARs Lab received a grant from the Oklahoma Center for the Advancement of Science and Technology (OCAST). STARs Lab will lead a research project entitled “AI-enabled real-time imaging and diagnosis technique for effective drug delivery in solid tumor treatment” sponsored by OCAST. Our team will also collaborate with Dr. Ashish Ranjan’s lab to accomplish this project. Thanks for the generous support from OCAST! 
+* January 2023: MS Thesis student Emmanuel Yangue successfully passed his thesis proposal defense. Congratulations!
 * December 2022: Our papers “Solving Non-linear Optimization Problem in Engineering by Model-Informed Generative Adversarial Network (MI-GAN)” and “Knowledge Distillation-enabled Multi-stage Incremental Learning for Online Process Monitoring in Advanced Manufacturing” have been accepted by the 2022 IEEE International Conference on Data Mining (ICDM) Workshops. 
 * December 2022: Dr. Liu serves as an organizer for the [Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop]( https://sdm23wsmh.github.io/) at the [SDM23 conference](https://www.siam.org/conferences/cm/conference/sdm23). 
 * November 2022: Dr. Liu serves as a Guest Editor for a Special Issue of ASME Journal of Computing and Information Science in Engineering (JCISE). The special issue is on Digitalization and Reverse Engineering for Additive Manufacturing, and the Call for Papers can be found [here](https://www.asme.org/getmedia/3651c562-8b4d-49ce-b0d9-05cf9bba1401/jcise-si-digitalization-and-reverse-engineerin_final.pdf).  
