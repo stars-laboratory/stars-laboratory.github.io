@@ -9,6 +9,7 @@ Here are the courses Dr. Liu has taught.
 
 ### Undergraduate Courses
 
+* IEM 4113 (Fall 2023): Industrial Experimentation, Oklahoma State University
 * IEM 3503 (Fall 2022, co-instructor): Engineering Economic Analysis, Oklahoma State University
 * IEM 3303/MET 3543 (Fall 2019, Fall 2020, Fall 2021): Manufacturing Processes, Oklahoma State University
     * *Redesigned Undergraduate-level Course* 
