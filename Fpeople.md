@@ -49,7 +49,7 @@ main_nav: true
 
 * E-mail: zhshi@okstate.edu
 
-* Dissertation topic: Advanced Data Analytics-based Quality Assurance for Smart Manufacturing
+* Dissertation title: Advanced Data Analytics-based Quality Assurance for Smart Manufacturing
 
 * Personal website: [Link](https://shizhangyue.github.io/)
 
@@ -71,7 +71,7 @@ main_nav: true
 
 * E-mail: eyangue@okstate.edu
 
-* Thesis topic: AI-enabled Analytics for Smart Engineering Systems 
+* Dissertation topic: AI-enabled Analytics for Smart Engineering Systems 
 
 &nbsp;
 
@@ -105,7 +105,7 @@ main_nav: true
 
 * E-mail: boris.oskolkov@okstate.edu
 
-* Thesis Topic: Data Science for Advanced Manufacturing and Medical Systems
+* Dissertation Topic: Data Science for Advanced Manufacturing and Medical Systems
 
 &nbsp;
 
