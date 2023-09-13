@@ -21,27 +21,29 @@ main_nav: true
 
 ***
 
-# Graduate Students
+# Ph.D. Students
 
 ![Yuxuan]({{ site.baseurl }}/assets/yuxuan.jpg){:.profile}
-#### **Yuxuan Li, Ph.D. candidate**  
+#### **Yuxuan Li, Ph.D., minor in Mathematics**  
 
-* Expected to Graduate in Summer 2023
+* Graduated in Summer 2023
 
 * BEc, Economics Statistics, Renmin University of China, China 
 
 * E-mail: yuxuan.li@okstate.edu
 
-* Dissertation topic: Adversarial Learning-Assisted Data Analytics in Manufacturing and Healthcare
+* Dissertation title: Adversarial Learning-Assisted Data Analytics in Manufacturing and Healthcare Systems
 
 &nbsp;
 
 ***
 
 ![Zhangyue]({{ site.baseurl }}/assets/zhangyue.jpeg){:.profile}
-#### **Zhangyue Shi, Ph.D. candidate**  
+#### **Zhangyue Shi, Ph.D., minor in Statistics**  
 
-* Expected to Graduate in Summer 2023
+* Graduated in Summer 2023
+
+* Current Position: Data Scientist at Bayer
 
 * BEng, Mechanical Engineering, Xi'an Jiaotong University, China
 
@@ -57,15 +59,15 @@ main_nav: true
 ***
 
 ![Emmanuel]({{ site.baseurl }}/assets/Yangue Emmanuel.jpg){:.profile}
-#### **Emmanuel Yangue, M.S. thesis student**  
+#### **Emmanuel Yangue, Ph.D. student**  
 
-* Expected to Graduate in Summer 2023
-
-* Will pursue PhD in STARs lab from Fall 2023 
+* Expected to Graduate in Summer 2025
 
 * B.S., Petroleum Engineering (double Major in Economics), University of Louisiana at Lafayette, Lafayette, Louisiana
 
 * M.A., Applied Economics, University of Houston, Houston, TX
+
+* M.S., Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
 
 * E-mail: eyangue@okstate.edu
 
@@ -82,6 +84,8 @@ main_nav: true
 
 * BEng, Mechanical Engineering, Xi'an Jiaotong University, China
 
+* B.S., Business Administration, Xi'an Jiaotong University, China
+
 * E-mail: jan.zhang@okstate.edu
 
 * Dissertation topic: Artificial Intelligence for Complex Engineering System
@@ -91,9 +95,9 @@ main_nav: true
 ***
 
 ![Boris]({{ site.baseurl }}/assets/Boris.png){:.profile}
-#### **Boris Oskolkov, M.S thesis student**  
+#### **Boris Oskolkov, Ph.D. student**  
 
-* Expected to Graduate in May 2024
+* Expected to Graduate in Fall 2025
 
 * B.S., Instrumentation Technology, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
@@ -101,11 +105,31 @@ main_nav: true
 
 * E-mail: boris.oskolkov@okstate.edu
 
-* Thesis Topic: Data Science for Advanced Manufacturing
+* Thesis Topic: Data Science for Advanced Manufacturing and Medical Systems
 
 &nbsp;
 
 ***
+
+# M.S. Thesis Students
+
+![Emmanuel]({{ site.baseurl }}/assets/Yangue Emmanuel.jpg){:.profile}
+#### **Emmanuel Yangue, M.S. thesis student** (Graduated in July 2023) 
+
+* Current position: PhD Student at Oklahoma State University 
+
+* B.S., Petroleum Engineering (double Major in Economics), University of Louisiana at Lafayette, Lafayette, Louisiana
+
+* M.A., Applied Economics, University of Houston, Houston, TX
+
+* E-mail: eyangue@okstate.edu
+
+* Thesis title: Integrated Deep Learning-based Online Layer-wise Surface Predication of Additive Manufacturing
+
+&nbsp;
+
+***
+
 
 ![Ayse]({{ site.baseurl }}/assets/Ayse.jpeg){:.profile}
 #### **Ayse Dogan, M.S. thesis student**  (Graduated in May 2021)
@@ -124,7 +148,21 @@ main_nav: true
 
 ***
 
+
 # Undergraduate Researcher
+
+### **Ethan Patrick O'Connor (Fall 2023 - present)**
+
+* B.S., Industrial Engineering and Management, OSU, ongoing 
+
+* Project: Incorporating Effective Feature Extraction to Advance AI - Assisted Inhalation Therapy for Lung Disease
+  
+* Supported by OSU CEAT Undergraduate Research Scholarship
+
+&nbsp;
+
+***
+
 
 #### **Jacob O'Hara (Spring 2022 - present)** 
 
@@ -138,7 +176,22 @@ main_nav: true
 
 ***
 
-#### **Andrew Bunting (Summer 2022 - present)** 
+
+#### **Kent Slater (Fall 2022 - Spring 2023)** (Graduated in May 2023)
+
+* Current position: Costing Analyst at ArcBest
+
+* B.S., Industrial Engineering and Management, OSU, 2023 
+
+* Project:  Intelligent Quality Assurance via Machine Learning 
+
+* Supported by NSF REU Supplement
+
+&nbsp;
+
+***
+
+#### **Andrew Bunting (Summer 2022 - Spring 2023)** 
 
 * B.S., Industrial Engineering and Management, OSU, ongoing 
 
@@ -150,14 +203,6 @@ main_nav: true
 
 ***
 
-#### **Kent Slater (Fall 2022 - present)** 
+# Group Gallery
 
-* B.S., Industrial Engineering and Management, OSU, ongoing 
-
-* Project:  Intelligent Quality Assurance via Machine Learning 
-
-* Supported by NSF REU Supplement
-
-&nbsp;
-
-***
+To be added
