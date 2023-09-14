@@ -106,7 +106,7 @@ social:
     share: false
 
   - name: Researchgate
-    icon: fa-brands fa-researchgate
+    icon: fa-researchgate
     username: "Chenang Liu"
     url: "https://www.researchgate.net/profile/Chenang-Liu"
     desc: Follow me on Researchgate
