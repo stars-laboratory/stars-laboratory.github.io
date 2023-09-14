@@ -100,16 +100,9 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: ""
-    url: ""
-    desc: Connect with me on LinkedIn
-    share: false
-
-  - name: Researchgate
-    icon: fa-researchgate
     username: "Chenang Liu"
-    url: "https://www.researchgate.net/profile/Chenang-Liu"
-    desc: Follow me on Researchgate
+    url: "https://www.linkedin.com/in/chenang-liu-a7174187/"
+    desc: Connect with me on LinkedIn
     share: false
 
   - name: YouTube
