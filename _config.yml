@@ -105,11 +105,11 @@ social:
     desc: Connect with me on LinkedIn
     share: false
 
-  - name: Google+
-    icon: google-plus
-    username: ""
-    url: ""
-    desc: Add me to your Circles
+  - name: Researchgate
+    icon: researchgate
+    username: "Chenang Liu"
+    url: "https://www.researchgate.net/profile/Chenang-Liu"
+    desc: Follow me on Researchgate
     share: false
 
   - name: YouTube
