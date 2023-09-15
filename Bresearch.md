@@ -13,7 +13,7 @@ The ultimate research goal of STARs Lab is to maximize the value of data in real
 
 # Our Sponsors
 
-<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" width="150">
+![NSF logo](/assets/NSF_Logo.png "NSF logo"){:.acknowledgement}
 
 ![NIH logo](/assets/NIH_Logo.png "NIH logo"){:.acknowledgement}
 
