@@ -177,7 +177,7 @@ pre code.hljs {
     }
   }
   nav {
-    display: table; /* table */
+    /* display: table */
     margin: 0 auto;
     float: none;
     padding: 1.25em 0;
@@ -201,7 +201,7 @@ pre code.hljs {
       padding: 0;
     }
     &.show {
-      display: none; /* table */
+      display: table; /* table */
     }
   }
   // Nav items
