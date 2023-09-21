@@ -177,7 +177,7 @@ pre code.hljs {
     }
   }
   nav {
-    display: table;
+    display: none; /* table */
     margin: 0 auto;
     float: none;
     padding: 1.25em 0;
@@ -188,7 +188,7 @@ pre code.hljs {
   }
   ul.navigation-menu {
     clear: both;
-    display: table;
+    display: none; /* table */
     margin: 0 auto;
     float: middle;
     font-size: 17px;
