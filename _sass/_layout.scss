@@ -177,7 +177,7 @@ pre code.hljs {
     }
   }
   nav {
-    display: none; /* table */
+    display: table; /* table */
     margin: 0 auto;
     float: none;
     padding: 1.25em 0;
@@ -196,12 +196,12 @@ pre code.hljs {
     padding: 0;
     width: 100%;
     @include media ($tablet) {
-      display: table;
+      display: none; /* table */
       margin: 0 auto;
       padding: 0;
     }
     &.show {
-      display: table;
+      display: none; /* table */
     }
   }
   // Nav items
