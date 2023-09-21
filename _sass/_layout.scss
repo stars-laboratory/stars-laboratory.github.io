@@ -192,7 +192,7 @@ pre code.hljs {
     margin: 0 auto;
     float: middle;
     font-size: 17px;
-    overflow: hidden; /* visible */
+    overflow: auto; /* visible; hidden */
     padding: 0;
     width: 100%;
     @include media ($tablet) {
