@@ -196,7 +196,7 @@ pre code.hljs {
     padding: 0;
     width: 100%;
     @include media ($tablet) {
-      display: none; /* table */
+      display: table; /* table */
       margin: 0 auto;
       padding: 0;
     }
