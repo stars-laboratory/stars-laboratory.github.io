@@ -179,7 +179,7 @@ pre code.hljs {
   nav {
     /* display: table */
     margin: 0 auto;
-    float: none;
+    float: center; /* none*/
     padding: 1.25em 0;
     @include media ($tablet) {
       float: center;
