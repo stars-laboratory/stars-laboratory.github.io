@@ -130,7 +130,7 @@ pre code.hljs {
   // Mobile view
   .navigation-menu-button {
     display: block;
-    float: center; /* left*/
+    float: left; /* left*/
     margin: 0 auto;
     font-size: 20px;
     padding-top: 0.5em;
@@ -177,7 +177,7 @@ pre code.hljs {
     }
   }
   nav {
-    /* display: table */
+    display: table; /* may be deleted.*/
     margin: 0 auto;
     float: center; /* none*/
     padding: 1.25em 0;
