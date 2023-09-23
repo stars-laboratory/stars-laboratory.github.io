@@ -49,10 +49,8 @@ main_nav: true
 
 ### Selected Professional Activities
 * Associate Editor, Journal of Intelligent Manufacturing, 2022-present. 
-* Guest Editor, ASME Journal of Computing and Information Science in Engineering, 2022-present. 
-  -	[Call for Papers](https://www.asme.org/getmedia/3651c562-8b4d-49ce-b0d9-05cf9bba1401/JCISE-SI-Digitalization-and-Reverse-Engineerin_Final.pdf)
-* Executive Guest Editor, Journal of Manufacturing Systems, 2023-present. 
-  -	[Call for Papers](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems/about/call-for-papers#advances-in-design-and-quality-improvement-for-cyber-manufacturing)
+* Guest Editor, ASME Journal of Computing and Information Science in Engineering, 2022-present. [Call for Papers](https://www.asme.org/getmedia/3651c562-8b4d-49ce-b0d9-05cf9bba1401/JCISE-SI-Digitalization-and-Reverse-Engineerin_Final.pdf)
+* Executive Guest Editor, Journal of Manufacturing Systems, 2023-present. [Call for Papers](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems/about/call-for-papers#advances-in-design-and-quality-improvement-for-cyber-manufacturing)
 * President-elect, Data Analytics & Information Systems (DAIS) Division, IISE, 2023-2024. 
 * Board of Directors, Data Analytics & Information Systems (DAIS) Division, IISE, 2021-2023. 
 * Board of Directors, Quality Control & Reliability Engineering (QCRE) Division, IISE, 2019-2021.  
