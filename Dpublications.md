@@ -18,7 +18,7 @@ main_nav: true
 * Li, Y.\*, Shi, Z.\*, and Liu, C., 2023, “Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation,” *IISE Transactions*. (In Press) [Link](https://doi.org/10.1080/24725854.2023.2193257)
 
 * Ha, C., Yao, D., Xu, Z., Liu, C., Liu, H., Elkins, D., Kiles, M., Deshpande, V., Kong, Z., Bauchy, B., and Zheng, X., 2023, “Rapid Inverse Design of Metamaterials based on Prescribed Mechanical Behavior
-through Machine Learning,” *Nature Communications*. (Accepted for Publication)
+through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Link](https://doi.org/10.1038/s41467-023-40854-1)
 
 * Dogan, A.\*, Li, Y.\*, Odo, C., Sonawane, K., Lin, Y., and Liu, C., 2023, “A Utility-Based Machine Learning-Driven Personalized Lifestyle Recommendation for Cardiovascular Disease Prevention,” *Journal of Biomedical Informatics*. Vol. 141, p. 104342 [Link](https://doi.org/10.1016/j.jbi.2023.104342)
     * ***This work received the 2022 IISE Graduate Research Award (MS student Ayse Dogan)***
