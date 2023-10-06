@@ -7,6 +7,10 @@ main_nav: true
 
 ### 2023
 
+* September 2023: Our paper “Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems” has been accepted by ASME Journal of Computing and Information Science in Engineering.
+* September 2023: Anastasiia Oskolkova joined our lab as a new MS thesis student. Welcome!
+* September 2023: STARs Lab received a grant from National Institute of Health (NIH). STARs Lab is collaborating with Dr. Tieming Liu (PI) at OSU for a research project entitled “Empowering Cloud Computing for Non-image-based Diabetic Retinopathy Screening by Designing an EHR-oriented Incremental Learning Framework” sponsored by NIH. Thanks for the generous support from NIH!
+* September 2023: Dr. Liu gave a seminar to the Modeling Optimization and Data Science team at ExxonMobil. 
 * September 2023: Undergraduate researcher Ethan O’Connor received OSU CEAT Undergraduate Research Scholarship. Congratulations! 
 * August 2023: Undergraduate student Ethan O’Connor joined our group as an undergraduate researcher. Welcome!
 * August 2023: STARs Lab received a grant from National Science Foundation (NSF). STARs Lab is collaborating with Dr. Yu Feng (PI) from the School of Chemical Engineering at OSU for a research project entitled “PFI-RP: Improving Inhaler Design and Efficacy with a Novel AI-assisted Digital Human Testing Platform” sponsored by NSF. Thanks for the generous support from NSF! 
