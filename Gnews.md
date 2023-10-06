@@ -19,7 +19,7 @@ main_nav: true
 * June 2023: Ph.D. student Ziyang Zhang successfully passed his PhD qualifying exam. Congratulations!
 * June 2023: A book chapter “Online Monitoring and Control of Polymer Additive Manufacturing Processes” that Dr. Liu co-authored has been published in the ASM Handbook. 
 * June 2023: Dr. Liu was invited to give a talk in a mini-symposium at 2023 SIAM Optimization Conference. 
-* May 2023: Ph.D. candidate Yuxuan Li successfully defended his Ph.D. dissertation. Congratulations! 
+* May 2023: Ph.D. candidate Yuxuan Li successfully defended his Ph.D. dissertation. He will join the East China University of Science and Technology as an Assistant Professor. Congratulations! 
 * May 2023: Ph.D. candidate Yuxuan Li presented our research in the 2023 IISE Annual Conference. 
 * May 2023: UG research researchers Jacob O’hara and Kent Slater presented their papers in the 2023 IISE Annual Conference. Their papers have also been accepted for publication in the conference proceedings. Congratulations! 
 * May 2023: Graduate student Emmanuel Yangue successfully defended his MS thesis. Congratulations!
