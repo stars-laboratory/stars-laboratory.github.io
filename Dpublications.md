@@ -15,7 +15,7 @@ main_nav: true
 
 ### Journal Articles
 
-* Shi, Z.∗, Oskolkov, B., Tian, W., Kan, C., and Liu, C., 2023, “Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems,”  *ASME Journal of Computing and Information Science in Engineering*. Accepted for Publication. 
+* Shi, Z.\*, Oskolkov, B.\*, Tian, W., Kan, C., and Liu, C., 2023, “Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems,”  *ASME Journal of Computing and Information Science in Engineering*. Accepted for Publication. 
 
 * Li, Y.\*, Shi, Z.\*, and Liu, C., 2023, “Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation,” *IISE Transactions*. (In Press) [Link](https://doi.org/10.1080/24725854.2023.2193257)
 
