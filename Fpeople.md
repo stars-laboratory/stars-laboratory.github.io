@@ -28,6 +28,8 @@ main_nav: true
 
 * Graduated in Summer 2023
 
+* Current Position: Assistant Professor in the School of Business at East China University of Science and Technology (华东理工大学)
+
 * BEc, Economics Statistics, Renmin University of China, China 
 
 * E-mail: yuxuan.li@okstate.edu
