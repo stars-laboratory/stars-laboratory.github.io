@@ -115,6 +115,23 @@ main_nav: true
 
 # M.S. Thesis Students
 
+![Anastasiia]({{ site.baseurl }}/assets/Anastasiia.jpg){:.profile}
+#### **Anastasiia Oskolkova, M.S. thesis student** 
+
+* Expected to graduated in Summer 2025 
+
+* B.S.(degree with honors), Business and Economics,  Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
+
+* M.S.(degree with honors), High Technology and Economics of Innovation, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
+
+* E-mail: anastasiia.oskolkova@okstate.edu
+
+* Thesis Topics: Efficient Machine Learning for Healthcare Data Analytics 
+
+&nbsp;
+
+***
+
 ![Emmanuel]({{ site.baseurl }}/assets/Yangue Emmanuel.jpg){:.profile}
 #### **Emmanuel Yangue, M.S. thesis student** (Graduated in July 2023) 
 
