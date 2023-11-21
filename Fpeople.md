@@ -60,7 +60,7 @@ main_nav: true
 
 ***
 
-![Emmanuel]({{ site.baseurl }}/assets/Emmanuel_2023.jpg){:.profile}
+![Emmanuel]({{ site.baseurl }}/assets/Emmanuel_2023.JPG){:.profile}
 #### **Emmanuel Yangue, Ph.D. student**  
 
 * Expected to Graduate in Summer 2025
