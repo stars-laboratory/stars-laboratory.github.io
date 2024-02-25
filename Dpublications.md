@@ -15,9 +15,17 @@ main_nav: true
 
 ### Journal Articles
 
-* Shi, Z.\*, Oskolkov, B.\*, Tian, W., Kan, C., and Liu, C., 2023, “Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems,”  *ASME Journal of Computing and Information Science in Engineering*. Accepted for Publication. 
+* Li, Y.\*, Zhao, C., and Liu, C., 2022, “Model-Informed Generative Adversarial Network (MI-GAN) for Optimal Power Flow (OPF) Problem," *IISE Transactions*. (In Press) [Link](https://doi.org/10.1080/24725854.2023.2286507)
+
+* Shi, Z.\*, Li, Y.\*, and Liu, C., 2024, “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System,” *Journal of Intelligent Manufacturing*. (Accpeted for Publication) [ArXiv Link](https://arxiv.org/abs/2302.01200)
+
+* Islam, M., Liu, C., Cai, C., Shah, J., and Fend, Y., 2024, “A User-Centered Smart Inhaler Algorithm for Targeted Drug Delivery in Juvenile Onset Recurrent Respiratory Papillomatosis Treatment Integrating Computational Fluid Particle Dynamics and Machine Learning,” *Physics of Fluids*. Vol 36 (2), pp. 021912. [Link](https://doi.org/10.1063/5.0186786)
+    * ***This work was selected as the ”Editor’s Pick” and featured in the journal’s science highlight***
+    * The [link](https://doi.org/10.1063/10.0025061) of the Journal's Science Highlight (scilight)
 
 * Li, Y.\*, Shi, Z.\*, and Liu, C., 2023, “Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation,” *IISE Transactions*. (In Press) [Link](https://doi.org/10.1080/24725854.2023.2193257)
+
+* Shi, Z.\*, Oskolkov, B.\*, Tian, W., Kan, C., and Liu, C., 2024, “Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems,”  *ASME Journal of Computing and Information Science in Engineering*. Vol. 24(7), pp. 071004. [Link](https://doi.org/10.1115/1.4063859)
 
 * Ha, C., Yao, D., Xu, Z., Liu, C., Liu, H., Elkins, D., Kiles, M., Deshpande, V., Kong, Z., Bauchy, B., and Zheng, X., 2023, “Rapid Inverse Design of Metamaterials based on Prescribed Mechanical Behavior
 through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Link](https://doi.org/10.1038/s41467-023-40854-1)
@@ -70,28 +78,30 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 
 * Tootooni, M., Liu, C., Roberson, D., Rao, P., and Kong, Z., 2016, "Online Non-contact Surface Finish Measurement in Machining using Graph-based Image Analysis," *Journal of Manufacturing Systems*, Vol.41, pp.266-2. [Link](https://doi.org/10.1016/j.jmsy.2016.09.007)
 
+
 ### Pre-print articles
 
-* Li, Y.\*, Zhao, C., and Liu, C., 2022, “Model-Informed Generative Adversarial Network (MI-GAN) for Optimal Power Flow (OPF) Problem," *arXiv*. [Link](https://arxiv.org/abs/2206.01864)
-
-* Shi, Z.\*, Li, Y.\*, and Liu, C., 2022, “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System,” *arXiv*. [Link](https://arxiv.org/abs/2302.01200)
+* Shi, Z., Xie, T., Liu, C., and Li, Y., “Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Additive Manufacturing,” *arXiv*. [Link](https://arxiv.org/abs/2312.02491)
 
 * Li, Y.\*, and Liu, C., 2023, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *arXiv*. [Link](https://arxiv.org/abs/2306.06268)
 
 * Li, Y.\*, Lin, Y., and Liu, C., 2022, “A Generative Adversarial Network-based Selective Ensemble Characteristic-to-Expression Synthesis (SE-CTES) Approach and Its Applications in Healthcare," *arXiv*. [Link](https://arxiv.org/abs/2205.14751)
    * ***This work received the Best Poster Award in the 2020 IJCAI BOOM Workshop***
 
+
 ### Conference Papers
 
-* Yangue, E.\*, Ye, Z., Kan, C., and Liu, C., 2023, “Integrated Deep Learning-based Online Layer-wise Surface Prediction of Additive Manufacturing,” *Manufacturing Letters*. Accepted. 
+* Yangue, E.\*, Ye, Z., Kan, C., and Liu, C., 2023, “Integrated Deep Learning-based Online Layer-wise Surface Prediction of Additive Manufacturing,” *Manufacturing Letters*. Vol. 35, pp. 760-769. [Link](https://doi.org/10.1016/j.mfglet.2023.08.108)
 
-* Ye, Z., Liu, C., and Kan, C., 2023, “Stereo Vision enabled Flexible In-situ Process Authentication of Additive Manufacturing,” *Manufacturing Letters*. Accepted. 
+* Ye, Z., Liu, C., and Kan, C., 2023, “Stereo Vision enabled Flexible In-situ Process Authentication of Additive Manufacturing,” *Manufacturing Letters*. Vol. 35, pp. 1155-1162. [Link](https://doi.org/10.1016/j.mfglet.2023.08.117)
 
-* Ray, B., Oskolkov, B.\*, Liu, C., Leblanc, Z., and Tian, W., 2023, “FFF-based Metal and Ceramic Additive Manufacturing: Production Scaleup from a Stream of Variation Analysis Perspective,” *Manufacturing Letters*. Accepted. 
+* Ray, B., Oskolkov, B.\*, Liu, C., Leblanc, Z., and Tian, W., 2023, “FFF-based Metal and Ceramic Additive Manufacturing: Production Scaleup from a Stream of Variation Analysis Perspective,” *Manufacturing Letters*. Vol. 35, pp. 811-821. [Link](https://doi.org/10.1016/j.mfglet.2023.08.126) 
 
 * O’Hara, J.\*, Li, Y.\*, Zhang, Z.∗, and Liu, C., 2023, “Data-driven Diabetic Retinopathy (DR) Prediction with the Assistance of a Score-based Diffusion Model,” *Proceedings of 2023 IISE Annual Conference*. Accepted. 
+   * ***This work has been selected to present in the 2024 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across the State of Oklahoma (Student: Jacob O’Hara)***
 
 * Slater, K.\*, Li, Y.\*, Wang, Y., Shan, Y., and Liu, C., 2023, “A Generative Adversarial Network (GAN)-Assisted Data Quality Monitoring Approach for Out-of-Distribution Detection of High Dimensional Data,” *Proceedings of 2023 IISE Annual Conference*. Accepted. 
+   * ***This work won the 2nd place award of Undergraduate Student Technical Paper Competition, at the 2023 IISE South Central Regional Conference (Student: Kent Slater)***
 
 * Chen, Y., Chen, J., Liu, C., Liu, G., Ferrari, M., and Sundararajan, A., 2023, “Integrated Modeling and Optimal Operation of Multi-Energy System for Coastal Community,” *Proceedings of the 2023 IEEE International Conference on Electro Information Technology (eIT)*. [Link](https://doi.org/10.1109/eIT57321.2023.10187307)
 
