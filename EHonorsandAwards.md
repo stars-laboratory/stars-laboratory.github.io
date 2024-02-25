@@ -25,7 +25,8 @@ main_nav: true
 
 * Ayse Dogan: IISE Graduate Research Award, IISE, 2022
 * Emmanuel Yangue: Outstanding Graduate Student Award, College of Engineering, Architecture and Technology (CEAT), OSU, 2023
-* Emmanuel Yangue: Creativity, Innovation, and Entrepreneurship (CIE) Scholars, OSU, 2023
+* Emmanuel Yangue: Creativity, Innovation, and Entrepreneurship (CIE) Scholars (Satterfield Family Scholarship), OSU, 2023
+* Emmanuel Yangue: Ken & Lynn Case Endow Scholarship, OSU, 2023
 * Emmanuel Yangue: NSF Student Travel Award, 2023
 * Yuxuan Li: NSF Student Travel Award, 2023
 * Yuxuan Li: Doctoral Phoenix Award, OSU, 2023
