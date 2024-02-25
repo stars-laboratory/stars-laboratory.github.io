@@ -178,7 +178,7 @@ main_nav: true
 
 ***
 
-#### ** Sheridan Sherrer (Fall 2023 - present)**
+#### **Sheridan Sherrer (Fall 2023 - present)**
 
 * B.S., Industrial Engineering and Management, OSU, ongoing 
 
