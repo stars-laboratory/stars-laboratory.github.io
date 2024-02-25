@@ -24,9 +24,7 @@ main_nav: true
 # Ph.D. Students
 
 ![Yuxuan]({{ site.baseurl }}/assets/yuxuan.jpg){:.profile}
-#### **Yuxuan Li, Ph.D., minor in Mathematics**  
-
-* Graduated in Summer 2023
+#### **Yuxuan Li, Ph.D., minor in Mathematics** (Graduated in Summer 2023) 
 
 * Current Position: Assistant Professor in the School of Business at East China University of Science and Technology (华东理工大学)
 
@@ -41,9 +39,7 @@ main_nav: true
 ***
 
 ![Zhangyue]({{ site.baseurl }}/assets/zhangyue.jpeg){:.profile}
-#### **Zhangyue Shi, Ph.D., minor in Statistics**  
-
-* Graduated in Summer 2023
+#### **Zhangyue Shi, Ph.D., minor in Statistics** (Graduated in Summer 2023)  
 
 * Current Position: Data Scientist at Bayer
 
@@ -182,6 +178,17 @@ main_nav: true
 
 ***
 
+#### ** Sheridan Sherrer (Fall 2023 - present)**
+
+* B.S., Industrial Engineering and Management, OSU, ongoing 
+
+* Project: Fairness of Generative Model in Healthcare Application
+  
+* Supported by OSU The Freshman Research Scholars Program
+
+&nbsp;
+
+***
 
 #### **Jacob O'Hara (Spring 2022 - present)** 
 
@@ -202,7 +209,7 @@ main_nav: true
 
 * B.S., Industrial Engineering and Management, OSU, 2023 
 
-* Project:  Intelligent Quality Assurance via Machine Learning 
+* Project: Intelligent Quality Assurance via Machine Learning 
 
 * Supported by NSF REU Supplement
 
@@ -222,7 +229,7 @@ main_nav: true
 
 ***
 
-#### **Ashton Parkey (Spring 2023 - present)**
+#### **Ashton Parkey (Spring 2023)**
 
 * B.S., Industrial Engineering and Management, OSU, ongoing 
 
@@ -234,7 +241,7 @@ main_nav: true
 
 ***
 
-#### **Zoe Ward (Spring 2023 - present)**
+#### **Zoe Ward (Spring 2023)**
 
 * B.S., Industrial Engineering and Management, OSU, ongoing 
 
