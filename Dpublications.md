@@ -15,15 +15,23 @@ main_nav: true
 
 ### Journal Articles
 
-* Li, Y.\*, Zhao, C., and Liu, C., 2022, “Model-Informed Generative Adversarial Network (MI-GAN) for Optimal Power Flow (OPF) Problem," *IISE Transactions*. (In Press) [Link](https://doi.org/10.1080/24725854.2023.2286507)
+* Li, Y.\*, Zhao, C., and Liu, C., 2024, “Model-Informed Generative Adversarial Network (MI-GAN) for Optimal Power Flow (OPF) Problem," *IISE Transactions*. (In Press) [Link](https://doi.org/10.1080/24725854.2023.2286507)
 
-* Shi, Z.\*, Li, Y.\*, and Liu, C., 2024, “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System,” *Journal of Intelligent Manufacturing*. (Accpeted for Publication) [ArXiv Link](https://arxiv.org/abs/2302.01200)
+* Zhang, Z.\*, Li, Y.\*, Liu, T., and Liu, C., 2024, “Data Augmentation-empowered Diabetic Retinopathy Detection Based on Collaborative Discrimination-enabled Generative Adversarial Network,” *Annals of Operations Research*. (In Press) [Link](https://doi.org/10.1007/s10479-024-06147-6)
+
+* Shi, Z.\*, Li, Y.\*, and Liu, C., 2024, “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System,” *Journal of Intelligent Manufacturing*. (In Press) [Link](https://doi.org/10.1007/s10845-024-02348-9) [ArXiv Link](https://arxiv.org/abs/2302.01200)
+
+* Yangue, E.\*, Ranjan, A., Feng, Y., and Liu, C., 2024, “Toward Smart Ultrasound Image Augmentation to Advance Tumor Treatment Monitoring: Exploring the Potential of Diffusion Generative Model,” *ASME Journal of Medical Devices*, Vol. 18(3), pp. 031006. [Link](https://doi.org/10.1115/1.4065905)
+
+* Yangue, E.\*, Fullington, D., Smith, O., Tian, W., and Liu, C., 2024, “Diffusion Generative Model-based Learning for Smart Layer-wise Monitoring of Additive Manufacturing,” *ASME Journal of Computing and Information Science in Engineering*, Vol. 24(6), pp. 060903. [Link](https://doi.org/10.1115/1.4065092)
 
 * Islam, M., Liu, C., Cai, C., Shah, J., and Fend, Y., 2024, “A User-Centered Smart Inhaler Algorithm for Targeted Drug Delivery in Juvenile Onset Recurrent Respiratory Papillomatosis Treatment Integrating Computational Fluid Particle Dynamics and Machine Learning,” *Physics of Fluids*. Vol 36 (2), pp. 021912. [Link](https://doi.org/10.1063/5.0186786)
     * ***This work was selected as the ”Editor’s Pick” and featured in the journal’s science highlight***
     * The [link](https://doi.org/10.1063/10.0025061) of the Journal's Science Highlight (scilight)
 
 * Li, Y.\*, Shi, Z.\*, and Liu, C., 2023, “Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation,” *IISE Transactions*. (In Press) [Link](https://doi.org/10.1080/24725854.2023.2193257)
+
+* Fullington, D., Yangue, E.\*, Bappy, M., Liu, C., and Tian, W., 2024, “Leveraging Small-scale Datasets for Additive Manufacturing: Current Practice and Remaining Gaps,” *Journal of Manufacturing Systems*. Vol. 75, pp. 306-321. [Link](https://doi.org/10.1016/j.jmsy.2024.04.021)
 
 * Shi, Z.\*, Oskolkov, B.\*, Tian, W., Kan, C., and Liu, C., 2024, “Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems,”  *ASME Journal of Computing and Information Science in Engineering*. Vol. 24(7), pp. 071004. [Link](https://doi.org/10.1115/1.4063859)
 
@@ -35,11 +43,11 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 
 * Kosolwattana, T., Liu, C., Hu, R., Han, S., Chen, H., and Lin, Y., 2024, “A Self-inspected Adaptive SMOTE Algorithm (SASMOTE) for Highly Imbalanced Data Classification," *BioData Mining*. Vol. 16 (15) [Link](https://doi.org/10.1186/s13040-023-00330-4)
 
-* Ashar, H., Singh, A., Kishore, D., Neel, T., More S., Liu C., Dugat, D., and Ranjan, A., 2023, “Enabling Chemo-Immunotherapy with HIFU in Canine Cancer Patients,” *Annals of Biomedical Engineering*. [Link](https://doi.org/10.1007/s10439-023-03194-1).  
+* Ashar, H., Singh, A., Kishore, D., Neel, T., More S., Liu C., Dugat, D., and Ranjan, A., 2024, “Enabling Chemo-Immunotherapy with HIFU in Canine Cancer Patients,” *Annals of Biomedical Engineering*. Vol. 52 (7), pp. 1859-1872 [Link](https://doi.org/10.1007/s10439-023-03194-1).  
 
 * Liu, C., Wang, R., Ho, I., Kong, Z., Williams, C., Babu, S., and Joslin, C., 2023, “Toward Online Surface Morphology Measurement in Additive Manufacturing Using a Deep Learning-based Approach," *Journal of Intelligent Manufacturing*. Vol. 34 (6), pp. 2673-2689. [Link](https://doi.org/10.1007/s10845-022-01933-0)
 
-* Shi, Z.\*, Mamun, A., Kan, C., Tian, W., and Liu, C., 2023, "An LSTM-Autoencoder Based Online Side Channel Monitoring Approach for Cyber-physical Attack Detection in Additive Manufacturing," *Journal of Intelligent Manufacturing*. 34, pp. 1815–1831 [Link](https://doi.org/10.1007/s10845-021-01879-9)
+* Shi, Z.\*, Mamun, A., Kan, C., Tian, W., and Liu, C., 2023, "An LSTM-Autoencoder Based Online Side Channel Monitoring Approach for Cyber-physical Attack Detection in Additive Manufacturing," *Journal of Intelligent Manufacturing*. Vol. 34, pp. 1815–1831 [Link](https://doi.org/10.1007/s10845-021-01879-9)
 
 * Xiao, P., Shi, Z.\*, Liu, C., and Darren, D., 2022, “Characteristics of circulating small non-coding RNAs in plasma and serum during human aging,” *Aging Medicine*. Vol. 6(1), pp. 35-48 [Link](https://doi.org/10.1002/agm2.12241)
 
@@ -81,7 +89,11 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 
 ### Pre-print articles
 
-* Shi, Z., Xie, T., Liu, C., and Li, Y., “Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Additive Manufacturing,” *arXiv*. [Link](https://arxiv.org/abs/2312.02491)
+* Saimon, A., Yangue, E.\*, Yue, X., Kong, Z., and Liu, C., 2024, “Advancing Additive Manufacturing through Deep Learning: A Comprehensive Review of Current Progress and Future Challenges,” *arXiv*. [Link](https://arxiv.org/abs/2403.00669)
+
+* Zhao, Y., Li, Y.\*, Liu, C., and Wang, Y., 2024, “ADs: Active Data-sharing for Data Quality Assurance in Advanced Manufacturing Systems,” *arXiv*. [Link](https://arxiv.org/abs/2404.00572)
+
+* Li, Y., Xie, T., Liu, C., and Shi, Z., 2024, “Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Additive Manufacturing,” *arXiv*. [Link](https://arxiv.org/abs/2312.02491)
 
 * Li, Y.\*, and Liu, C., 2023, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *arXiv*. [Link](https://arxiv.org/abs/2306.06268)
 
@@ -90,6 +102,16 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 
 
 ### Conference Papers
+
+* O’Connor, E.\*, Yangue, E.\*, Feng, Y., Wu, H., and Liu, C., 2024, “Towards Personalized Inhalation Therapy by Correlating Chest CT Imaging and Pulmonary Function Test Features Using Machine Learning,” *Proceedings of the 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*. (In press)
+     * ***This work won the 2nd place award of Undergraduate Student Technical Paper Competition, at the 2024 IISE South Central Regional Conference (Student: Ethan O'Connor)***
+   * ***This work has been selected to present in the 2025 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across the State of Oklahoma (Student: Ethan O'Connor)***
+
+* Yangue, E.\*, Li, Y.\*, Ranjan, A., and Liu, C., 2024, “An Adaptive Image Segmentation Approach for Tumor Region Identification in Ultrasound Images,” *Proceedings of the 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*. (In press)
+
+* Oskolkova, A.\*, Oskolkov, B.\*, Liu, T., and Liu, C., 2024, “Cost-saving Data-driven Diabetic Retinopathy Prediction via a Sampling-empowered Incremental Learning Approach,” *Proceedings of the 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*. (In press)
+
+* Yang, Y., Ye, Z., Wang, Y., Liu, C., and Kan, C., 2024, “Recurrence Analysis of 3D Point Clouds for the Detection of Surface Anomalies in Advanced Manufacturing,” *Manufacturing Letters*. Vol. 41, pp. 1499-1506. [Link](https://doi.org/10.1016/j.mfglet.2024.09.176)
 
 * Yangue, E.\*, Ye, Z., Kan, C., and Liu, C., 2023, “Integrated Deep Learning-based Online Layer-wise Surface Prediction of Additive Manufacturing,” *Manufacturing Letters*. Vol. 35, pp. 760-769. [Link](https://doi.org/10.1016/j.mfglet.2023.08.108)
 
