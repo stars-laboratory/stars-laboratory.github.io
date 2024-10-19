@@ -9,7 +9,7 @@ Here are the courses Dr. Liu has taught.
 
 ### Undergraduate Courses
 
-* IEM 4113 (Fall 2023): Industrial Experimentation, Oklahoma State University
+* IEM 4113 (Fall 2023, Fall 2024): Industrial Experimentation, Oklahoma State University
     * *Redesigned Undergraduate-level Course* 
 * IEM 3503 (Fall 2022, co-instructor): Engineering Economic Analysis, Oklahoma State University
 * IEM 3303/MET 3543 (Fall 2019, Fall 2020, Fall 2021): Manufacturing Processes, Oklahoma State University
@@ -28,6 +28,8 @@ Here are the courses Dr. Liu has taught.
 * IEM 6990 (Fall 2022): Artificial Intelligence for Smart Engineering Systems, Oklahoma State University
     * *Designed New Graduate-level Course*
 * IEM 5103 (Spring 2021, Spring 2022, Spring 2023): Breakthrough Quality and Reliability, Oklahoma State University
+    * *Redesigned Graduate-level Course*
+* IEM 5153 (Fall 2024): Process Design and Integration
     * *Redesigned Graduate-level Course*
 * IEM 5103 (Spring 2020): Breakthrough Quality, Oklahoma State University
 * IEM 5350 (Spring 2020): Industrial Engineering Problems (Independent Study), Oklahoma State University
