@@ -122,7 +122,22 @@ main_nav: true
 
 * E-mail: anastasiia.oskolkova@okstate.edu
 
-* Thesis Topics: Efficient Machine Learning for Healthcare Data Analytics 
+* Thesis Topic: Efficient Machine Learning for Healthcare Data Analytics 
+
+&nbsp;
+
+***
+
+![Jacob]({{ site.baseurl }}/assets/Jacob.jpg){:.profile}
+#### **Jacob O'Hara, M.S. thesis student** 
+
+* Expected to graduate in Spring 2025 
+
+* B.S., Industrial Engineering and Management, OSU, 2024 
+
+* E-mail: jaohara@okstate.edu
+
+* Thesis Topic: Toward Early Diabetic Retinopathy Detection Assisted by Data Augmentation-enabled AI
 
 &nbsp;
 
@@ -172,7 +187,7 @@ main_nav: true
 
 * Project: Incorporating Effective Feature Extraction to Advance AI - Assisted Inhalation Therapy for Lung Disease
   
-* Supported by OSU CEAT Undergraduate Research Scholarship
+* Supported by OSU CEAT Undergraduate Research Scholarship, Wentz Research Grant, as well as NSF and OCAST Projects
 
 &nbsp;
 
@@ -190,9 +205,11 @@ main_nav: true
 
 ***
 
-#### **Jacob O'Hara (Spring 2022 - present)** 
+#### **Jacob O'Hara (Spring 2022 - Spring 2024)** (Graduated in May 2024) 
 
-* B.S., Industrial Engineering and Management, OSU, ongoing 
+* Current position: MS Student at Oklahoma State University 
+
+* B.S., Industrial Engineering and Management, OSU, 2024 
 
 * Project: Toward Early Diabetic Retinopathy Detection Assisted by Data Augmentation-enabled AI
 
