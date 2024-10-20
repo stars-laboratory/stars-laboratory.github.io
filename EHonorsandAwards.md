@@ -7,6 +7,7 @@ main_nav: true
 
 ### Selected Awards, Honors and Recognitions
 
+* Young Engineer Award, Computers and Information in Engineering (CIE) Division, ASME, 2024
 * Featured article in ISE Magazine, IISE, 2021
 * Best Poster Award, BOOM Workshop, IJCAI, Virtual, 2020 
 * Data Challenge Competition Finalist, Quality, Statistics & Reliability (QSR) Section, INFORMS, 2019 
@@ -24,6 +25,11 @@ main_nav: true
 ### Graduate Students’ Awards
 
 * Ayse Dogan: IISE Graduate Research Award, IISE, 2022
+* Emmanuel Yangue: Best Poster Award, SIAM SDM24 Doctoral Forum, 2024, SIAM, 2024
+* Emmanuel Yangue: IEEE EMBC NextGen Scholar Award, IEEE EMBS, 2024
+* Emmanuel Yangue: IISE Graduate Research Award, IISE, 2024
+* Emmanuel Yangue: Distinguished Graduate Fellowship, OSU, 2024
+* Emmanuel Yangue: Graduate Research Excellence Award, OSU, 2024
 * Emmanuel Yangue: Outstanding Graduate Student Award, College of Engineering, Architecture and Technology (CEAT), OSU, 2023
 * Emmanuel Yangue: Creativity, Innovation, and Entrepreneurship (CIE) Scholars (Satterfield Family Scholarship), OSU, 2023
 * Emmanuel Yangue: Ken & Lynn Case Endow Scholarship, OSU, 2023
@@ -33,6 +39,7 @@ main_nav: true
 * Yuxuan Li: Roy & Virgina Dorrough Distinguished Graduate Fellowship, OSU, 2022
 * Yuxuan Li: Best Poster Award, IJCAI-BOOM workshop, 2020
 * Yuxuan Li: QSR Data Challenge Competition Finalist, INFORMS, 2019
+* Zhangyue Shi: Graduate Research Excellence Award, OSU, 2024
 * Zhangyue Shi: Robberson Summer Research and Creative Activity Fellowship, OSU, 2022
 * Zhangyue Shi: Outstanding Graduate Student Award, College of Engineering, Architecture and Technology (CEAT), OSU, 2022
 * Zhangyue Shi: NAMRC 49 / MSEC 2021 NSF Student Support Award, 2021
@@ -40,9 +47,14 @@ main_nav: true
 
 
 ### Undergraduate Students’ Awards 
-* Ethan Patrick O'Connor, 2023-2024 OSU CEAT Undergraduate Research Scholarship
+* Ethan Patrick O'Connor: 2024-25 Wentz Research Award, The Lew Wentz Foundation and the Henry Bellmon Office of Scholar Development and Undergraduate Research
+* Ethan Patrick O'Connor: 2nd Place Award, 2024 IISE South Central Regional Undergraduate Student Technical Paper Competition
+* Ethan Patrick O'Connor: Selected to present in the 2025 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across the State of Oklahoma
+* Ethan Patrick O'Connor: 2023-2024 OSU CEAT Undergraduate Research Scholarship
+* Sheridan Sherrer: The Freshman Research Scholars, 2023-2024
 * Kent Slater: 2nd Place Award, 2023 IISE South Central Regional Undergraduate Student Technical Paper Competition
 * Andrew Bunting: 2022-23 Wentz Research Award, The Lew Wentz Foundation and the Henry Bellmon Office of Scholar Development and Undergraduate Research
+* Jacob O’Hara: Selected to present in the 2024 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across the State of Oklahoma
 * Jacob O’Hara: 2022-2023 OSU CEAT Undergraduate Research Scholarship
 * Sam Koscelny: 3rd Place Award, 2022 IISE South Central Regional Undergraduate Student Technical Paper Competition 
 * Jackson Baker: 2nd Place Award, 2020 IISE South Central Regional Undergraduate Student Technical Paper Competition
@@ -52,7 +64,9 @@ main_nav: true
 * Associate Editor, Journal of Intelligent Manufacturing, 2022-present. 
 * Guest Editor, ASME Journal of Computing and Information Science in Engineering, 2022-present. [Call for Papers](https://www.asme.org/getmedia/3651c562-8b4d-49ce-b0d9-05cf9bba1401/JCISE-SI-Digitalization-and-Reverse-Engineerin_Final.pdf)
 * Executive Guest Editor, Journal of Manufacturing Systems, 2023-present. [Call for Papers](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems/about/call-for-papers#advances-in-design-and-quality-improvement-for-cyber-manufacturing)
-* President-elect, Data Analytics & Information Systems (DAIS) Division, IISE, 2023-2024. 
+* President, Data Analytics & Information Systems (DAIS) Division, IISE, 2024-2025. 
+* President-elect, Data Analytics & Information Systems (DAIS) Division, IISE, 2023-2024.
+* Organizer, Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop, SIAM International Conference on Data Mining (SDM), Houston, TX, 2024.  
 * Board of Directors, Data Analytics & Information Systems (DAIS) Division, IISE, 2021-2023. 
 * Board of Directors, Quality Control & Reliability Engineering (QCRE) Division, IISE, 2019-2021.  
 * Track co-chair, DAIS Track, IISE Annual Conference, New Orleans, LA, 2023. 
