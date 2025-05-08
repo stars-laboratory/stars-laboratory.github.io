@@ -21,7 +21,7 @@ main_nav: true
 
 ***
 
-# Ph.D. Students
+# Ph.D. Students & Alumni
 
 ![Yuxuan]({{ site.baseurl }}/assets/yuxuan.jpg){:.profile}
 #### **Yuxuan Li, Ph.D., minor in Mathematics** (Graduated in Summer 2023) 
@@ -109,7 +109,7 @@ main_nav: true
 
 ***
 
-# M.S. Thesis Students
+# M.S. Thesis Students & Alumni
 
 ![Anastasiia]({{ site.baseurl }}/assets/Anastasiia.jpg){:.profile}
 #### **Anastasiia Oskolkova, M.S. Thesis student** 
@@ -179,7 +179,7 @@ main_nav: true
 ***
 
 
-# Undergraduate Researcher
+# Undergraduate Researcher & Alumni
 
 #### **Ethan Patrick O'Connor (Fall 2023 - present)**
 
