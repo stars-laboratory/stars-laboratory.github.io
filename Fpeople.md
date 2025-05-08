@@ -57,9 +57,9 @@ main_nav: true
 ***
 
 ![Emmanuel]({{ site.baseurl }}/assets/Emmanuel_2023.JPG){:.profile}
-#### **Emmanuel Yangue, Ph.D. student**  
+#### **Emmanuel Yangue, Ph.D. Candidate**  
 
-* Expected to Graduate in Summer 2025
+* Expected to Graduate in Spring 2026
 
 * B.S., Petroleum Engineering (double Major in Economics), University of Louisiana at Lafayette, Lafayette, Louisiana
 
@@ -78,7 +78,7 @@ main_nav: true
 ![Ziyang]({{ site.baseurl }}/assets/Ziyang's Photo.jpg){:.profile}
 #### **Ziyang Zhang, Ph.D. student**  
 
-* Expected to Graduate in Summer 2025
+* Expected to Graduate in Spring 2026
 
 * BEng, Mechanical Engineering, Xi'an Jiaotong University, China
 
@@ -95,7 +95,7 @@ main_nav: true
 ![Boris]({{ site.baseurl }}/assets/Boris.png){:.profile}
 #### **Boris Oskolkov, Ph.D. student**  
 
-* Expected to Graduate in Fall 2025
+* Expected to Graduate in Fall 2026
 
 * B.S., Instrumentation Technology, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
@@ -112,7 +112,7 @@ main_nav: true
 # M.S. Thesis Students
 
 ![Anastasiia]({{ site.baseurl }}/assets/Anastasiia.jpg){:.profile}
-#### **Anastasiia Oskolkova, M.S. thesis student** 
+#### **Anastasiia Oskolkova, M.S. Thesis student** 
 
 * Expected to graduated in Summer 2025 
 
@@ -129,22 +129,22 @@ main_nav: true
 ***
 
 ![Jacob]({{ site.baseurl }}/assets/Jacob.jpg){:.profile}
-#### **Jacob O'Hara, M.S. thesis student** 
+#### **Jacob O'Hara, M.S. Thesis** (Graduated in May 2025) 
 
-* Expected to graduate in Spring 2025 
+* Graduate in Spring 2025 
 
 * B.S., Industrial Engineering and Management, OSU, 2024 
 
 * E-mail: jaohara@okstate.edu
 
-* Thesis Topic: Toward Early Diabetic Retinopathy Detection Assisted by Data Augmentation-enabled AI
+* Thesis title: Data-Driven Diabetic Retinopathy (DR) Prediction Model with the Assistance of A Score-Based Diffusion Model
 
 &nbsp;
 
 ***
 
 ![Emmanuel]({{ site.baseurl }}/assets/Yangue Emmanuel.jpg){:.profile}
-#### **Emmanuel Yangue, M.S. thesis student** (Graduated in July 2023) 
+#### **Emmanuel Yangue, M.S. Thesis** (Graduated in July 2023) 
 
 * Current position: PhD Student at Oklahoma State University 
 
@@ -162,7 +162,7 @@ main_nav: true
 
 
 ![Ayse]({{ site.baseurl }}/assets/Ayse.jpeg){:.profile}
-#### **Ayse Dogan, M.S. thesis student**  (Graduated in May 2021)
+#### **Ayse Dogan, M.S. Thesis**  (Graduated in May 2021)
 
 * Current position: PhD Student at University of Illinois at Urbana-Champaign 
 
