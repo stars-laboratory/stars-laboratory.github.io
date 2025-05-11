@@ -7,6 +7,7 @@ main_nav: true
 
 ### Selected Awards, Honors and Recognitions
 
+* IEM Excellent Faculty Researcher Award, OSU IEM, 2025
 * Young Engineer Award, Computers and Information in Engineering (CIE) Division, ASME, 2024
 * Featured article in ISE Magazine, IISE, 2021
 * Best Poster Award, BOOM Workshop, IJCAI, Virtual, 2020 
@@ -25,6 +26,7 @@ main_nav: true
 ### Graduate Students’ Awards
 
 * Ayse Dogan: IISE Graduate Research Award, IISE, 2022
+* Emmanuel Yangue: 1st Place Award, IEM Student Research Symposium, OSU IEM, 2025
 * Emmanuel Yangue: Best Poster Award, SIAM SDM24 Doctoral Forum, 2024, SIAM, 2024
 * Emmanuel Yangue: IEEE EMBC NextGen Scholar Award, IEEE EMBS, 2024
 * Emmanuel Yangue: IISE Graduate Research Award, IISE, 2024
@@ -34,6 +36,7 @@ main_nav: true
 * Emmanuel Yangue: Creativity, Innovation, and Entrepreneurship (CIE) Scholars (Satterfield Family Scholarship), OSU, 2023
 * Emmanuel Yangue: Ken & Lynn Case Endow Scholarship, OSU, 2023
 * Emmanuel Yangue: NSF Student Travel Award, 2023
+* Ziyang Zhang: 3rd Place Award, IEM Student Research Symposium, OSU IEM, 2025
 * Yuxuan Li: NSF Student Travel Award, 2023
 * Yuxuan Li: Doctoral Phoenix Award, OSU, 2023
 * Yuxuan Li: Roy & Virgina Dorrough Distinguished Graduate Fellowship, OSU, 2022
@@ -47,17 +50,20 @@ main_nav: true
 
 
 ### Undergraduate Students’ Awards 
+* Ethan Patrick O'Connor: Grand Prize at the 2025 Research Day at the Capitol, Oklahoma NSF EPSCoR and Oklahoma State Regents for Higher Education, 2025
+* Ethan Patrick O'Connor: IEM Undergraduate Student Leadership Award, OSU IEM, 2025
+* Ethan Patrick O'Connor: 1st Place Award, IEM Student Research Symposium, OSU IEM, 2025
 * Ethan Patrick O'Connor: 2024-25 Wentz Research Award, The Lew Wentz Foundation and the Henry Bellmon Office of Scholar Development and Undergraduate Research
-* Ethan Patrick O'Connor: 2nd Place Award, 2024 IISE South Central Regional Undergraduate Student Technical Paper Competition
-* Ethan Patrick O'Connor: Selected to present in the 2025 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across the State of Oklahoma
+* Ethan Patrick O'Connor: 2nd Place Award, 2024 IISE South Central Regional Undergraduate Student Technical Paper Competition, IISE, 2024
+* Ethan Patrick O'Connor: Selected to present in the 2025 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across Oklahoma
 * Ethan Patrick O'Connor: 2023-2024 OSU CEAT Undergraduate Research Scholarship
-* Sheridan Sherrer: The Freshman Research Scholars, 2023-2024
-* Kent Slater: 2nd Place Award, 2023 IISE South Central Regional Undergraduate Student Technical Paper Competition
+* Sheridan Sherrer: The Freshman Research Scholars, OSU, 2023-2024
+* Kent Slater: 2nd Place Award, 2023 IISE South Central Regional Undergraduate Student Technical Paper Competition, IISE 2023
 * Andrew Bunting: 2022-23 Wentz Research Award, The Lew Wentz Foundation and the Henry Bellmon Office of Scholar Development and Undergraduate Research
-* Jacob O’Hara: Selected to present in the 2024 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across the State of Oklahoma
+* Jacob O’Hara: Selected to present in the 2024 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across Oklahoma
 * Jacob O’Hara: 2022-2023 OSU CEAT Undergraduate Research Scholarship
-* Sam Koscelny: 3rd Place Award, 2022 IISE South Central Regional Undergraduate Student Technical Paper Competition 
-* Jackson Baker: 2nd Place Award, 2020 IISE South Central Regional Undergraduate Student Technical Paper Competition
+* Sam Koscelny: 3rd Place Award, 2022 IISE South Central Regional Undergraduate Student Technical Paper Competition, IISE, 2022 
+* Jackson Baker: 2nd Place Award, 2020 IISE South Central Regional Undergraduate Student Technical Paper Competition, IISE, 2020
 
 
 ### Selected Professional Activities
