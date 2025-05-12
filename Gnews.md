@@ -47,8 +47,8 @@ October 2024: Our paper “Pseudo Replay-based Class Continual Learning for Onli
 * April 2024: Ph.D. student Boris Oskolkov successfully passed his Ph.D. qualifying exam. Congratulations!
 * April 2024: Ph.D. student Emmanuel Yangue present our research at the SIAM International Conference on Data Mining (SDM25) SDM24 and won the Best Poster Award in the Doctoral Forum. Congratulations! 
 * April 2024: Undergraduate researcher Ethan O’Connor received the Wentz Research Award, supporting his research on “Towards Personalized Inhalation Therapy: Furthering Chest CT Image and Pulmonary Function Test * Correlation Using Machine Learning”. Congratulations! 
-* April 24: Dr. Zhangyue Shi, our lab’s recent Ph.D. graduate, received the OSU Research Excellence Award from OSU Graduate College, for his outstanding PhD. dissertation research. Congratulations! 
-* April 24: Ph.D. student Emmanuel Yangue received the OSU Research Excellence Award from OSU Graduate College, for his outstanding MS research in our lab. Congratulations!  
+* April 2024: Dr. Zhangyue Shi, our lab’s recent Ph.D. graduate, received the OSU Research Excellence Award from OSU Graduate College, for his outstanding PhD. dissertation research. Congratulations! 
+* April 2024: Ph.D. student Emmanuel Yangue received the OSU Research Excellence Award from OSU Graduate College, for his outstanding MS research in our lab. Congratulations!  
 * March 2024: Ph.D. student Emmanuel Yangue was selected to participate in the SIAM SDM’24 Doctoral Forum for poster presentation and receive the NSF student travel award for this trip. Congratulations!
 * March 2024: Undergraduate Researcher Jacob O’Hara presented his research poster at the 2024 Research Day at Capitol. This event is to highlight the exceptional undergraduate research going on across the state of Oklahoma.
 * March 2024: Our paper “Diffusion Generative Model-Based Learning for Smart Layer-Wise Monitoring of Additive Manufacturing” has been accepted by the ASME Journal of Computing and Information Science in Engineering (JCISE). 
