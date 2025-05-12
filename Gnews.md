@@ -5,8 +5,29 @@ permalink: /news/
 main_nav: true
 ---
 
+## STARs Lab News and Updates
+
+### 2025
+
+#### Spring
+
+
+### 2024
+
+#### Fall
+
+#### Summer
+
+#### Spring
+
+
 ### 2023
 
+#### Fall
+
+* November 2023: Undergraduate student Sheridan Sherrer joined our group as an undergraduate researcher. Welcome!
+* November 2023: Our paper “Model-Informed Generative Adversarial Network (MI-GAN) for Learning Optimal Power Flow” has been accepted by IISE Transactions. 
+* October 2023: Our group gave multiple invited talks at INFORMS Annual Meeting, Phoenix, AZ, 2023. 
 * September 2023: Our paper “Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems” has been accepted by ASME Journal of Computing and Information Science in Engineering.
 * September 2023: Anastasiia Oskolkova joined our lab as a new MS thesis student. Welcome!
 * September 2023: STARs Lab received a grant from National Institute of Health (NIH). STARs Lab is collaborating with Dr. Tieming Liu (PI) at OSU for a research project entitled “Empowering Cloud Computing for Non-image-based Diabetic Retinopathy Screening by Designing an EHR-oriented Incremental Learning Framework” sponsored by NIH. Thanks for the generous support from NIH!
@@ -17,6 +38,9 @@ main_nav: true
 * August 2023: Dr. Liu serves as an Executive Guest Editor for a Special Issue of the Journal of Manufacturing Systems. The special issue is on Advances in Design and Quality Improvement for Cyber Manufacturing, and the Call for Papers can be found [here](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems/about/call-for-papers). 
 * August 2023: Ph.D. student Emmanuel Yangue was selected as Creativity, Innovation, and Entrepreneurship (CIE) Scholars. Congratulations! 
 * August 2023: Graduate student Boris was admitted by our OSU IEM PhD program, and he will become a Ph.D. student in our lab. Welcome! 
+
+#### Summer
+
 * July 2023: STARs Lab received a grant from our College of Engineering, Architecture and Technology. STARs Lab will lead a research project entitled “Physics-aware AI empowered rapid medication design with prescribed deposition behavior” sponsored by the Engineering Research and Seed Funding (ERSF) Program. Our team will also collaborate with Dr. Yu Feng’s lab to accomplish this project. Thanks for the generous support from our college! 
 * June 2023: Our group gave multiple presentations at MSEC/NAMRC conference. Ph.D. student Emmanuel’s trip is partially supported by the NSF student travel award.
 * June 2023: Ph.D. candidate Zhangyue Shi successfully defended his Ph.D. dissertation. He will join Bayer as a Data Scientist. Congratulations! 
@@ -25,7 +49,10 @@ main_nav: true
 * June 2023: Dr. Liu was invited to give a talk in a mini-symposium at 2023 SIAM Optimization Conference. 
 * May 2023: Ph.D. candidate Yuxuan Li successfully defended his Ph.D. dissertation. He will join the East China University of Science and Technology as an Assistant Professor. Congratulations! 
 * May 2023: Ph.D. candidate Yuxuan Li presented our research in the 2023 IISE Annual Conference. 
-* May 2023: UG research researchers Jacob O’hara and Kent Slater presented their papers in the 2023 IISE Annual Conference. Their papers have also been accepted for publication in the conference proceedings. Congratulations! 
+* May 2023: UG research researchers Jacob O’hara and Kent Slater presented their papers in the 2023 IISE Annual Conference. Their papers have also been accepted for publication in the conference proceedings. Congratulations!
+
+#### Spring
+
 * May 2023: Graduate student Emmanuel Yangue successfully defended his MS thesis. Congratulations!
 * April 2023: Ph.D. candidate Yuxuan Li won the prestigious OSU Doctoral Phoenix Award. Congratulations! 
 * April 2023: Ph.D. candidate Yuxuan Li was selected to participate in the SDM’23 Doctoral Forum for poster presentation and receive the NSF student travel award. Congratulations! 
@@ -42,6 +69,8 @@ main_nav: true
 
 ### 2022
 
+#### Fall
+
 * December 2022: Our papers “Solving Non-linear Optimization Problem in Engineering by Model-Informed Generative Adversarial Network (MI-GAN)” and “Knowledge Distillation-enabled Multi-stage Incremental Learning for Online Process Monitoring in Advanced Manufacturing” have been accepted by the 2022 IEEE International Conference on Data Mining (ICDM) Workshops. 
 * December 2022: Dr. Liu serves as an organizer for the [Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop]( https://sdm23wsmh.github.io/) at the [SDM23 conference](https://www.siam.org/conferences/cm/conference/sdm23). 
 * November 2022: Dr. Liu serves as a Guest Editor for a Special Issue of ASME Journal of Computing and Information Science in Engineering (JCISE). The special issue is on Digitalization and Reverse Engineering for Additive Manufacturing, and the Call for Papers can be found [here](https://www.asme.org/getmedia/3651c562-8b4d-49ce-b0d9-05cf9bba1401/jcise-si-digitalization-and-reverse-engineerin_final.pdf).  
@@ -51,11 +80,17 @@ main_nav: true
 * September 2022: Undergraduate researcher Jacob O'Hara received OSU CEAT Undergraduate Research Scholarship. Congratulations! 
 * September 2022: Boris Oskolkov joined our lab as a new MS thesis student. Welcome!
 * August 2022: Undergraduate student Kent Slater joined our lab as an undergraduate researcher. He will be supported by the NSF REU Supplement Grant. Welcome! 
+
+#### Summer
+
 * August 2022: PhD student Ziyang Zhang presented his research paper in the IEEE CASE 2022 conference.
 * August 2022: PhD candidate Yuxuan Li presented his research paper in the IEEE CASE 2022 conference.
 * June 2022: PhD candidate Zhangyue Shi received the Robberson Summer Research and Creative Activity Fellowship. Congratulations! 
 * June 2022: Our paper “Hybrid Data-Driven Feature Extraction-Enabled Surface Modeling for Metal Additive Manufacturing” has been accepted by the International Journal of Advanced Manufacturing Technology. 
 * May 2022: STARs Lab participated in an equipment grant from Oklahoma Center for Adult Stem Cell Research (OCASCR) for a project “Establishment of nanoString spatial biology system at OSU”, which is led by the PI Dr. Ashish Ranjan from the College of Veterinary Medicine at OSU. Thanks for the support from OCASCR! 
+
+#### Spring
+
 * May 2022: Undergraduate student Andrew Bunting joined our lab as an undergraduate researcher. He will be supported by the Wentz Research Award. Welcome!
 * April 2022: PhD student Zhangyue Shi won the 2022 Outstanding Graduate Student Award in the College of Engineering, Architecture and Technology. Congratulations! 
 * April 2022: MS student Ayse Dogan’s thesis work won the 2022 IISE Graduate Research Award. Congratulations! 
@@ -73,6 +108,8 @@ main_nav: true
 
 ### 2021
 
+#### Fall
+
 * December 2021: Our Paper “An LSTM-autoencoder based online side channel monitoring approach for cyber-physical attack detection in additive manufacturing” has been accepted by Journal of Intelligence Manufacturing. 
 * December 2021: PhD student Zhangyue Shi successfully passed his dissertation proposal defense. Congratulations! 
 * November 2021: Our paper “A Multilayer Network-Enabled Ultrasonic Image Series Analysis Approach for Online Cancer Drug Delivery Monitoring” has been accepted by Computer Methods and Programs in Biomedicine. 
@@ -83,9 +120,15 @@ main_nav: true
 * October 2021: PhD student Zhangyue Shi gave a seminar in the Department of Industrial and Manufacturing Engineering at North Dakota State University. 
 * October 2021: Dr. Liu gave a seminar in the Department of Industrial, Systems and Manufacturing Engineering at Wichita State University.
 * August 2021: Dr. Liu gave a seminar in the Department of Statistics at Auburn University.
+
+#### Summer
+
 * August 2021: PhD student Zhangyue Shi presented his research works in the IDETC/CIE 2021 conference. He is partially supported by the student stipends from the ASME CIE division. 
 * June 2021: PhD student Zhangyue Shi presented his research works in the NAMRC49/MSEC2021 conference. He is supported by the NSF-Sponsored Student Support Award. 
 * May 2021: PhD student Yuxuan Li and Zhangyue successfully passed their PhD qualifying exam. Congratulations! 
+
+#### Spring
+
 * April 2021: Master student Ayse Dogan successfully defended her MS thesis. Congratulations! 
 * April 2021: Dr. Liu was elected as a board director in data analytics and information systems (DAIS) division of IISE. 
 * March 2021: Dr. Liu gave a seminar in the Department of Industrial and Manufacturing Engineering at North Dakota State University. 
@@ -93,13 +136,20 @@ main_nav: true
 
 ### 2020
 
+#### Fall
+
 * November 2020: Our group gave multiple invited talks at 2020 Virtual INFORMS Annual Meeting. 
 * October 2020: Our paper "A Blockchain-based G-code Protection Approach for Cyber-Physical Security in Additive Manufacturing" has been accepted by ASME Journal of Computing and Information Science in Engineering. 
-* October 2020: Our paper "An Integrated Manifold Learning Approach for High Dimensional Data Feature Extractions and its Applications to Online Process Monitoring of Additive Manufacturing" has been accepted by IISE Transactions. 
+* October 2020: Our paper "An Integrated Manifold Learning Approach for High Dimensional Data Feature Extractions and its Applications to Online Process Monitoring of Additive Manufacturing" has been accepted by IISE Transactions.
+
+#### Spring
+
 * March 2020: Undergraduate student Jackson Baker's paper, mentored by Dr. Liu, won the second place in the 2020 IISE Southcentral Regional Undergraduate Technical Paper Competition. Congratulations! 
 * March 2020: Dr. Liu gave a seminar in the Department of Statistics at Oklahoma State University. 
 
 ### 2019
+
+#### Fall
 
 * December 2019: The senior design team mentored by Dr. Liu won the IEM senior design poster competition. Congratulations! 
 * October 2019: Our group gave multiple invited talks at INFORMS Annual Meeting, Seattle, 2019.  
