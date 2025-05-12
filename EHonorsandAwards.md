@@ -53,9 +53,9 @@ main_nav: true
 * Ethan Patrick O'Connor: Grand Prize at the 2025 Research Day at the Capitol, Oklahoma NSF EPSCoR and Oklahoma State Regents for Higher Education, 2025
 * Ethan Patrick O'Connor: IEM Undergraduate Student Leadership Award, OSU IEM, 2025
 * Ethan Patrick O'Connor: 1st Place Award, IEM Student Research Symposium, OSU IEM, 2025
-* Ethan Patrick O'Connor: 2024-25 Wentz Research Award, The Lew Wentz Foundation and the Henry Bellmon Office of Scholar Development and Undergraduate Research
-* Ethan Patrick O'Connor: 2nd Place Award, 2024 IISE South Central Regional Undergraduate Student Technical Paper Competition, IISE, 2024
-* Ethan Patrick O'Connor: Selected to present in the 2025 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across Oklahoma
+* Ethan Patrick O'Connor: 2024-25 Wentz Research Award, The Lew Wentz Foundation and the Henry Bellmon Office of Scholar Development and Undergraduate Research, 2024
+* Ethan Patrick O'Connor: 1st Place Award (UG category), IEM Student Research Symposium, OSU IEM, 2024
+* Ethan Patrick O'Connor: 2nd Place Award, 2024 IISE South Central Regional Undergraduate Student Technical Paper Competition, IISE, 2024 <!-- * Ethan Patrick O'Connor: Selected to present in the 2025 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across Oklahoma -->
 * Ethan Patrick O'Connor: 2023-2024 OSU CEAT Undergraduate Research Scholarship
 * Sheridan Sherrer: The Freshman Research Scholars, OSU, 2023-2024
 * Kent Slater: 2nd Place Award, 2023 IISE South Central Regional Undergraduate Student Technical Paper Competition, IISE 2023
