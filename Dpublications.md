@@ -7,15 +7,15 @@ main_nav: true
 
 # Publications
 
-[**Google Scholar**](https://scholar.google.com/citations?hl=en&user=f6TYdsUAAAAJ&view_op=list_works&sortby=pubdate) 
+Dr. Liu's [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=f6TYdsUAAAAJ&view_op=list_works&sortby=pubdate) 
 
-[**Researchgate**](https://www.researchgate.net/profile/Chenang-Liu)
+Dr. Liu's [**Researchgate**](https://www.researchgate.net/profile/Chenang-Liu)
 
 "\*" Student in STARs Lab under Dr. Liu's supervision
 
 ### Journal Articles
 
-1. Li, Y.\*, and Liu, C., 2025, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *IISE Transactions* (Accepted for Pbulication). [Link](https://arxiv.org/abs/2306.06268)
+1. Li, Y.\*, and Liu, C., 2025, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *IISE Transactions* (Accepted for Publication). [Link](https://arxiv.org/abs/2306.06268)
 
 1. Zhao, Y., Li, Y.\*, Liu, C., and Wang, Y., 2025, “ADs: Active Data-sharing for Data Quality Assurance in Advanced Manufacturing Systems,” *IEEE Transactions on Automation Science and Engineering* (Accepted for Publication). [Link](https://arxiv.org/abs/2404.00572)
 
