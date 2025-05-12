@@ -9,7 +9,8 @@ main_nav: true
 
 * IEM Excellent Faculty Researcher Award, OSU IEM, 2025
 * Young Engineer Award, Computers and Information in Engineering (CIE) Division, ASME, 2024
-* Featured article in ISE Magazine, IISE, 2021
+* Editor’s Pick and Featured Article, Physics of Fluids, American Institute of Physics (AIP), 2024
+* Featured Article in ISE Magazine, IISE, 2021
 * Best Poster Award, BOOM Workshop, IJCAI, Virtual, 2020 
 * Data Challenge Competition Finalist, Quality, Statistics & Reliability (QSR) Section, INFORMS, 2019 
 * Featured article in ISE Magazine, IISE, 2019
