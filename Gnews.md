@@ -11,24 +11,62 @@ main_nav: true
 
 #### Spring
 
+* May 2025: STARs lab members received multiple honors and awards in the IEM 2025 Award Banquet. Congratulations!  
+* April 2025: Our collaborative research “ADs: Active Data-selection for Data Quality Assurance in Data-sharing over Advanced Manufacturing Systems”, led by Dr. Yinan Wang’s research team in the Department of Industrial and Systems Engineering at Rensselaer Polytechnic Institute (RPI), has been accepted by the IEEE Transactions on Automation Science and Engineering (TASE). 
+* April 2025: Undergraduate Researcher Ethan O'Connor presented his research in the 2025 Research Day at the Capitol, and his research won the Grand Prize Award, which is the top honor of this prestigious event sponsored by Oklahoma State Regents for Higher Education, OK EPSCoR, and the National Science Foundation. Congratulations!  
+* March 2025: MS thesis student Jacob O'Hara successfully defended his MS thesis and will graduate in this May. Congratulations! 
+* February 2025: PhD student Emmanuel Yangue successfully passed his Ph.D. dissertation proposal defense. Congratulations! 
+* February 2025: Our paper “A Generative Adversarial Network-based Selective Ensemble Characteristic-to-Expression Synthesis (SE-CTES) Approach and Its Applications in Healthcare” has been accepted by Annals of Operations Research. 
+* January 2025: Our paper “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System” has been accepted by IISE Transactions. 
 
 ### 2024
 
 #### Fall
+* December 2024: Our paper “Incremental Machine Learning-integrated Blockchain for Real-time Security Protection in Cyber-enabled Manufacturing Systems” has been accepted by the ASME Journal of Computing and Information Science in Engineering (JCISE).
+* December 2024: Dr. Liu serves as an organizer for the [Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop](https://ds2mh.github.io/dssmh25/) at the SIAM SDM25 conference in Alexandria, VA.
+* November 2024: Our paper “Advancing Additive Manufacturing through Deep Learning: A Comprehensive Review of Current Progress and Future Challenges” has been accepted by IISE Transactions.  
+October 2024: Our paper “Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Advanced Manufacturing” has been accepted by IISE Transactions. This work is led by our lab’s recent PhD graduates Dr. Yuxuan Li and Dr. Zhangyue Shi. Congratulations!  
+* October 2024: Our group gave multiple invited talks at INFORMS Annual Meeting, Seattle, WA, 2024.  
+* September 2024: STARs Lab received a grant from National Science Foundation (NSF). STARs Lab is collaborating with Dr. Yu Feng (PI) from the School of Chemical Engineering at OSU for a research project entitled “SCH: AI-Enhanced Risk Assessment for Mitigating Indoor Viral Transmission in Public Schools” sponsored by NSF. Thanks for the generous support from NSF!
+* September 2024: STARs Lab received a grant from the US Food and Drug Administration (FDA). STARs Lab is collaborating with Dr. Yu Feng (Lead PI) from the School of Chemical Engineering at OSU for a research project entitled “ML-CFD-DEM Based Reduced Order Models (ROM) to Quantify Variability in Inhalers, Drugs, and Users for Evaluating Comparability of Generic OIDP Complex Products” sponsored by FDA. Thanks for the generous support from FDA!
+* August 2024: Dr. Liu received the 2024 Young Engineer Award from the ASME Computers and Information in Engineering Division (CIE). This award is to recognize a promising young investigator who is making outstanding contributions to the progress in the application of computers in engineering.
+* August 2024: Ph.D. student Emmanuel Yangue won the OSU Foundation Distinguished Graduate Fellowship Distinguished Graduate Fellowship from OSU Graduate College. Congratulations! 
+* August 2024: Graduate student Jacob O’Hara, who was an undergraduate researcher in our lab, continues his journey in our lab as an MS thesis student. Welcome!
+
 
 #### Summer
+* July 2024: Undergraduate Researcher Ethan O’Connor has been nominated by OSU to participate in the undergraduate research competition at the 2025 Research Day at the Capitol. Congratulations!  
+* July 2024: Our paper “Toward Smart Ultrasound Image Augmentation to Advance Tumor Treatment Monitoring: Exploring the Potential of Diffusion Generative Model” has been accepted by the ASME Journal of Medical Devices. 
+* July 2024: Undergraduate researcher Ethan O’Connor, as well as graduate students Emmanuel Yangue and Boris Oskolkov presented their papers in the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2024), in Orlando, FL. Their papers have also been accepted for publication in the conference proceedings. Congratulations! 
+* July 2024: Our paper “Data Augmentation-empowered Diabetic Retinopathy Detection Based on Collaborative Discrimination-enabled Generative Adversarial Network” has been accepted by Annals of Operations Research. 
+* May 2024: Ph.D. student Emmanuel Yangue is selected for the IEEE EMBC NextGen Scholar Award to support his attendance of EMBC 2025 conference in July. Congratulations! 
 
 #### Spring
-
+* May 2024: Ph.D. student Emmanuel Yangue presented our research in the 2024 IISE Annual Conference in Montreal, Canada.  
+* May 2024: Ph.D. student Emmanuel Yangue’s MS thesis research won the 2024 IISE Graduate Research Award. Congratulations! 
+* April 2024: Ph.D. student Boris Oskolkov successfully passed his Ph.D. qualifying exam. Congratulations!
+* April 2024: Ph.D. student Emmanuel Yangue present our research at the SIAM International Conference on Data Mining (SDM25) SDM24 and won the Best Poster Award in the Doctoral Forum. Congratulations! 
+* April 2024: Undergraduate researcher Ethan O’Connor received the Wentz Research Award, supporting his research on “Towards Personalized Inhalation Therapy: Furthering Chest CT Image and Pulmonary Function Test * Correlation Using Machine Learning”. Congratulations! 
+* April 24: Dr. Zhangyue Shi, our lab’s recent Ph.D. graduate, received the OSU Research Excellence Award from OSU Graduate College, for his outstanding PhD. dissertation research. Congratulations! 
+* April 24: Ph.D. student Emmanuel Yangue received the OSU Research Excellence Award from OSU Graduate College, for his outstanding MS research in our lab. Congratulations!  
+* March 2024: Ph.D. student Emmanuel Yangue was selected to participate in the SIAM SDM’24 Doctoral Forum for poster presentation and receive the NSF student travel award for this trip. Congratulations!
+* March 2024: Undergraduate Researcher Jacob O’Hara presented his research poster at the 2024 Research Day at Capitol. This event is to highlight the exceptional undergraduate research going on across the state of Oklahoma.
+* March 2024: Our paper “Diffusion Generative Model-Based Learning for Smart Layer-Wise Monitoring of Additive Manufacturing” has been accepted by the ASME Journal of Computing and Information Science in Engineering (JCISE). 
+* March 2024: Undergraduate researcher Ethan O’Connor’s paper “Towards Personalized Inhalation Therapy by Correlating Chest CT Imaging and Pulmonary Function Test Features Using Machine Learning”, won the second place in the 2024 IISE Southcentral Regional Undergraduate Technical Paper Competition. Congratulations!
+* February 2024: Our collaborative research “A User-Centered Smart Inhaler Algorithm for Targeted Drug Delivery in Juvenile Onset Recurrent Respiratory Papillomatosis Treatment Integrating Computational Fluid Particle Dynamics and Machine Learning”, led by Dr. Yu Feng’s lab in the School of Chemical Engineering at OSU, has been published in the Physics of Fluids. This work is also selected as the Editor’s Pick and Featured in this journal’s science highlight. 
+* February 2024: Our paper “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System” has been accepted by the Journal of Intelligent Manufacturing. 
+* January 2024: Ph.D. student Emmanuel Yangue successfully passed his Ph.D. qualifying exam. Congratulations!
 
 ### 2023
 
 #### Fall
 
+* December 2023: Dr. Liu serves as an organizer for the [Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop](https://dssmh.github.io/) at the SIAM SDM24 conference in Houston, TX.
 * November 2023: Undergraduate student Sheridan Sherrer joined our group as an undergraduate researcher. Welcome!
-* November 2023: Our paper “Model-Informed Generative Adversarial Network (MI-GAN) for Learning Optimal Power Flow” has been accepted by IISE Transactions. 
+* November 2023: Our paper “Model-Informed Generative Adversarial Network (MI-GAN) for Learning Optimal Power Flow” has been accepted by IISE Transactions.
+* November 2023: Undergraduate Researcher Jacob O'Hara is selected as a finalist to present his research in the 2024 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across the state of Oklahoma. Congratulations! 
 * October 2023: Our group gave multiple invited talks at INFORMS Annual Meeting, Phoenix, AZ, 2023. 
-* September 2023: Our paper “Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems” has been accepted by ASME Journal of Computing and Information Science in Engineering.
+* September 2023: Our paper “Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems” has been accepted by the ASME Journal of Computing and Information Science in Engineering (JCISE).
 * September 2023: Anastasiia Oskolkova joined our lab as a new MS thesis student. Welcome!
 * September 2023: STARs Lab received a grant from National Institute of Health (NIH). STARs Lab is collaborating with Dr. Tieming Liu (PI) at OSU for a research project entitled “Empowering Cloud Computing for Non-image-based Diabetic Retinopathy Screening by Designing an EHR-oriented Incremental Learning Framework” sponsored by NIH. Thanks for the generous support from NIH!
 * September 2023: Dr. Liu gave a seminar to the Modeling Optimization and Data Science team at ExxonMobil. 
@@ -49,7 +87,7 @@ main_nav: true
 * June 2023: Dr. Liu was invited to give a talk in a mini-symposium at 2023 SIAM Optimization Conference. 
 * May 2023: Ph.D. candidate Yuxuan Li successfully defended his Ph.D. dissertation. He will join the East China University of Science and Technology as an Assistant Professor. Congratulations! 
 * May 2023: Ph.D. candidate Yuxuan Li presented our research in the 2023 IISE Annual Conference. 
-* May 2023: UG research researchers Jacob O’hara and Kent Slater presented their papers in the 2023 IISE Annual Conference. Their papers have also been accepted for publication in the conference proceedings. Congratulations!
+* May 2023: UG research researchers Jacob O’Hara and Kent Slater presented their papers in the 2023 IISE Annual Conference. Their papers have also been accepted for publication in the conference proceedings. Congratulations!
 
 #### Spring
 
@@ -58,7 +96,7 @@ main_nav: true
 * April 2023: Ph.D. candidate Yuxuan Li was selected to participate in the SDM’23 Doctoral Forum for poster presentation and receive the NSF student travel award. Congratulations! 
 * April 2023: Dr. Liu was elected as the president-elect of IISE Data Analytics and Information Systems (DAIS) division. 
 * April 2023: UG research researcher Andrew Bunting presented his research poster in the Wentz Research Symposium. 
-* April 2023: UG research researchers Jacob O’hara and Kent Slater presented their research posters in the OSU Annual Undergraduate Research Symposium. 
+* April 2023: UG research researchers Jacob O’Hara and Kent Slater presented their research posters in the OSU Annual Undergraduate Research Symposium. 
 * April 2023: Graduate student Emmanuel Yangue won the 2023 Outstanding Graduate Student Award in the College of Engineering, Architecture and Technology. Congratulations! 
 * March 2023: Our paper “A Utility-Based Machine Learning-Driven Personalized Lifestyle Recommendation for Cardiovascular Disease Prevention” has been accepted by Journal of Biomedical Informatics. This work also won the 2022 IISE Graduate Research Award (for graduate student Ayse Dogan). 
 * March 2023: Our paper “Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation” has been accepted by IISE Transactions. 
