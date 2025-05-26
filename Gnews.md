@@ -23,9 +23,9 @@ main_nav: true
 
 #### Fall
 * December 2024: Our paper “Incremental Machine Learning-integrated Blockchain for Real-time Security Protection in Cyber-enabled Manufacturing Systems” has been accepted by the ASME Journal of Computing and Information Science in Engineering (JCISE).
-* December 2024: Dr. Liu serves as an organizer for the [Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop](https://ds2mh.github.io/dssmh25/) at the SIAM SDM25 conference in Alexandria, VA.
+* December 2024: Dr. Liu serves as an organizer for the 3rd [Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop](https://ds2mh.github.io/dssmh25/) at the SIAM SDM25 conference in Alexandria, VA.
 * November 2024: Our paper “Advancing Additive Manufacturing through Deep Learning: A Comprehensive Review of Current Progress and Future Challenges” has been accepted by IISE Transactions.  
-October 2024: Our paper “Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Advanced Manufacturing” has been accepted by IISE Transactions. This work is led by our lab’s recent PhD graduates Dr. Yuxuan Li and Dr. Zhangyue Shi. Congratulations!  
+* October 2024: Our paper “Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Advanced Manufacturing” has been accepted by IISE Transactions. This work is led by our lab’s recent PhD graduates Dr. Yuxuan Li and Dr. Zhangyue Shi. Congratulations!  
 * October 2024: Our group gave multiple invited talks at INFORMS Annual Meeting, Seattle, WA, 2024.  
 * September 2024: STARs Lab received a grant from National Science Foundation (NSF). STARs Lab is collaborating with Dr. Yu Feng (PI) from the School of Chemical Engineering at OSU for a research project entitled “SCH: AI-Enhanced Risk Assessment for Mitigating Indoor Viral Transmission in Public Schools” sponsored by NSF. Thanks for the generous support from NSF!
 * September 2024: STARs Lab received a grant from the US Food and Drug Administration (FDA). STARs Lab is collaborating with Dr. Yu Feng (Lead PI) from the School of Chemical Engineering at OSU for a research project entitled “ML-CFD-DEM Based Reduced Order Models (ROM) to Quantify Variability in Inhalers, Drugs, and Users for Evaluating Comparability of Generic OIDP Complex Products” sponsored by FDA. Thanks for the generous support from FDA!
@@ -61,7 +61,7 @@ October 2024: Our paper “Pseudo Replay-based Class Continual Learning for Onli
 
 #### Fall
 
-* December 2023: Dr. Liu serves as an organizer for the [Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop](https://dssmh.github.io/) at the SIAM SDM24 conference in Houston, TX.
+* December 2023: Dr. Liu serves as an organizer for the 2nd [Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop](https://dssmh.github.io/) at the SIAM SDM24 conference in Houston, TX.
 * November 2023: Undergraduate student Sheridan Sherrer joined our group as an undergraduate researcher. Welcome!
 * November 2023: Our paper “Model-Informed Generative Adversarial Network (MI-GAN) for Learning Optimal Power Flow” has been accepted by IISE Transactions.
 * November 2023: Undergraduate Researcher Jacob O'Hara is selected as a finalist to present his research in the 2024 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across the state of Oklahoma. Congratulations! 
