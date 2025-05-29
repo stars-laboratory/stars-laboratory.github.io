@@ -115,12 +115,12 @@ ASME 2025 International Design Engineering Technical Conferences and Computers a
      * ***This work won the 3rd place award at the 2025 OSU IEM Student Research Syposium (Student: Ziyang Zhang)***
 
 1. Yangue, E.\*, O’Connor, E.\*, and Liu, C., 2025, “Addressing Class Imbalance in Diabetic Retinopathy Detection: An Enhanced Diffusion-Resampling Data Augmentation Approach,” submitted to the IEEE
-21st International Conference on Automation Science and Engineering (CASE). (Under Review)
+21st International Conference on Automation Science and Engineering (CASE). (Accepted for Publication)
      * ***This work won the 1st place award at the 2025 OSU IEM Student Research Syposium (Students: Emmanuel Yangue and Ethan O'Connor)***
 
-1. Oskolkov, B.\*, Yangue, E.\*, Tian, W., Kan, C., and Liu, C., 2025, “Kolmogorov-Arnold Networks (KAN)-enabled Incremental Learning for Online Process Monitoring of Additive Manufacturing,” submitted to the IEEE 21st International Conference on Automation Science and Engineering (CASE). (Under Review)
+1. Oskolkov, B.\*, Yangue, E.\*, Tian, W., Kan, C., and Liu, C., 2025, “Kolmogorov-Arnold Networks (KAN)-enabled Incremental Learning for Online Process Monitoring of Additive Manufacturing,” submitted to the IEEE 21st International Conference on Automation Science and Engineering (CASE). (Accepted for Publication)
 
-1. Cantu, F., Ibarra, S., Gonzalez, A., Barreda, J., Liu, C., and Zhang, L., 2025, “An Unsupervised Time Series Anomaly Detection Approach for Efficient Online Process Monitoring of Additive Manufacturing,” submitted to the IEEE 21st International Conference on Automation Science and Engineering (CASE). (Under Review)
+1. Cantu, F., Ibarra, S., Gonzalez, A., Barreda, J., Liu, C., and Zhang, L., 2025, “An Unsupervised Time Series Anomaly Detection Approach for Efficient Online Process Monitoring of Additive Manufacturing,” submitted to the IEEE 21st International Conference on Automation Science and Engineering (CASE). (Accepted for Publication)
 
 1. Sperry, T., Feng, Y., and Liu, C., 2025, “Development of a VOF-to-DPM Model to Predict the Atomization Process in a Sof Mist Inhaler (SMI),” *Proceedings of 2025 ASME Design of Medical Devices Conference*. (Accepted for Publication)
 
