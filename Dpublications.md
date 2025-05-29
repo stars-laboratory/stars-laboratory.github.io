@@ -15,9 +15,9 @@ Dr. Liu's [**Researchgate**](https://www.researchgate.net/profile/Chenang-Liu)
 
 ### Journal Articles
 
-1. Li, Y.\*, and Liu, C., 2025, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *IISE Transactions* (Accepted for Publication). [Link](https://arxiv.org/abs/2306.06268)
+1. Li, Y.\*, and Liu, C., 2025, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *IISE Transactions* (Accepted for Publication). [Link](https://doi.org/10.1080/24725854.2025.2488340)
 
-1. Zhao, Y., Li, Y.\*, Liu, C., and Wang, Y., 2025, “ADs: Active Data-sharing for Data Quality Assurance in Advanced Manufacturing Systems,” *IEEE Transactions on Automation Science and Engineering* (Accepted for Publication). [Link](https://arxiv.org/abs/2404.00572)
+1. Zhao, Y., Li, Y.\*, Liu, C., and Wang, Y., 2025, “ADs: Active Data-selection for Data Quality Assurance in Data-sharing over Advanced Manufacturing Systems,” *IEEE Transactions on Automation Science and Engineering* (Accepted for Publication). [Link](https://doi.org/10.1109/TASE.2025.3568294)
 
 1. Oskolkov, B.\*, Kan, C., Tian, W., Law, A., and Liu, C., 2025, “Incremental Machine Learning-integrated Blockchain for Real-time Security Protection in Cyber-enabled Manufacturing Systems,” *ASME Journal of Computing and Information Science in Engineering*. Vol. 25 (4), pp. 041004. [Link](https://doi.org/10.1115/1.4067736)
 
