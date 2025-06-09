@@ -122,7 +122,7 @@ ASME 2025 International Design Engineering Technical Conferences and Computers a
 
 1. Cantu, F., Ibarra, S., Gonzalez, A., Barreda, J., Liu, C., and Zhang, L., 2025, “An Unsupervised Time Series Anomaly Detection Approach for Efficient Online Process Monitoring of Additive Manufacturing,” submitted to the IEEE 21st International Conference on Automation Science and Engineering (CASE). (Accepted for Publication)
 
-1. Sperry, T., Feng, Y., and Liu, C., 2025, “Development of a VOF-to-DPM Model to Predict the Atomization Process in a Sof Mist Inhaler (SMI),” *Proceedings of 2025 ASME Design of Medical Devices Conference*. (Accepted for Publication)
+1. Sperry, T., Feng, Y., and Liu, C., 2025, “Development of a VOF-to-DPM Model to Predict the Atomization Process in a Sof Mist Inhaler (SMI),” *Proceedings of the 2025 ASME Design of Medical Devices Conference*. V001T02A001. ASME. [Link](https://doi.org/10.1115/DMD2025-1004)
 
 1. O’Connor, E.\*, Yangue, E.\*, Feng, Y., Wu, H., and Liu, C., 2024, “Towards Personalized Inhalation Therapy by Correlating Chest CT Imaging and Pulmonary Function Test Features Using Machine Learning,” *Proceedings of the 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*. [Link](https://doi.org/10.1109/EMBC53108.2024.10781590)
      * ***This work won the 2nd place award of Undergraduate Student Technical Paper Competition, at the 2024 IISE South Central Regional Conference (Student: Ethan O'Connor)***
