@@ -8,7 +8,7 @@ main_nav: true
 # Faculty
 
 ![Dr.ChenangLiu]({{ site.baseurl }}/assets/Liu.png "Profile Picture"){:.profile}
-#### **Chenang Liu, Assistant Professor**  
+#### **Chenang Liu, Associate Professor**  
 
 * Ph.D. Industrial and Systems Engineering, Virginia Tech, 2019.
 
@@ -131,7 +131,7 @@ main_nav: true
 ![Jacob]({{ site.baseurl }}/assets/Jacob.jpg){:.profile}
 #### **Jacob O'Hara, M.S. Thesis** (Graduated in May 2025) 
 
-* Graduate in Spring 2025 
+* Graduated in Spring 2025 
 
 * B.S., Industrial Engineering and Management, OSU, 2024 
 
@@ -146,7 +146,7 @@ main_nav: true
 ![Emmanuel]({{ site.baseurl }}/assets/Yangue Emmanuel.jpg){:.profile}
 #### **Emmanuel Yangue, M.S. Thesis** (Graduated in July 2023) 
 
-* Current position: PhD Student at Oklahoma State University 
+* After Graduation: PhD Student at Oklahoma State University 
 
 * B.S., Petroleum Engineering (double Major in Economics), University of Louisiana at Lafayette, Lafayette, Louisiana
 
@@ -164,7 +164,7 @@ main_nav: true
 ![Ayse]({{ site.baseurl }}/assets/Ayse.jpeg){:.profile}
 #### **Ayse Dogan, M.S. Thesis**  (Graduated in May 2021)
 
-* Current position: PhD Student at University of Illinois at Urbana-Champaign 
+* After Graduation: PhD Student at University of Illinois at Urbana-Champaign 
 
 * BEng, Industrial Engineering, Antalya Bilim University, Turkey 
 
@@ -181,9 +181,11 @@ main_nav: true
 
 # Undergraduate Researcher & Alumni
 
-#### **Ethan Patrick O'Connor (Fall 2023 - present)**
+#### **Ethan Patrick O'Connor (Fall 2023 - Summer 2025)**
 
-* B.S., Industrial Engineering and Management, OSU, ongoing 
+* B.S., Industrial Engineering and Management, OSU, Graduated in May 2025
+
+* Summer Research Intern at STARs Lab in Summer 2025
 
 * Project: Incorporating Effective Feature Extraction to Advance AI - Assisted Inhalation Therapy for Lung Disease
   
@@ -192,8 +194,15 @@ main_nav: true
 &nbsp;
 
 ***
+#### **Dayton McCall (Summer 2025 - present)**
 
-#### **Sheridan Sherrer (Fall 2023 - present)**
+* B.S., Industrial Engineering and Management, OSU, ongoing
+
+&nbsp;
+
+***
+
+#### **Sheridan Sherrer (Fall 2023 - Spring 2024)**
 
 * B.S., Industrial Engineering and Management, OSU, ongoing 
 
@@ -207,9 +216,7 @@ main_nav: true
 
 #### **Jacob O'Hara (Spring 2022 - Spring 2024)** (Graduated in May 2024) 
 
-* Current position: MS Student at Oklahoma State University 
-
-* B.S., Industrial Engineering and Management, OSU, 2024 
+* B.S., Industrial Engineering and Management, OSU, 2024 (Continue to Pursue IEM MS degree with Thesis)
 
 * Project: Toward Early Diabetic Retinopathy Detection Assisted by Data Augmentation-enabled AI
 
@@ -222,11 +229,11 @@ main_nav: true
 
 #### **Kent Slater (Fall 2022 - Spring 2023)** (Graduated in May 2023)
 
-* Current position: Costing Analyst at ArcBest
+* Position Right After Graduation: Costing Analyst at ArcBest
 
 * B.S., Industrial Engineering and Management, OSU, 2023 
 
-* Project: Intelligent Quality Assurance via Machine Learning 
+* Project: Intelligent Data Quality Assurance via Machine Learning 
 
 * Supported by NSF REU Supplement
 
