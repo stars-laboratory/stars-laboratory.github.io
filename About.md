@@ -8,7 +8,7 @@ main_nav: true
 ### Director
 
 Dr. Chenang Liu, Ph.D.,
-Assistant Professor,
+Associate Professor,
 School of Industrial Engineering and Management (IEM), 
 Institute for Translational and Emerging Research in Advanced Comparative Therapy (INTERACT), 
 Oklahoma State University, 
