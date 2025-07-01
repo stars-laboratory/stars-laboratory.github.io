@@ -114,7 +114,7 @@ main_nav: true
 ![Anastasiia]({{ site.baseurl }}/assets/Anastasiia.jpg){:.profile}
 #### **Anastasiia Oskolkova, M.S. Thesis student** 
 
-* Expected to graduated in Summer 2025 
+* Expected to graduate in Summer 2025 
 
 * B.S.(degree with honors), Business and Economics,  Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
