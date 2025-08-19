@@ -76,9 +76,9 @@ main_nav: true
 ***
 
 ![Ziyang]({{ site.baseurl }}/assets/Ziyang's Photo.jpg){:.profile}
-#### **Ziyang Zhang, Ph.D. student**  
+#### **Ziyang Zhang, Ph.D. Candidate**  
 
-* Expected to Graduate in Spring 2026
+* Expected to Graduate in Summer 2026
 
 * BEng, Mechanical Engineering, Xi'an Jiaotong University, China
 
@@ -86,7 +86,7 @@ main_nav: true
 
 * E-mail: jan.zhang@okstate.edu
 
-* Dissertation topic: Artificial Intelligence for Complex Engineering System
+* Dissertation topic: Augmenting Generative Model for Design and Optimization of Complex Engineering Systems
 
 &nbsp;
 
@@ -103,18 +103,50 @@ main_nav: true
 
 * E-mail: boris.oskolkov@okstate.edu
 
-* Dissertation Topic: Data Science for Advanced Manufacturing and Medical Systems
+* Dissertation Topic: Data Science for Advanced Manufacturing and Biomedical Applications
 
 &nbsp;
 
 ***
 
+![Anastasiia]({{ site.baseurl }}/assets/Anastasiia.jpg){:.profile}
+#### **Anastasiia Oskolkova, Ph.D. student** 
+
+* Expected to Graduated in Summer 2027 
+
+* B.S.(degree with honors), Business and Economics,  Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
+
+* M.S.(degree with honors), High Technology and Economics of Innovation, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
+
+* M.S., Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
+
+* E-mail: anastasiia.oskolkova@okstate.edu
+
+* Dissertation Topic: Data-driven Design and Analysis for Healthcare Applications   
+
+&nbsp;
+
+***
+
+
 # M.S. Thesis Students & Alumni
 
-![Anastasiia]({{ site.baseurl }}/assets/Anastasiia.jpg){:.profile}
-#### **Anastasiia Oskolkova, M.S. Thesis student** 
+#### **Enrique Soto Ballester, M.S. Thesis student**
 
-* Expected to Graduate in Summer 2025 
+* B.S., Industrial and Systems Engineering, Thomas Jefferson University, Philadelphia, PA
+
+* E-mail: esotoba@okstate.edu
+
+* Thesis Topic: Data Science-empowered Design and Optimization for Medical Devices 
+
+&nbsp;
+
+***
+
+![Anastasiia]({{ site.baseurl }}/assets/Anastasiia.jpg){:.profile}
+#### **Anastasiia Oskolkova, M.S. Thesis student** (Graduated in Summer 2025) 
+
+* After Graduation: PhD Student at Oklahoma State University
 
 * B.S.(degree with honors), Business and Economics,  Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
@@ -122,7 +154,7 @@ main_nav: true
 
 * E-mail: anastasiia.oskolkova@okstate.edu
 
-* Thesis Topic: Efficient Machine Learning for Healthcare Data Analytics 
+* Thesis title: Resampling-Empowered Incremental Learning for Cost-Effective Data-Driven Diabetic Retinopathy Prediction
 
 &nbsp;
 
