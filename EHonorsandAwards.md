@@ -24,7 +24,7 @@ main_nav: true
 * Grado Graduate Teaching Assistant Award, Virginia Tech, 2016
 
 
-### Graduate Students’ Awards
+### Graduate Students’ Honors and Awards
 
 * Ayse Dogan: IISE Graduate Research Award, IISE, 2022
 * Emmanuel Yangue: Best Poster Award (1st Place Winner), Coalition for Advancing Digital Research & Education (CADRE) Conference, 2025
@@ -51,7 +51,7 @@ main_nav: true
 * Zhangyue Shi: QSR Data Challenge Competition Finalist, INFORMS, 2019
 
 
-### Undergraduate Students’ Awards 
+### Undergraduate Students’ Honors and Awards 
 * Ethan Patrick O'Connor: Grand Prize at the 2025 Research Day at the Capitol, Oklahoma NSF EPSCoR and Oklahoma State Regents for Higher Education, 2025
 * Ethan Patrick O'Connor: IEM Undergraduate Student Leadership Award, OSU IEM, 2025
 * Ethan Patrick O'Connor: 1st Place Award, IEM Student Research Symposium, OSU IEM, 2025
