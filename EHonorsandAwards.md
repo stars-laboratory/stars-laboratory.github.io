@@ -27,6 +27,7 @@ main_nav: true
 ### Graduate Students’ Awards
 
 * Ayse Dogan: IISE Graduate Research Award, IISE, 2022
+* Emmanuel Yangue: Best Poster Award (1st Place Winner), Coalition for Advancing Digital Research & Education (CADRE) Conference, 2025
 * Emmanuel Yangue: 1st Place Award, IEM Student Research Symposium, OSU IEM, 2025
 * Emmanuel Yangue: Best Poster Award, SIAM SDM24 Doctoral Forum, 2024, SIAM, 2024
 * Emmanuel Yangue: IEEE EMBC NextGen Scholar Award, IEEE EMBS, 2024
@@ -68,9 +69,10 @@ main_nav: true
 
 
 ### Selected Professional Activities
+* Guest Editor, IISE Transactions, 2025-present. 
 * Associate Editor, Journal of Intelligent Manufacturing, 2022-present. 
-* Guest Editor, ASME Journal of Computing and Information Science in Engineering, 2022-present. [Call for Papers](https://www.asme.org/getmedia/3651c562-8b4d-49ce-b0d9-05cf9bba1401/JCISE-SI-Digitalization-and-Reverse-Engineerin_Final.pdf)
-* Executive Guest Editor, Journal of Manufacturing Systems, 2023-present. [Call for Papers](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems/about/call-for-papers#advances-in-design-and-quality-improvement-for-cyber-manufacturing)
+* Guest Editor, ASME Journal of Computing and Information Science in Engineering, 2022-2023. [Call for Papers](https://www.asme.org/getmedia/3651c562-8b4d-49ce-b0d9-05cf9bba1401/JCISE-SI-Digitalization-and-Reverse-Engineerin_Final.pdf)
+* Executive Guest Editor, Journal of Manufacturing Systems, 2023-2025. [Call for Papers](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems/about/call-for-papers#advances-in-design-and-quality-improvement-for-cyber-manufacturing)
 * President, Data Analytics & Information Systems (DAIS) Division, IISE, 2024-2025. 
 * President-elect, Data Analytics & Information Systems (DAIS) Division, IISE, 2023-2024.
 * Organizer, Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop, SIAM International Conference on Data Mining (SDM), Houston, TX, 2024.  
