@@ -9,6 +9,17 @@ main_nav: true
 
 ### 2025
 
+#### Fall
+
+
+#### Summer
+
+* July 2025: PhD student Ziyang Zhang successfully passed his Ph.D. dissertation proposal defense. Congratulations! 
+* July 2025: MS thesis student Anastasiia Oskolkova successfully defended her MS thesis and will graduate in August. Congratulations! She will continue her academic journey at STARs Lab and pursue her PhD degree. 
+* July 2025: The SME Journal of Manufacturing Systems Special Issue Editorial “Advances in Design and Quality Improvement for Cyber Manufacturing”, led by Dr. Liu, has been published [online](https://doi.org/10.1016/j.jmsy.2025.07.007). 
+* June 2025: PhD Candidate Emmanuel Yangue won first place at the poster student competition during the CADRE conference on "Artificial Intelligence in Research and Education". Congratulations! 
+* June 2025: Undergraduate student Dayton McCall joined our group as an undergraduate researcher. Welcome! 
+
 #### Spring
 
 * May 2025: STARs lab members received multiple honors and awards in the IEM 2025 Award Banquet. Congratulations!  
