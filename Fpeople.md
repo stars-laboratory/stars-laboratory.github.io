@@ -230,6 +230,8 @@ main_nav: true
 
 * B.S., Industrial Engineering and Management, OSU, ongoing
 
+* Project: Leveraging Physics-Informed Generative AI for Personalized Medical Inhalation Device Design
+
 &nbsp;
 
 ***
