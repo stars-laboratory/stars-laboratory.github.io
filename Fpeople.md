@@ -75,7 +75,7 @@ main_nav: true
 
 ***
 
-![Ziyang]({{ site.baseurl }}/assets/Ziyang's Photo.jpg){:.profile}
+![Ziyang]({{ site.baseurl }}/assets/Ziyang Profile Photo.jpg){:.profile}
 #### **Ziyang Zhang, Ph.D. Candidate**  
 
 * Expected to Graduate in Summer 2026
