@@ -11,6 +11,10 @@ main_nav: true
 
 #### Fall
 
+* August 2025: PhD candidate Ziyang Zhang presented his research paper and ongoing research poster in the 2025 ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE2025), in Anaheim, CA. His research paper has also been accepted for publication in the conference proceedings. Congratulations! 
+* August 2025: Graduate students Emmanuel Yangue and Boris Oskolkov presented their research papers in the 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE2025), in Los Angeles, CA. Their papers have also been accepted for publication in the conference proceedings. Congratulations!
+* August 2025: Enrique Soto Ballester joined our group as a new M.S. thesis student. Welcome! 
+
 
 #### Summer
 
