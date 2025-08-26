@@ -32,7 +32,7 @@ main_nav: true
 
 * E-mail: yuxuan.li@okstate.edu
 
-* Dissertation title: Adversarial Learning-Assisted Data Analytics in Manufacturing and Healthcare Systems
+* Dissertation Title: Adversarial Learning-Assisted Data Analytics in Manufacturing and Healthcare Systems
 
 &nbsp;
 
@@ -47,9 +47,9 @@ main_nav: true
 
 * E-mail: zhshi@okstate.edu
 
-* Dissertation title: Advanced Data Analytics-based Quality Assurance for Smart Manufacturing
+* Dissertation Title: Advanced Data Analytics-based Quality Assurance for Smart Manufacturing
 
-* Personal website: [Link](https://shizhangyue.github.io/)
+* Personal Website: [Link](https://shizhangyue.github.io/)
 
 
 &nbsp;
@@ -69,7 +69,9 @@ main_nav: true
 
 * E-mail: eyangue@okstate.edu
 
-* Dissertation topic: AI-enabled Analytics for Smart Engineering Systems 
+* Dissertation Topic: Diffusion Generative Model-empowered Modeling and Analytics for Smart Engineering Systems
+
+* Personal Website: [Link](https://sites.google.com/view/emmanuel-yangue)
 
 &nbsp;
 
@@ -86,7 +88,7 @@ main_nav: true
 
 * E-mail: jan.zhang@okstate.edu
 
-* Dissertation topic: Augmenting Generative Model for Design and Optimization of Complex Engineering Systems
+* Dissertation Topic: Augmenting Generative Model for Design and Optimization of Complex Engineering Systems
 
 &nbsp;
 
@@ -112,7 +114,7 @@ main_nav: true
 ![Anastasiia]({{ site.baseurl }}/assets/Anastasiia.jpg){:.profile}
 #### **Anastasiia Oskolkova, Ph.D. student** 
 
-* Expected to Graduated in Summer 2027 
+* Expected to Graduate in Summer 2027 
 
 * B.S.(degree with honors), Business and Economics,  Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
@@ -154,7 +156,7 @@ main_nav: true
 
 * E-mail: anastasiia.oskolkova@okstate.edu
 
-* Thesis title: Resampling-Empowered Incremental Learning for Cost-Effective Data-Driven Diabetic Retinopathy Prediction
+* Thesis Title: Resampling-Empowered Incremental Learning for Cost-Effective Data-Driven Diabetic Retinopathy Prediction
 
 &nbsp;
 
@@ -169,7 +171,7 @@ main_nav: true
 
 * E-mail: jaohara@okstate.edu
 
-* Thesis title: Data-Driven Diabetic Retinopathy (DR) Prediction Model with the Assistance of A Score-Based Diffusion Model
+* Thesis Title: Data-Driven Diabetic Retinopathy (DR) Prediction Model with the Assistance of A Score-Based Diffusion Model
 
 &nbsp;
 
@@ -186,7 +188,7 @@ main_nav: true
 
 * E-mail: eyangue@okstate.edu
 
-* Thesis title: Integrated Deep Learning-based Online Layer-wise Surface Predication of Additive Manufacturing
+* Thesis Title: Integrated Deep Learning-based Online Layer-wise Surface Predication of Additive Manufacturing
 
 &nbsp;
 
@@ -204,7 +206,7 @@ main_nav: true
 
 * E-mail: adogan@okstate.edu
 
-* Thesis title: Data-Driven Modeling and Analysis for Cardiovascular Disease Risk Prediction and Reduction
+* Thesis Title: Data-Driven Modeling and Analysis for Cardiovascular Disease Risk Prediction and Reduction
 
 &nbsp;
 
