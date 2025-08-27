@@ -7,6 +7,8 @@ main_nav: true
 
 # Faculty & Principal Investigator
 
+&nbsp;
+
 ![Dr.ChenangLiu]({{ site.baseurl }}/assets/Liu.png "Profile Picture"){:.profile}
 #### **Chenang Liu, Associate Professor**  
 
@@ -22,6 +24,8 @@ main_nav: true
 ***
 
 # Ph.D. Students & Alumni
+
+&nbsp;
 
 ![Yuxuan]({{ site.baseurl }}/assets/yuxuan.jpg){:.profile}
 #### **Yuxuan Li, Ph.D., minor in Mathematics** (Graduated in Summer 2023) 
@@ -132,6 +136,8 @@ main_nav: true
 
 
 # M.S. Thesis Students & Alumni
+
+&nbsp;
 
 #### **Enrique Soto Ballester, M.S. Thesis student**
 
