@@ -141,15 +141,15 @@ ASME 2025 International Design Engineering Technical Conferences and Computers a
 
 1. Ray, B., Oskolkov, B.\*, Liu, C., Leblanc, Z., and Tian, W., 2023, “FFF-based Metal and Ceramic Additive Manufacturing: Production Scaleup from a Stream of Variation Analysis Perspective,” *Manufacturing Letters*. Vol. 35, pp. 811-821. [Link](https://doi.org/10.1016/j.mfglet.2023.08.126) 
 
-1. O’Hara, J.\*, Li, Y.\*, Zhang, Z.∗, and Liu, C., 2023, “Data-driven Diabetic Retinopathy (DR) Prediction with the Assistance of a Score-based Diffusion Model,” *Proceedings of 2023 IISE Annual Conference*. Accepted. 
+1. O’Hara, J.\*, Li, Y.\*, Zhang, Z.∗, and Liu, C., 2023, “Data-driven Diabetic Retinopathy (DR) Prediction with the Assistance of a Score-based Diffusion Model,” *Proceedings of IISE Annual Conference & Expo 2023*. [Link](https://www.researchgate.net/publication/375991569) 
    * ***This work has been selected to present in the 2024 Research Day at the Capitol, which highlights the exceptional undergraduate research going on across the State of Oklahoma (Student: Jacob O’Hara)***
 
-1. Slater, K.\*, Li, Y.\*, Wang, Y., Shan, Y., and Liu, C., 2023, “A Generative Adversarial Network (GAN)-Assisted Data Quality Monitoring Approach for Out-of-Distribution Detection of High Dimensional Data,” *Proceedings of 2023 IISE Annual Conference*. Accepted. 
+1. Slater, K.\*, Li, Y.\*, Wang, Y., Shan, Y., and Liu, C., 2023, “A Generative Adversarial Network (GAN)-Assisted Data Quality Monitoring Approach for Out-of-Distribution Detection of High Dimensional Data,” *Proceedings of the IISE Annual Conference & Expo 2023*. [Link](https://www.proquest.com/docview/2878472416/) 
    * ***This work won the 2nd place award of Undergraduate Student Technical Paper Competition, at the 2023 IISE South Central Regional Conference (Student: Kent Slater)***
 
 1. Chen, Y., Chen, J., Liu, C., Liu, G., Ferrari, M., and Sundararajan, A., 2023, “Integrated Modeling and Optimal Operation of Multi-Energy System for Coastal Community,” *Proceedings of the 2023 IEEE International Conference on Electro Information Technology (eIT)*. [Link](https://doi.org/10.1109/eIT57321.2023.10187307)
 
-1. Yu, Z., and Liu, C., 2023, “Implementing Application-Driven Data Analytics in Engineering and Engineering Technology Courses With Student Feedback Assessment, ” *Proceedings of the ASME 2023 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference*. Accepted for Publication. 
+1. Yu, Z., and Liu, C., 2023, “Implementing Application-Driven Data Analytics in Engineering and Engineering Technology Courses With Student Feedback Assessment, ” *Proceedings of the ASME 2023 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE)*. Volume 4: 20th International Conference on Design Education (DEC). Boston, Massachusetts, USA. August 20–23, 2023. V004T04A001. ASME. [Link](https://doi.org/10.1115/DETC2023-114696)
 
 1. Shi, Z.\*, Li, Y.\*, and Liu, C., 2022, “Knowledge Distillation-enabled Multi-stage Incremental Learning for Online Process Monitoring in Advanced Manufacturing," *Proceedings of 2022 IEEE International Conference on Data Mining (ICDM) Workshops*, pp. 860-867. [Link](https://doi.org/10.1109/ICDMW58026.2022.00154)
 
