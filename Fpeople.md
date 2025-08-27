@@ -20,6 +20,7 @@ main_nav: true
 
 * B.S. Environmental and Resource Sciences, Zhejiang University, China, 2014
 
+&nbsp;
 
 ***
 
@@ -221,6 +222,8 @@ main_nav: true
 
 # Undergraduate Researcher & Alumni
 
+&nbsp;
+
 #### **Ethan Patrick O'Connor (Fall 2023 - Summer 2025)**
 
 * B.S., Industrial Engineering and Management, OSU, Graduated in May 2025
@@ -246,7 +249,7 @@ main_nav: true
 
 #### **Sheridan Sherrer (Fall 2023 - Spring 2024)**
 
-* B.S., Industrial Engineering and Management, OSU, ongoing 
+* B.S., Industrial Engineering and Management, OSU
 
 * Project: Fairness of Generative Model in Healthcare Application
   
@@ -285,7 +288,7 @@ main_nav: true
 
 #### **Andrew Bunting (Summer 2022 - Spring 2023)** 
 
-* B.S., Industrial Engineering and Management, OSU, ongoing 
+* B.S., Industrial Engineering and Management, OSU
 
 * Project: Modeling and Simulation to Assist Effective Operation of Amusement Parks During Pandemics
 
@@ -297,7 +300,7 @@ main_nav: true
 
 #### **Ashton Parkey (Spring 2023)**
 
-* B.S., Industrial Engineering and Management, OSU, ongoing 
+* B.S., Industrial Engineering and Management, OSU
 
 * Project: Ultrasound Image Analysis to Advance Cancer Treatment
   
@@ -309,7 +312,7 @@ main_nav: true
 
 #### **Zoe Ward (Spring 2023)**
 
-* B.S., Industrial Engineering and Management, OSU, ongoing 
+* B.S., Industrial Engineering and Management, OSU
 
 * Project: Ultrasound Image Analysis to Advance Cancer Treatment
   
