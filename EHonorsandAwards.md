@@ -52,6 +52,8 @@ main_nav: true
 
 
 ### Undergraduate Students’ Honors and Awards 
+
+* Dayton McCall: 2025-2026 OSU CEAT Undergraduate Research Scholarship
 * Ethan Patrick O'Connor: Grand Prize at the 2025 Research Day at the Capitol, Oklahoma NSF EPSCoR and Oklahoma State Regents for Higher Education, 2025
 * Ethan Patrick O'Connor: IEM Undergraduate Student Leadership Award, OSU IEM, 2025
 * Ethan Patrick O'Connor: 1st Place Award, IEM Student Research Symposium, OSU IEM, 2025
@@ -69,6 +71,7 @@ main_nav: true
 
 
 ### Selected Professional Activities
+
 * Guest Editor, IISE Transactions, 2025-present. 
 * Associate Editor, Journal of Intelligent Manufacturing, 2022-present. 
 * Guest Editor, ASME Journal of Computing and Information Science in Engineering, 2022-2023. [Call for Papers](https://www.asme.org/getmedia/3651c562-8b4d-49ce-b0d9-05cf9bba1401/JCISE-SI-Digitalization-and-Reverse-Engineerin_Final.pdf)
