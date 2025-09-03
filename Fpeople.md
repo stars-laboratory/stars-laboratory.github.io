@@ -140,6 +140,7 @@ main_nav: true
 
 &nbsp;
 
+![Enrique]({{ site.baseurl }}/assets/Enrique.jpg){:.profile}
 #### **Enrique Soto Ballester, M.S. Thesis student**
 
 * B.S., Industrial and Systems Engineering, Thomas Jefferson University, Philadelphia, PA
