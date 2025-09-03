@@ -244,6 +244,8 @@ main_nav: true
 
 * Project: Leveraging Physics-Informed Generative AI for Personalized Medical Inhalation Device Design
 
+* Supported by OSU CEAT Undergraduate Research Scholarship, as well as NSF and OCAST Projects
+
 &nbsp;
 
 ***
