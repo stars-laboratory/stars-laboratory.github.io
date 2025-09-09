@@ -100,7 +100,7 @@ main_nav: true
 ***
 
 ![Boris]({{ site.baseurl }}/assets/Boris.png){:.profile}
-#### **Boris Oskolkov, Ph.D. student**  
+#### **Boris Oskolkov, Ph.D. Candidate**  
 
 * Expected to Graduate in Fall 2026
 
