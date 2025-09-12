@@ -62,7 +62,7 @@ main_nav: true
 ***
 
 ![Emmanuel]({{ site.baseurl }}/assets/Emmanuel_2023.JPG){:.profile}
-#### **Emmanuel Yangue, Ph.D. Candidate**  
+#### **Emmanuel Yangue, Ph.D. Candidate, simultaneous M.S. in Statistics**  
 
 * Expected to Graduate in Spring 2026
 
@@ -70,7 +70,7 @@ main_nav: true
 
 * M.A., Applied Economics, University of Houston, Houston, TX
 
-* M.S., Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
+* M.S. (with Thesis), Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
 
 * E-mail: eyangue@okstate.edu
 
@@ -83,7 +83,7 @@ main_nav: true
 ***
 
 ![Ziyang]({{ site.baseurl }}/assets/Ziyang Profile Photo.jpg){:.profile}
-#### **Ziyang Zhang, Ph.D. Candidate**  
+#### **Ziyang Zhang, Ph.D. Candidate, minor in Statistics**  
 
 * Expected to Graduate in Summer 2026
 
@@ -99,7 +99,7 @@ main_nav: true
 
 ***
 
-![Boris]({{ site.baseurl }}/assets/Boris.png){:.profile}
+![Boris]({{ site.baseurl }}/assets/Boris_2025.png){:.profile}
 #### **Boris Oskolkov, Ph.D. Candidate**  
 
 * Expected to Graduate in Fall 2026
@@ -108,9 +108,13 @@ main_nav: true
 
 * M.S., Instrumentation Technology, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
+* M.S., Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
+
 * E-mail: boris.oskolkov@okstate.edu
 
 * Dissertation Topic: Data Science for Advanced Manufacturing and Biomedical Applications
+
+* LinkedIn Page: [Link](http://linkedin.com/in/boris-oskolkov/)
 
 &nbsp;
 
@@ -125,7 +129,7 @@ main_nav: true
 
 * M.S.(degree with honors), High Technology and Economics of Innovation, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
-* M.S., Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
+* M.S. (with Thesis), Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
 
 * E-mail: anastasiia.oskolkova@okstate.edu
 
