@@ -120,7 +120,7 @@ main_nav: true
 
 ***
 
-![Anastasiia]({{ site.baseurl }}/assets/Anastasiia.jpg){:.profile}
+![Anastasiia]({{ site.baseurl }}/assets/Anastasiia_2025.jpg){:.profile}
 #### **Anastasiia Oskolkova, Ph.D. student** 
 
 * Expected to Graduate in Summer 2027 
