@@ -158,7 +158,7 @@ main_nav: true
 ***
 
 ![Anastasiia]({{ site.baseurl }}/assets/Anastasiia.jpg){:.profile}
-#### **Anastasiia Oskolkova, M.S. Thesis student** (Graduated in Summer 2025) 
+#### **Anastasiia Oskolkova, M.S. Thesis** (Graduated in Summer 2025) 
 
 * After Graduation: PhD Student at Oklahoma State University
 
