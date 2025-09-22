@@ -15,9 +15,11 @@ Dr. Liu's [**Researchgate**](https://www.researchgate.net/profile/Chenang-Liu)
 
 ### Journal Articles
 
-1. Li, Y.\*, and Liu, C., 2025, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *IISE Transactions* (Accepted for Publication). [Link](https://doi.org/10.1080/24725854.2025.2488340)
+1. Li, Y.\*, and Liu, C., 2025, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *IISE Transactions* (In Press). [Link](https://doi.org/10.1080/24725854.2025.2488340)
 
-1. Zhao, Y., Li, Y.\*, Liu, C., and Wang, Y., 2025, “ADs: Active Data-selection for Data Quality Assurance in Data-sharing over Advanced Manufacturing Systems,” *IEEE Transactions on Automation Science and Engineering* (Accepted for Publication). [Link](https://doi.org/10.1109/TASE.2025.3568294)
+1. Zhao, Y., Li, Y.\*, Liu, C., and Wang, Y., 2025, “ADs: Active Data-selection for Data Quality Assurance in Data-sharing over Advanced Manufacturing Systems,” *IEEE Transactions on Automation Science and Engineering* (In Press). [Link](https://doi.org/10.1109/TASE.2025.3568294)
+
+1. Li, Y.\*, Xie, T., Liu, C., and Shi, Z.\*, 2025, “Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Advanced Manufacturing,” *IISE Transactions*. Vol. 57(12), pp. 1407-1421 [Link](https://doi.org/10.1080/24725854.2024.2428642)
 
 1. Oskolkov, B.\*, Kan, C., Tian, W., Law, A., and Liu, C., 2025, “Incremental Machine Learning-integrated Blockchain for Real-time Security Protection in Cyber-enabled Manufacturing Systems,” *ASME Journal of Computing and Information Science in Engineering*. Vol. 25 (4), pp. 041004. [Link](https://doi.org/10.1115/1.4067736)
 
@@ -27,8 +29,6 @@ Dr. Liu's [**Researchgate**](https://www.researchgate.net/profile/Chenang-Liu)
 1. Li, Y.\*, Zhao, C., and Liu, C., 2025, “Model-Informed Generative Adversarial Network (MI-GAN) for Optimal Power Flow (OPF) Problem," *IISE Transactions*, Vol. 57(1), pp. 30-43. [Link](https://doi.org/10.1080/24725854.2023.2286507)
 
 1. Shi, Z.\*, Li, Y.\*, and Liu, C., 2025, “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System,” *Journal of Intelligent Manufacturing*. Vol. 36(3), pp. 2177-2192. [Link](https://doi.org/10.1007/s10845-024-02348-9) [ArXiv Link](https://arxiv.org/abs/2302.01200)
-
-1. Li, Y.\*, Xie, T., Liu, C., and Shi, Z.\*, 2024, “Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Advanced Manufacturing,” *IISE Transactions* (In Press). [Link](https://doi.org/10.1080/24725854.2024.2428642)
 
 1. Zhang, Z.\*, Li, Y.\*, Liu, T., and Liu, C., 2024, “Data Augmentation-empowered Diabetic Retinopathy Detection Based on Collaborative Discrimination-enabled Generative Adversarial Network,” *Annals of Operations Research*. (In Press) [Link](https://doi.org/10.1007/s10479-024-06147-6)
 
@@ -47,6 +47,8 @@ pp. 975-987. [Link](https://doi.org/10.1080/24725854.2023.2193257)
 
 1. Fullington, D., Yangue, E.\*, Bappy, M., Liu, C., and Tian, W., 2024, “Leveraging Small-scale Datasets for Additive Manufacturing: Current Practice and Remaining Gaps,” *Journal of Manufacturing Systems*. Vol. 75, pp. 306-321. [Link](https://doi.org/10.1016/j.jmsy.2024.04.021)
 
+1. Ashar, H., Singh, A., Kishore, D., Neel, T., More S., Liu C., Dugat, D., and Ranjan, A., 2024, “Enabling Chemo-Immunotherapy with HIFU in Canine Cancer Patients,” *Annals of Biomedical Engineering*. Vol. 52 (7), pp. 1859-1872 [Link](https://doi.org/10.1007/s10439-023-03194-1).  
+
 1. Shi, Z.\*, Oskolkov, B.\*, Tian, W., Kan, C., and Liu, C., 2024, “Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems,”  *ASME Journal of Computing and Information Science in Engineering*. Vol. 24(7), pp. 071004. [Link](https://doi.org/10.1115/1.4063859)
 
 1. Ha, C., Yao, D., Xu, Z., Liu, C., Liu, H., Elkins, D., Kiles, M., Deshpande, V., Kong, Z., Bauchy, B., and Zheng, X., 2023, “Rapid Inverse Design of Metamaterials based on Prescribed Mechanical Behavior
@@ -55,15 +57,13 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 1. Dogan, A.\*, Li, Y.\*, Odo, C., Sonawane, K., Lin, Y., and Liu, C., 2023, “A Utility-Based Machine Learning-Driven Personalized Lifestyle Recommendation for Cardiovascular Disease Prevention,” *Journal of Biomedical Informatics*. Vol. 141, p. 104342 [Link](https://doi.org/10.1016/j.jbi.2023.104342)
     * ***This work received the 2022 IISE Graduate Research Award (MS student Ayse Dogan)***
 
-1. Kosolwattana, T., Liu, C., Hu, R., Han, S., Chen, H., and Lin, Y., 2024, “A Self-inspected Adaptive SMOTE Algorithm (SASMOTE) for Highly Imbalanced Data Classification," *BioData Mining*. Vol. 16 (15) [Link](https://doi.org/10.1186/s13040-023-00330-4)
-
-1. Ashar, H., Singh, A., Kishore, D., Neel, T., More S., Liu C., Dugat, D., and Ranjan, A., 2024, “Enabling Chemo-Immunotherapy with HIFU in Canine Cancer Patients,” *Annals of Biomedical Engineering*. Vol. 52 (7), pp. 1859-1872 [Link](https://doi.org/10.1007/s10439-023-03194-1).  
+1. Kosolwattana, T., Liu, C., Hu, R., Han, S., Chen, H., and Lin, Y., 2023, “A Self-inspected Adaptive SMOTE Algorithm (SASMOTE) for Highly Imbalanced Data Classification," *BioData Mining*. Vol. 16 (15) [Link](https://doi.org/10.1186/s13040-023-00330-4)
 
 1. Liu, C., Wang, R., Ho, I., Kong, Z., Williams, C., Babu, S., and Joslin, C., 2023, “Toward Online Surface Morphology Measurement in Additive Manufacturing Using a Deep Learning-based Approach," *Journal of Intelligent Manufacturing*. Vol. 34 (6), pp. 2673-2689. [Link](https://doi.org/10.1007/s10845-022-01933-0)
 
-1. Shi, Z.\*, Mamun, A., Kan, C., Tian, W., and Liu, C., 2023, "An LSTM-Autoencoder Based Online Side Channel Monitoring Approach for Cyber-physical Attack Detection in Additive Manufacturing," *Journal of Intelligent Manufacturing*. Vol. 34, pp. 1815–1831 [Link](https://doi.org/10.1007/s10845-021-01879-9)
+1. Shi, Z.\*, Mamun, A., Kan, C., Tian, W., and Liu, C., 2023, "An LSTM-Autoencoder based Online Side Channel Monitoring Approach for Cyber-physical Attack Detection in Additive Manufacturing," *Journal of Intelligent Manufacturing*. Vol. 34, pp. 1815–1831 [Link](https://doi.org/10.1007/s10845-021-01879-9)
 
-1. Xiao, P., Shi, Z.\*, Liu, C., and Darren, D., 2022, “Characteristics of circulating small non-coding RNAs in plasma and serum during human aging,” *Aging Medicine*. Vol. 6(1), pp. 35-48 [Link](https://doi.org/10.1002/agm2.12241)
+1. Xiao, P., Shi, Z.\*, Liu, C., and Darren, D., 2022, “Characteristics of Circulating Small Non-coding RNAs in Plasma and Serum during Human Aging,” *Aging Medicine*. Vol. 6(1), pp. 35-48 [Link](https://doi.org/10.1002/agm2.12241)
 
 1. Li, Y.\*, Shi, Z.\*, Liu, C., Tian, W., Kong, Z., and Williams, C., 2022, "Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection," *IEEE Transactions on Automation Science and Engineering*. Vol. 19 (4), pp. 3338-3355 [Link](https://doi.org/10.1109/TASE.2021.3118635)
     * ***This work was selected as the finalist of the Data Challenge Award, QSR Section, INFORMS, 2019***
@@ -90,10 +90,10 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
     * ***This work is featured in the Industrial and Systems Engineer magazine (ISE) Magazine, October 2021***
     * ***This work received the Best Paper Award, QSR Section, INFORMS, 2017***
 
-1. Liu, C., Law, A., Roberson, D. and Kong, Z.,2019, "Image Analysis-based Closed Loop Quality Controlfor Additive Manufacturing with Fused Filament Fabrication," *Journal of Manufacturing Systems*. Vol.51, pp.75-86. [Link](https://doi.org/10.1016/j.jmsy.2019.04.002)
+1. Liu, C., Law, A., Roberson, D. and Kong, Z.,2019, "Image Analysis-based Closed Loop Quality Control for Additive Manufacturing with Fused Filament Fabrication," *Journal of Manufacturing Systems*. Vol.51, pp.75-86. [Link](https://doi.org/10.1016/j.jmsy.2019.04.002)
     * ***This work received the Best Paper Award, QCRE Track, IISE, 2017***
 
-1. Liu, J., Liu, C., Bai, Y., Rao, P., Kong, Z. and Williams, C., 2019, "Layer-wise Spatial Modeling of Porosityin Additive Manufacturing," *IISE Transactions*, Vol.51(2), pp.109-123. [Link](https://doi.org/10.1080/24725854.2018.1478169)
+1. Liu, J., Liu, C., Bai, Y., Rao, P., Kong, Z. and Williams, C., 2019, "Layer-wise Spatial Modeling of Porosity in Additive Manufacturing," *IISE Transactions*, Vol.51(2), pp.109-123. [Link](https://doi.org/10.1080/24725854.2018.1478169)
     * ***This work is featured in the Industrial and Systems Engineer magazine (ISE) Magazine, January 2019***
 
 1. Liu, C., Kapoor, A., VanOsdol, J., Ektate, K., Kong, Z., and Ranjan, A., 2018, "A Spectral Fiedler Field-based Contrast Platform for Imaging of Nanoparticles in Colon Tumor," *Scientific Reports*, 8(1), 11390. [Link](https://doi.org/10.1038/s41598-018-29675-1)
@@ -110,11 +110,11 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 
 ### Conference Papers
 
-1. Zhang, Z.\*, Feng, Y., and Liu, C., 2025, “Machine Learning and Finite Element Analysis Teaming for Inverse Design of Metamaterial with Adaptive Pressure Response in Footwear Design,” *Proceedings of
+1. Zhang, Z.\*, Feng, Y., and Liu, C., 2025, “Machine Learning and Finite Element Analysis Teaming for Inverse Design of Metamaterial with Adaptive Pressure Response in Footwear Design,” *Proceedings of the
 ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE)*. (Accepted for Publication)
      * ***This work won the 3rd place award at the 2025 OSU IEM Student Research Syposium (Student: Ziyang Zhang)***
 
-1. Yangue, E.\*, O’Connor, E.\*, and Liu, C., 2025, “Addressing Class Imbalance in Diabetic Retinopathy Detection: An Enhanced Diffusion-Resampling Data Augmentation Approach,” submitted to the IEEE
+1. Yangue, E.\*, O’Connor, E.\*, and Liu, C., 2025, “Addressing Class Imbalance in Diabetic Retinopathy Detection: An Enhanced Diffusion-Resampling Data Augmentation Approach,” Proceedings of the IEEE
 21st International Conference on Automation Science and Engineering (CASE). (Accepted for Publication)
      * ***This work won the 1st place award at the 2025 OSU IEM Student Research Syposium (Students: Emmanuel Yangue and Ethan O'Connor)***
 
@@ -181,6 +181,8 @@ ASME 2025 International Design Engineering Technical Conferences and Computers a
 
 1. Liu, C., Roberson, D. and Kong, Z., "Textural Analysis-based Online Closed-Loop Quality Control for Additive Manufacturing Process," *IISE Annual Conference*, Pittsburgh, PA, May 20-23, 2017. [Link](https://www.researchgate.net/publication/316171394_Textural_Analysis-based_Online_Closed-Loop_Quality_Control_for_Additive_Manufacturing_Processes)
 
-### Book Chapters
- 
-* Dou, C., Elkins, D., Kong, Z., and Liu, C., 2023, “Online Monitoring and Control of Polymer Additive Manufacturing Processes,” *ASM Handbook* Vol. 24A. [Link](https://doi.org/10.31399/asm.hb.v24A.a0006968)
+### Book Chapters and Journal Editorials
+
+* Liu, C., Chen, X., and Grasso, M., 2025, “Advances in Design and Quality Improvement for Cyber Manufacturing,” *Journal of Manufacturing Systems*. Vol. 82, pp. 658-659. [Link](https://doi.org/10.1016/j.jmsy.2025.07.007)
+
+* Dou, C., Elkins, D., Kong, Z., and Liu, C., 2023, “Online Monitoring and Control of Polymer Additive Manufacturing Processes,” *ASM Handbook*. Vol. 24A. [Link](https://doi.org/10.31399/asm.hb.v24A.a0006968)
