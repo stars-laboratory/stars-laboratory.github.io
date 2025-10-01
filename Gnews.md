@@ -11,12 +11,13 @@ main_nav: true
 
 #### Fall
 
-* September 2025: Dr. Liu serves as a Guest Editor for a Special Issue of IISE Transactions. The special issue is on Digital Twin for the Advancement of Design and Manufacturing. 
+* September 2025: Dr. Liu serves as a Guest Editor for a Special Issue of IISE Transactions. The special issue is on Digital Twin for the Advancement of Design and Manufacturing. The Call of Papers can be found [here](https://think.taylorandfrancis.com/special_issues/digital-twin-for-the-advancement-of-design-and-manufacturing/). 
 * September 2025: PhD student Boris Oskolkov successfully passed his Ph.D. dissertation proposal defense. Congratulations! 
 * September 2025: Undergraduate Researcher Dayton McCall received OSU CEAT Undergraduate Research Scholarship. Congratulations! 
 * September 2025: STARs Lab received an equipment grant from National Science Foundation (NSF). STARs Lab is collaborating with research teams from the School of Mechanical and Aerospace Engineering at OSU for a project entitled “MRI: Track 1 Acquisition of a Cold Spray System to Enable Multidisciplinary Research, Education, and Training”, sponsored by NSF. This project is led by Dr. Sandip Harimkar. Thanks for the generous support from NSF!
 * August 2025: Ph.D. candidate Ziyang Zhang presented his research paper and ongoing research poster in the 2025 ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE2025), in Anaheim, CA. His research paper has also been accepted for publication in the conference proceedings. Congratulations! 
 * August 2025: Graduate students Emmanuel Yangue and Boris Oskolkov presented their research papers in the 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE2025), in Los Angeles, CA. Their papers have also been accepted for publication in the conference proceedings. Congratulations!
+* August 2025: PhD student Boris Oskolkov received the Ken and Lynn Case Endowed Scholarship from OSU IEM. Congratulations! 
 * August 2025: Enrique Soto Ballester joined our group as a new M.S. thesis student. Welcome! 
 
 
