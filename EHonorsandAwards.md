@@ -32,12 +32,13 @@ main_nav: true
 * Emmanuel Yangue: Best Poster Award, SIAM SDM24 Doctoral Forum, 2024, SIAM, 2024
 * Emmanuel Yangue: IEEE EMBC NextGen Scholar Award, IEEE EMBS, 2024
 * Emmanuel Yangue: IISE Graduate Research Award, IISE, 2024
-* Emmanuel Yangue: Distinguished Graduate Fellowship, OSU, 2024
+* Emmanuel Yangue: OSU Distinguished Graduate Fellowship, OSU, 2024
 * Emmanuel Yangue: Graduate Research Excellence Award, OSU, 2024
 * Emmanuel Yangue: Outstanding Graduate Student Award, College of Engineering, Architecture and Technology (CEAT), OSU, 2023
 * Emmanuel Yangue: Creativity, Innovation, and Entrepreneurship (CIE) Scholars (Satterfield Family Scholarship), OSU, 2023
-* Emmanuel Yangue: Ken & Lynn Case Endow Scholarship, OSU, 2023
+* Emmanuel Yangue: Ken & Lynn Case Endowed Scholarship, OSU, 2023
 * Emmanuel Yangue: NSF Student Travel Award, 2023
+* Boris Oskolkov: Ken & Lynn Case Endowed Scholarship, OSU, 2025
 * Ziyang Zhang: 3rd Place Award, IEM Student Research Symposium, OSU IEM, 2025
 * Yuxuan Li: NSF Student Travel Award, 2023
 * Yuxuan Li: Doctoral Phoenix Award, OSU, 2023
