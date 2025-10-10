@@ -114,13 +114,13 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE)*. (Accepted for Publication)
      * ***This work won the 3rd place award at the 2025 OSU IEM Student Research Syposium (Student: Ziyang Zhang)***
 
-1. Yangue, E.\*, O’Connor, E.\*, and Liu, C., 2025, “Addressing Class Imbalance in Diabetic Retinopathy Detection: An Enhanced Diffusion-Resampling Data Augmentation Approach,” Proceedings of the IEEE
-21st International Conference on Automation Science and Engineering (CASE). (Accepted for Publication)
+1. Yangue, E.\*, O’Connor, E.\*, and Liu, C., 2025, “Addressing Class Imbalance in Diabetic Retinopathy Detection: An Enhanced Diffusion-Resampling Data Augmentation Approach,” *Proceedings of the 2025 IEEE
+21st International Conference on Automation Science and Engineering (CASE)*, pp. 1323-1329. [Link](https://doi.org/10.1109/CASE58245.2025.11164047)
      * ***This work won the 1st place award at the 2025 OSU IEM Student Research Syposium (Students: Emmanuel Yangue and Ethan O'Connor)***
 
-1. Oskolkov, B.\*, Yangue, E.\*, Tian, W., Kan, C., and Liu, C., 2025, “Kolmogorov-Arnold Networks (KAN)-enabled Incremental Learning for Online Process Monitoring of Additive Manufacturing,” submitted to the IEEE 21st International Conference on Automation Science and Engineering (CASE). (Accepted for Publication)
+1. Oskolkov, B.\*, Yangue, E.\*, Tian, W., Kan, C., and Liu, C., 2025, “Kolmogorov-Arnold Networks (KAN)-enabled Incremental Learning for Online Process Monitoring of Additive Manufacturing,” *Proceedings of the 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)*, pp. 1396-1402. [Link](https://doi.org/10.1109/CASE58245.2025.11164003)
 
-1. Cantu, F., Ibarra, S., Gonzalez, A., Barreda, J., Liu, C., and Zhang, L., 2025, “An Unsupervised Time Series Anomaly Detection Approach for Efficient Online Process Monitoring of Additive Manufacturing,” submitted to the IEEE 21st International Conference on Automation Science and Engineering (CASE). (Accepted for Publication)
+1. Cantu, F., Ibarra, S., Gonzalez, A., Barreda, J., Liu, C., and Zhang, L., 2025, “An Unsupervised Time Series Anomaly Detection Approach for Efficient Online Process Monitoring of Additive Manufacturing,” *Proceedings of the 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)*, pp. 2142-2147. [Link](https://doi.org/10.1109/CASE58245.2025.11163788)
 
 1. Sperry, T., Feng, Y., and Liu, C., 2025, “Development of a VOF-to-DPM Model to Predict the Atomization Process in a Sof Mist Inhaler (SMI),” *Proceedings of the 2025 ASME Design of Medical Devices Conference*. V001T02A001. ASME. [Link](https://doi.org/10.1115/DMD2025-1004)
 
