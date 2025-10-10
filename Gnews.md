@@ -11,6 +11,7 @@ main_nav: true
 
 #### Fall
 
+* October 2025: Undergraduate student Jonas Swope joined our group as an undergraduate researcher. Welcome! 
 * September 2025: Dr. Liu serves as a Guest Editor for a Special Issue of IISE Transactions. The special issue is on Digital Twin for the Advancement of Design and Manufacturing. The Call of Papers can be found [here](https://think.taylorandfrancis.com/special_issues/digital-twin-for-the-advancement-of-design-and-manufacturing/). 
 * September 2025: PhD student Boris Oskolkov successfully passed his Ph.D. dissertation proposal defense. Congratulations! 
 * September 2025: Undergraduate Researcher Dayton McCall received OSU CEAT Undergraduate Research Scholarship. Congratulations! 
