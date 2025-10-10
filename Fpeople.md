@@ -229,6 +229,30 @@ main_nav: true
 
 &nbsp;
 
+#### **Jonas Swope (Fall 2025 - present)**
+
+* B.S., Industrial Engineering and Management, OSU, ongoing
+
+* Project: Machine Learning-driven Reduced Order Modeling and Inverse Design for Personalized Inhalation Therapy
+  
+* Supported by NSF and OCAST Projects
+
+&nbsp;
+
+***
+
+#### **Dayton McCall (Summer 2025 - present)**
+
+* B.S., Industrial Engineering and Management, OSU, ongoing
+
+* Project: Leveraging Physics-Informed Generative AI for Personalized Medical Inhalation Device Design
+
+* Supported by OSU CEAT Undergraduate Research Scholarship, as well as NSF and OCAST Projects
+
+&nbsp;
+
+***
+
 #### **Ethan Patrick O'Connor (Fall 2023 - Summer 2025)**
 
 * B.S., Industrial Engineering and Management, OSU, Graduated in May 2025
@@ -238,17 +262,6 @@ main_nav: true
 * Project: Incorporating Effective Feature Extraction to Advance AI - Assisted Inhalation Therapy for Lung Disease
   
 * Supported by OSU CEAT Undergraduate Research Scholarship, Wentz Research Grant, as well as NSF and OCAST Projects
-
-&nbsp;
-
-***
-#### **Dayton McCall (Summer 2025 - present)**
-
-* B.S., Industrial Engineering and Management, OSU, ongoing
-
-* Project: Leveraging Physics-Informed Generative AI for Personalized Medical Inhalation Device Design
-
-* Supported by OSU CEAT Undergraduate Research Scholarship, as well as NSF and OCAST Projects
 
 &nbsp;
 
