@@ -15,6 +15,8 @@ Dr. Liu's [**Researchgate**](https://www.researchgate.net/profile/Chenang-Liu)
 
 ### Journal Articles
 
+1. Yangue, E.\*, Tian, W., Feng, Y., and Liu, C., 2025, “Noise-Conditioned Adversarial Diffusion Denoising Implicit Model (NCA-DDIM) for Data Augmentation in Engineering Applications,” *IEEE Transactions on Automation Science and Engineering* (Accepted for Publication).
+
 1. Li, Y.\*, and Liu, C., 2025, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *IISE Transactions* (In Press). [Link](https://doi.org/10.1080/24725854.2025.2488340)
 
 1. Zhao, Y., Li, Y.\*, Liu, C., and Wang, Y., 2025, “ADs: Active Data-selection for Data Quality Assurance in Data-sharing over Advanced Manufacturing Systems,” *IEEE Transactions on Automation Science and Engineering* (In Press). [Link](https://doi.org/10.1109/TASE.2025.3568294)
@@ -111,7 +113,7 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 ### Conference Papers
 
 1. Zhang, Z.\*, Feng, Y., and Liu, C., 2025, “Machine Learning and Finite Element Analysis Teaming for Inverse Design of Metamaterial with Adaptive Pressure Response in Footwear Design,” *Proceedings of the
-ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE)*. (Accepted for Publication)
+ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE)*. V02AT02A036. ASME. [Link](https://doi.org/10.1115/DETC2025-168937)
      * ***This work won the 3rd place award at the 2025 OSU IEM Student Research Syposium (Student: Ziyang Zhang)***
 
 1. Yangue, E.\*, O’Connor, E.\*, and Liu, C., 2025, “Addressing Class Imbalance in Diabetic Retinopathy Detection: An Enhanced Diffusion-Resampling Data Augmentation Approach,” *Proceedings of the 2025 IEEE
