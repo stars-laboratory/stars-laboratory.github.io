@@ -11,6 +11,11 @@ main_nav: true
 
 #### Fall
 
+* November 2025: Our paper “Noise-Conditioned Adversarial Diffusion Denoising Implicit Model (NCA-DDIM) for Data Augmentation in Engineering Applications” has been accepted by the IEEE Transactions on Automation Science and Engineering (IEEE T-ASE). 
+* October 2025: Our group gave multiple invited talks at the INFORMS Annual Meeting, Atlanta, GA, 2025.
+* October 2025: PhD Candidates Emmanuel Yangue and Ziyang Zhang presented their research posters at the INTERACT symposium ([Link](https://vetmed.okstate.edu/research/interact/interact-symposium.html)), hosted by OSU. 
+* October 2025: PhD student Anastasiia Oskolkova gave an oral presentation at the INTERACT symposium ([Link](https://vetmed.okstate.edu/research/interact/interact-symposium.html)), hosted by OSU.
+* October 2025: Ph.D. Candidates Emmanuel Yangue and Ziyang Zhang presented their research posters in the 10th Annual Meeting of SIAM Central States, hosted by the Department of Mathematical Sciences at the University of Arkansas. Their conference trip is partially supported by the NSF-Sponsored Student Travel Support Award.
 * October 2025: Undergraduate student Jonas Swope joined our group as an undergraduate researcher. Welcome! 
 * September 2025: Dr. Liu serves as a Guest Editor for a Special Issue of IISE Transactions. The special issue is on Digital Twin for the Advancement of Design and Manufacturing. The Call of Papers can be found [here](https://think.taylorandfrancis.com/special_issues/digital-twin-for-the-advancement-of-design-and-manufacturing/). 
 * September 2025: PhD student Boris Oskolkov successfully passed his Ph.D. dissertation proposal defense. Congratulations! 
