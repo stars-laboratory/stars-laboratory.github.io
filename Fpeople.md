@@ -28,6 +28,19 @@ main_nav: true
 
 &nbsp;
 
+![Jonas]({{ site.baseurl }}/assets/Jonas_2025.jpg){:.profile}
+#### **Jonas Swope, Ph.D. student**
+
+* Expected to Graduate in 2029
+
+* B.S., Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
+
+* E-mail: jonas.a.swope@okstate.edu
+
+&nbsp;
+
+***
+
 ![Yuxuan]({{ site.baseurl }}/assets/yuxuan.jpg){:.profile}
 #### **Yuxuan Li, Ph.D., minor in Mathematics** (Graduated in Summer 2023) 
 
@@ -229,18 +242,6 @@ main_nav: true
 
 &nbsp;
 
-#### **Jonas Swope (Fall 2025 - present)**
-
-* B.S., Industrial Engineering and Management, OSU, ongoing
-
-* Project: Machine Learning-driven Reduced Order Modeling and Inverse Design for Personalized Inhalation Therapy
-  
-* Supported by NSF and OCAST Projects
-
-&nbsp;
-
-***
-
 #### **Dayton McCall (Summer 2025 - present)**
 
 * B.S., Industrial Engineering and Management, OSU, ongoing
@@ -252,6 +253,20 @@ main_nav: true
 &nbsp;
 
 ***
+
+
+#### **Jonas Swope (Fall 2025)**
+
+* B.S., Industrial Engineering and Management, OSU, Graduated in December 2025 (Continue to Pursue IEM PhD Degree)
+
+* Project: Machine Learning-driven Reduced Order Modeling and Inverse Design for Personalized Inhalation Therapy
+  
+* Supported by NSF and OCAST Projects
+
+&nbsp;
+
+***
+
 
 #### **Ethan Patrick O'Connor (Fall 2023 - Summer 2025)**
 
