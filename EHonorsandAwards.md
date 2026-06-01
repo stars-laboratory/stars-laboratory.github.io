@@ -7,8 +7,8 @@ main_nav: true
 
 ### Selected Awards, Honors and Recognitions
 
-* IEM Excellent Faculty Researcher Award, OSU IEM, 2025
-* Young Engineer Award, Computers and Information in Engineering (CIE) Division, ASME, 2024
+* IISE Transactions Reviewer of the Year Award, 2026 <!-- * IEM Excellent Faculty Researcher Award, OSU IEM, 2025 -->
+* Young Engineer Award, Computers & Information in Engineering (CIE) Division, ASME, 2024
 * Editor’s Pick and Featured Article, Physics of Fluids, American Institute of Physics (AIP), 2024
 * Featured Article in ISE Magazine, IISE, 2021
 * Best Poster Award, BOOM Workshop, IJCAI, Virtual, 2020 
@@ -73,10 +73,10 @@ main_nav: true
 
 ### Selected Professional Activities
 
-* Guest Editor, IISE Transactions, 2025-present. 
+* Guest Editor, IISE Transactions, 2025-present. [Call for Papers](https://think.taylorandfrancis.com/special_issues/digital-twin-for-the-advancement-of-design-and-manufacturing/)
 * Associate Editor, Journal of Intelligent Manufacturing, 2022-present. 
+* Executive Guest Editor, Journal of Manufacturing Systems, 2023-2025. [Special Issue Editorial](https://doi.org/10.1016/j.jmsy.2025.07.007). <!-- [Call for Papers](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems/about/call-for-papers#advances-in-design-and-quality-improvement-for-cyber-manufacturing) -->
 * Guest Editor, ASME Journal of Computing and Information Science in Engineering, 2022-2023. [Call for Papers](https://www.asme.org/getmedia/3651c562-8b4d-49ce-b0d9-05cf9bba1401/JCISE-SI-Digitalization-and-Reverse-Engineerin_Final.pdf)
-* Executive Guest Editor, Journal of Manufacturing Systems, 2023-2025. [Call for Papers](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems/about/call-for-papers#advances-in-design-and-quality-improvement-for-cyber-manufacturing)
 * President, Data Analytics & Information Systems (DAIS) Division, IISE, 2024-2025. 
 * President-elect, Data Analytics & Information Systems (DAIS) Division, IISE, 2023-2024.
 * Organizer, Data Science for Smart Manufacturing and Healthcare (DS2-MH) Workshop, SIAM International Conference on Data Mining (SDM), Houston, TX, 2024.  
