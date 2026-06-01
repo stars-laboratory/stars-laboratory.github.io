@@ -194,7 +194,7 @@ main_nav: true
 ![Jacob]({{ site.baseurl }}/assets/Jacob.jpg){:.profile}
 #### **Jacob O'Hara, M.S. Thesis** (Graduated in May 2025) 
 
-* Graduated in Spring 2025 
+* After Graduation: Industrial Engineer Trainee at United States Postal Service (USPS)
 
 * B.S., Industrial Engineering and Management, OSU, 2024 
 
@@ -242,7 +242,7 @@ main_nav: true
 ***
 
 
-# Undergraduate Researcher & Alumni
+# Undergraduate Researchers & Alumni
 
 &nbsp;
 
