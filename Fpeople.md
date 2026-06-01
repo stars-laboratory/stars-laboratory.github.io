@@ -12,13 +12,13 @@ main_nav: true
 ![Dr.ChenangLiu]({{ site.baseurl }}/assets/Liu.png "Profile Picture"){:.profile}
 #### **Chenang Liu, Associate Professor**  
 
-* Ph.D. Industrial and Systems Engineering, Virginia Tech, 2019.
+* Ph.D., Industrial and Systems Engineering, Virginia Tech, 2019.
 
-* M.S. Statistics, Virginia Tech, 2017.
+* M.S., Statistics, Virginia Tech, 2017.
 
-* B.S. Mathematics (Statistics track), Zhejiang University, China, 2014.
+* B.S., Mathematics (Statistics track), Zhejiang University, China, 2014.
 
-* B.S. Environmental and Resource Sciences, Zhejiang University, China, 2014
+* B.S., Environmental and Resource Sciences, Zhejiang University, China, 2014
 
 &nbsp;
 
