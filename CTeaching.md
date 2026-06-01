@@ -9,7 +9,7 @@ Here are the courses Dr. Liu has taught.
 
 ### Undergraduate Courses
 
-* IEM 4113 (Fall 2025): Experimental Design and Analysis for Engineering, Oklahoma State University
+* IEM 4113 (Fall 2025, Fall 2026): Experimental Design and Analysis for Engineering, Oklahoma State University
     * *Redesigned Undergraduate-level Core Course* 
 * IEM 4113 (Fall 2023, Fall 2024): Industrial Experimentation, Oklahoma State University
     * *Redesigned Undergraduate-level Core Course* 
@@ -31,7 +31,7 @@ Here are the courses Dr. Liu has taught.
     * *Designed New Graduate-level Course*
 * IEM 5103 (Spring 2021 - Spring 2026): Breakthrough Quality and Reliability, Oklahoma State University
     * *Reactivated and Redesigned Graduate-level Course*
-* IEM 5153 (Fall 2024, Fall 2025): Process Design and Integration
+* IEM 5153 (Fall 2024 - Fall 2026): Process Design and Integration
     * *Reactivated and Redesigned Graduate-level Course*
 * IEM 5103 (Spring 2020): Breakthrough Quality, Oklahoma State University
     * *Reactivated and Redesigned Graduate-level Course*
