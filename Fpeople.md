@@ -75,9 +75,9 @@ main_nav: true
 ***
 
 ![Emmanuel]({{ site.baseurl }}/assets/Emmanuel_2023.JPG){:.profile}
-#### **Emmanuel Yangue, Ph.D. Candidate, simultaneous M.S. in Statistics**  
+#### **Emmanuel Yangue, Ph.D., simultaneous M.S. in Applied Statistics**  
 
-* Expected to Graduate in Spring 2026
+* Graduated in Spring 2026
 
 * B.S., Petroleum Engineering (double Major in Economics), University of Louisiana at Lafayette, Lafayette, Louisiana
 
@@ -85,9 +85,11 @@ main_nav: true
 
 * M.S. (with Thesis), Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
 
+* M.S., Applied Statistics, Oklahoma State University, Stillwater, OK
+
 * E-mail: eyangue@okstate.edu
 
-* Dissertation Topic: Diffusion Generative Model-empowered Modeling and Analytics for Smart Engineering Systems
+* Dissertation Title: Diffusion Generative Model-empowered Modeling and Analytics for Smart Engineering Systems
 
 * Personal Website: [Link](https://sites.google.com/view/emmanuel-yangue)
 
@@ -104,6 +106,8 @@ main_nav: true
 
 * B.S., Business Administration, Xi'an Jiaotong University, China
 
+* Graduate Minor, Statistics, Oklahoma State University, Stillwater, OK
+
 * E-mail: jan.zhang@okstate.edu
 
 * Dissertation Topic: Augmenting Generative Model for Design and Optimization of Complex Engineering Systems
@@ -115,7 +119,7 @@ main_nav: true
 ![Boris]({{ site.baseurl }}/assets/Boris_2025.png){:.profile}
 #### **Boris Oskolkov, Ph.D. Candidate**  
 
-* Expected to Graduate in Fall 2026
+* Expected to Graduate in Summer 2026
 
 * B.S., Instrumentation Technology, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
