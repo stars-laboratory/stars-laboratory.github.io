@@ -15,11 +15,20 @@ Dr. Liu's [**Researchgate**](https://www.researchgate.net/profile/Chenang-Liu)
 
 ### Journal Articles
 
-1. Yangue, E.\*, Tian, W., Feng, Y., and Liu, C., 2025, “Noise-Conditioned Adversarial Diffusion Denoising Implicit Model (NCA-DDIM) for Data Augmentation in Engineering Applications,” *IEEE Transactions on Automation Science and Engineering* (Accepted for Publication).
+1. Zhang, Z.\*, Feng, Y., and Liu, C., 2026, “Teaming Finite Element Analysis and Deep Learning to Advance Inverse Design of Metamaterial with Adaptive Pressure Response in Footwear Design.” *ASME Journal of Computing and Information Science in Engineering*.  Vol. 26(6), pp. 061006. [Link](https://doi.org/10.1115/1.4071847)
 
-1. Li, Y.\*, and Liu, C., 2025, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *IISE Transactions* (In Press). [Link](https://doi.org/10.1080/24725854.2025.2488340)
+1. Oskolkov, B.\*, Shi, Z.\*, Tian, W., and Liu, C., 2026, “Knowledge Distillation-Empowered Domain Incremental Learning with Flexible Model Selection for Smart Manufacturing Applications,” *Journal of
+Manufacturing Systems*. Vol. 86, pp. 1180-1189. [Link](https://doi.org/10.1016/j.jmsy.2026.04.011)
 
-1. Zhao, Y., Li, Y.\*, Liu, C., and Wang, Y., 2025, “ADs: Active Data-selection for Data Quality Assurance in Data-sharing over Advanced Manufacturing Systems,” *IEEE Transactions on Automation Science and Engineering* (In Press). [Link](https://doi.org/10.1109/TASE.2025.3568294)
+1. Zhang, Z.\*, Yi, H., Kolanjiyil, A., Liu, C., and Feng, Y., 2026, “Computational Fluid Particle Dynamics-Informed Machine Learning Prototype for a User-Centered Smart Inhaler Enabling Uniform Drug Delivery to Small Airways.” Journal of Aerosol Science. Vol. 195, p. 106812. [Link](https://doi.org/10.1016/j.jaerosci.2026.106812) 
+
+1. Yangue, E.\*, Tian, W., Feng, Y., and Liu, C., 2026, “Noise-Conditioned Adversarial Diffusion Denoising Implicit Model (NCA-DDIM) for Data Augmentation in Engineering Applications,” *IEEE Transactions on Automation Science and Engineering*. Vol. 23, pp. 2075-2090. [Link](https://doi.org/10.1109/TASE.2025.3641161) 
+
+1. Li, Y.\*, and Liu, C., 2026, “Attention-stacked Generative Adversarial Network (AS-GAN)-empowered Sensor Data Augmentation for Online Monitoring of Manufacturing System,” *IISE Transactions*. Vol. 58(3), pp. 290-303  [Link](https://doi.org/10.1080/24725854.2025.2488340)
+
+1. Zhao, Y., Li, Y.\*, Liu, C., and Wang, Y., 2026, “ADs: Active Data-selection for Data Quality Assurance in Data-sharing over Advanced Manufacturing Systems,” *IEEE Transactions on Automation Science and Engineering*.  Vol. 23, pp. 3484-3500. [Link](https://doi.org/10.1109/TASE.2025.3568294)
+
+1. Saimon, A., Yangue, E.\*, Yue, X., Kong, Z., and Liu, C., 2026, “Advancing Additive Manufacturing through Deep Learning: A Comprehensive Review of Current Progress and Future Challenges,” *IISE Transactions*. Vol. 58(1), pp. 33-56. [Link](https://doi.org/10.1080/24725854.2024.2443592)
 
 1. Li, Y.\*, Xie, T., Liu, C., and Shi, Z.\*, 2025, “Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Advanced Manufacturing,” *IISE Transactions*. Vol. 57(12), pp. 1407-1421 [Link](https://doi.org/10.1080/24725854.2024.2428642)
 
@@ -33,8 +42,6 @@ Dr. Liu's [**Researchgate**](https://www.researchgate.net/profile/Chenang-Liu)
 1. Shi, Z.\*, Li, Y.\*, and Liu, C., 2025, “Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System,” *Journal of Intelligent Manufacturing*. Vol. 36(3), pp. 2177-2192. [Link](https://doi.org/10.1007/s10845-024-02348-9) [ArXiv Link](https://arxiv.org/abs/2302.01200)
 
 1. Zhang, Z.\*, Li, Y.\*, Liu, T., and Liu, C., 2024, “Data Augmentation-empowered Diabetic Retinopathy Detection Based on Collaborative Discrimination-enabled Generative Adversarial Network,” *Annals of Operations Research*. (In Press) [Link](https://doi.org/10.1007/s10479-024-06147-6)
-
-1. Saimon, A., Yangue, E.\*, Yue, X., Kong, Z., and Liu, C., 2024, “Advancing Additive Manufacturing through Deep Learning: A Comprehensive Review of Current Progress and Future Challenges,” *IISE Transactions* (In Press). [Link](https://doi.org/10.1080/24725854.2024.2443592)
 
 1. Yangue, E.\*, Ranjan, A., Feng, Y., and Liu, C., 2024, “Toward Smart Ultrasound Image Augmentation to Advance Tumor Treatment Monitoring: Exploring the Potential of Diffusion Generative Model,” *ASME Journal of Medical Devices*, Vol. 18(3), pp. 031006. [Link](https://doi.org/10.1115/1.4065905)
 
@@ -112,7 +119,13 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 
 ### Conference Papers
 
-1. Soto Ballester, E.\*, Feng, Y., and Liu, C., 2026, ``Toward Rapid Assessment for Personalized Inhaler Design via Machine Learning-based Reduced Ordered Modeling (ROM)," *Proceedings of the 2026 ASME Design of Medical Devices Conference (DMD)*. (Accepted for Publication)
+1. Soto Ballester, E.\*, Feng, Y., and Liu, C., 2026, “Data-Efficient Adaptive Reduced Order Modeling for Particle Fluid Dynamics Model in Accelerating Personalized Inhaler Design,” submitted to the 2026 ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference. (Accepted for Publication)
+
+1. Zhang, Z.\*, Feng, Y., and Liu, C., 2026, “Loop-wise Structural Footwear Design and Optimization Using FEA-informed Machine Learning and Additive Manufacturing for Adaptive Pressure Distribution with Improved Comfort,” submitted to the 2026 North American Manufacturing Research Conference (NAMRC) 54. (Accepted for Publication)
+
+1. Yi, H., Patil, A., Feng, Y., Oskolkova A.\*, and Liu, C., 2026, “Assessment of Children Exposure to Airborne Virus-Laden Aerosols in a Virtual Classroom Using Computational Fluid Particle Dynamics,” submitted to the 2026 ASME Fluids Engineering Division Summer Meeting (FEDSM). (Accepted for Publication)
+
+1. Soto Ballester, E.\*, Feng, Y., and Liu, C., 2026, ``Toward Rapid Assessment for Personalized Inhaler Design via Machine Learning-based Reduced Ordered Modeling (ROM)," *Proceedings of the 2026 ASME Design of Medical Devices Conference (DMD)*. (in press) 
 
 1. Zhang, Z.\*, Feng, Y., and Liu, C., 2025, “Machine Learning and Finite Element Analysis Teaming for Inverse Design of Metamaterial with Adaptive Pressure Response in Footwear Design,” *Proceedings of the
 ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE)*. V02AT02A036. ASME. [Link](https://doi.org/10.1115/DETC2025-168937)
