@@ -9,7 +9,7 @@ main_nav: true
 
 Dr. Liu's [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=f6TYdsUAAAAJ&view_op=list_works&sortby=pubdate) 
 
-Dr. Liu's [**Researchgate**](https://www.researchgate.net/profile/Chenang-Liu)
+Dr. Liu's [**ResearchGate**](https://www.researchgate.net/profile/Chenang-Liu)
 
 "\*" Student in STARs Lab under Dr. Liu's supervision
 
