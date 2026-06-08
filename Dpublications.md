@@ -20,7 +20,7 @@ Dr. Liu's [**ResearchGate**](https://www.researchgate.net/profile/Chenang-Liu)
 1. Oskolkov, B.\*, Shi, Z.\*, Tian, W., and Liu, C., 2026, “Knowledge Distillation-Empowered Domain Incremental Learning with Flexible Model Selection for Smart Manufacturing Applications,” *Journal of
 Manufacturing Systems*. Vol. 86, pp. 1180-1189. [Link](https://doi.org/10.1016/j.jmsy.2026.04.011)
 
-1. Zhang, Z.\*, Yi, H., Kolanjiyil, A., Liu, C., and Feng, Y., 2026, “Computational Fluid Particle Dynamics-Informed Machine Learning Prototype for a User-Centered Smart Inhaler Enabling Uniform Drug Delivery to Small Airways.” Journal of Aerosol Science. Vol. 195, p. 106812. [Link](https://doi.org/10.1016/j.jaerosci.2026.106812) 
+1. Zhang, Z.\*, Yi, H., Kolanjiyil, A., Liu, C., and Feng, Y., 2026, “Computational Fluid Particle Dynamics-Informed Machine Learning Prototype for a User-Centered Smart Inhaler Enabling Uniform Drug Delivery to Small Airways.” *Journal of Aerosol Science*. Vol. 195, p. 106812. [Link](https://doi.org/10.1016/j.jaerosci.2026.106812) 
 
 1. Yangue, E.\*, Tian, W., Feng, Y., and Liu, C., 2026, “Noise-Conditioned Adversarial Diffusion Denoising Implicit Model (NCA-DDIM) for Data Augmentation in Engineering Applications,” *IEEE Transactions on Automation Science and Engineering*. Vol. 23, pp. 2075-2090. [Link](https://doi.org/10.1109/TASE.2025.3641161) 
 
