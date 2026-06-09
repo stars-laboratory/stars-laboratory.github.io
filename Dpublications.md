@@ -125,7 +125,7 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 
 1. Yi, H., Patil, A., Feng, Y., Oskolkova A.\*, and Liu, C., 2026, “Assessment of Children Exposure to Airborne Virus-Laden Aerosols in a Virtual Classroom Using Computational Fluid Particle Dynamics,” submitted to the 2026 ASME Fluids Engineering Division Summer Meeting (FEDSM). (Accepted for Publication)
 
-1. Soto Ballester, E.\*, Feng, Y., and Liu, C., 2026, ``Toward Rapid Assessment for Personalized Inhaler Design via Machine Learning-based Reduced Ordered Modeling (ROM)," *Proceedings of the 2026 ASME Design of Medical Devices Conference (DMD)*. (in press) 
+1. Soto Ballester, E.\*, Feng, Y., and Liu, C., 2026, ``Toward Rapid Assessment for Personalized Inhaler Design via Machine Learning-based Reduced Ordered Modeling (ROM)," *Proceedings of the 2026 ASME Design of Medical Devices Conference (DMD)*. V001T02A002. ASME. [Link](https://doi.org/10.1115/DMD2026-1011)
 
 1. Zhang, Z.\*, Feng, Y., and Liu, C., 2025, “Machine Learning and Finite Element Analysis Teaming for Inverse Design of Metamaterial with Adaptive Pressure Response in Footwear Design,” *Proceedings of the
 ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE)*. V02AT02A036. ASME. [Link](https://doi.org/10.1115/DETC2025-168937)
