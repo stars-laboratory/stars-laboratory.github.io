@@ -119,6 +119,8 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 
 ### Conference Papers
 
+1. Swope, J.\*, Feng, Y., and Liu, C., 2026, “Scientific Machine Learning-Based Surrogate Modeling of Aerosol Deposition for Advancing Personalized Inhaler Design,” submitted to the 2026 ASME’s International Mechanical Engineering Congress & Exposition (IMECE). (Accepted for Publication)
+
 1. Soto Ballester, E.\*, Feng, Y., and Liu, C., 2026, “Data-Efficient Adaptive Reduced Order Modeling for Particle Fluid Dynamics Model in Accelerating Personalized Inhaler Design,” submitted to the 2026 ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference. (Accepted for Publication)
 
 1. Zhang, Z.\*, Feng, Y., and Liu, C., 2026, “Loop-wise Structural Footwear Design and Optimization Using FEA-informed Machine Learning and Additive Manufacturing for Adaptive Pressure Distribution with Improved Comfort,” submitted to the 2026 North American Manufacturing Research Conference (NAMRC) 54. (Accepted for Publication)
