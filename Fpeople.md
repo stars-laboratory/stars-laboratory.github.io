@@ -35,6 +35,8 @@ main_nav: true
 
 * B.S., Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
 
+* Undergraduate Minor, Data Analytics for Engineers, Oklahoma State University, Stillwater, OK
+
 * E-mail: jonas.a.swope@okstate.edu
 
 &nbsp;
@@ -44,7 +46,7 @@ main_nav: true
 ![Yuxuan]({{ site.baseurl }}/assets/yuxuan.jpg){:.profile}
 #### **Yuxuan Li, Ph.D., minor in Mathematics** (Graduated in Summer 2023) 
 
-* Current Position: Assistant Professor in the School of Business at East China University of Science and Technology (华东理工大学)
+* First Position: Assistant Professor in the School of Business at East China University of Science and Technology (华东理工大学)
 
 * BEc, Economics Statistics, Renmin University of China, China 
 
@@ -75,7 +77,7 @@ main_nav: true
 ***
 
 ![Emmanuel]({{ site.baseurl }}/assets/Emmanuel_2023.JPG){:.profile}
-#### **Emmanuel Yangue, Ph.D., simultaneous M.S. in Applied Statistics**  
+#### **Emmanuel Yangue, Ph.D., simultaneous M.S. in Applied Statistics** (Graduated in Spring 2026)   
 
 * Graduated in Spring 2026
 
@@ -98,9 +100,9 @@ main_nav: true
 ***
 
 ![Ziyang]({{ site.baseurl }}/assets/Ziyang Profile Photo.jpg){:.profile}
-#### **Ziyang Zhang, Ph.D. Candidate, minor in Statistics**  
+#### **Ziyang Zhang, Ph.D., minor in Statistics** (Graduated in Summer 2026) 
 
-* Expected to Graduate in Summer 2026
+* Graduated in Summer 2026
 
 * BEng, Mechanical Engineering, Xi'an Jiaotong University, China
 
@@ -110,16 +112,16 @@ main_nav: true
 
 * E-mail: jan.zhang@okstate.edu
 
-* Dissertation Topic: Augmenting Generative Model for Design and Optimization of Complex Engineering Systems
+* Dissertation Title: Coupling Data Science and Physics-based Simulation for Healthcare and Engineering Design Applications
 
 &nbsp;
 
 ***
 
 ![Boris]({{ site.baseurl }}/assets/Boris_2025.png){:.profile}
-#### **Boris Oskolkov, Ph.D. Candidate**  
+#### **Boris Oskolkov, Ph.D., simultaneous M.S. in IEM** (Graduated in Summer 2026) 
 
-* Expected to Graduate in Summer 2026
+* Graduated in Summer 2026
 
 * B.S., Instrumentation Technology, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
@@ -129,7 +131,7 @@ main_nav: true
 
 * E-mail: boris.oskolkov@okstate.edu
 
-* Dissertation Topic: Data Science for Advanced Manufacturing and Biomedical Applications
+* Dissertation Title: Advancing Smart Cyber-Physical Manufacturing System via Secure and Adaptive Incremental Learning
 
 * LinkedIn Page: [Link](http://linkedin.com/in/boris-oskolkov/)
 
@@ -175,7 +177,7 @@ main_nav: true
 ***
 
 ![Anastasiia]({{ site.baseurl }}/assets/Anastasiia.jpg){:.profile}
-#### **Anastasiia Oskolkova, M.S. Thesis** (Graduated in Summer 2025) 
+#### **Anastasiia Oskolkova, M.S. with Thesis** (Graduated in Summer 2025) 
 
 * After Graduation: PhD Student at Oklahoma State University
 
@@ -192,7 +194,7 @@ main_nav: true
 ***
 
 ![Jacob]({{ site.baseurl }}/assets/Jacob.jpg){:.profile}
-#### **Jacob O'Hara, M.S. Thesis** (Graduated in May 2025) 
+#### **Jacob O'Hara, M.S. with Thesis** (Graduated in May 2025) 
 
 * After Graduation: Industrial Engineer Trainee at United States Postal Service (USPS)
 
@@ -207,7 +209,7 @@ main_nav: true
 ***
 
 ![Emmanuel]({{ site.baseurl }}/assets/Yangue Emmanuel.jpg){:.profile}
-#### **Emmanuel Yangue, M.S. Thesis** (Graduated in July 2023) 
+#### **Emmanuel Yangue, M.S. with Thesis** (Graduated in July 2023) 
 
 * After Graduation: PhD Student at Oklahoma State University 
 
@@ -225,7 +227,7 @@ main_nav: true
 
 
 ![Ayse]({{ site.baseurl }}/assets/Ayse.jpeg){:.profile}
-#### **Ayse Dogan, M.S. Thesis**  (Graduated in May 2021)
+#### **Ayse Dogan, M.S. with Thesis**  (Graduated in May 2021)
 
 * After Graduation: PhD Student at University of Illinois at Urbana-Champaign 
 
