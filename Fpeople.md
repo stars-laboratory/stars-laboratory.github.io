@@ -61,7 +61,9 @@ main_nav: true
 ![Zhangyue]({{ site.baseurl }}/assets/zhangyue.jpeg){:.profile}
 #### **Zhangyue Shi, Ph.D., minor in Statistics** (Graduated in Summer 2023)  
 
-* Current Position: Data Scientist at Bayer
+* First Position: Data Scientist at Bayer
+
+* Graduate Minor, Statistics, Oklahoma State University, Stillwater, OK
 
 * BEng, Mechanical Engineering, Xi'an Jiaotong University, China
 
@@ -71,7 +73,6 @@ main_nav: true
 
 * Personal Website: [Link](https://shizhangyue.github.io/)
 
-
 &nbsp;
 
 ***
@@ -79,15 +80,15 @@ main_nav: true
 ![Emmanuel]({{ site.baseurl }}/assets/Emmanuel_2023.JPG){:.profile}
 #### **Emmanuel Yangue, Ph.D., simultaneous M.S. in Applied Statistics** (Graduated in Spring 2026)   
 
-* Graduated in Spring 2026
+* First Position: Clinical data scientist at Redsail Technologies
 
-* B.S., Petroleum Engineering (double Major in Economics), University of Louisiana at Lafayette, Lafayette, Louisiana
-
-* M.A., Applied Economics, University of Houston, Houston, TX
+* M.S., Applied Statistics, Oklahoma State University, Stillwater, OK
 
 * M.S. (with Thesis), Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
 
-* M.S., Applied Statistics, Oklahoma State University, Stillwater, OK
+* M.A., Applied Economics, University of Houston, Houston, TX
+
+* B.S., Petroleum Engineering (double Major in Economics), University of Louisiana at Lafayette, Lafayette, Louisiana
 
 * E-mail: eyangue@okstate.edu
 
@@ -102,13 +103,13 @@ main_nav: true
 ![Ziyang]({{ site.baseurl }}/assets/Ziyang Profile Photo.jpg){:.profile}
 #### **Ziyang Zhang, Ph.D., minor in Statistics** (Graduated in Summer 2026) 
 
-* Graduated in Summer 2026
+* First Position: FDA Modeling and Simulation Fellowship
+
+* Graduate Minor, Statistics, Oklahoma State University, Stillwater, OK
 
 * BEng, Mechanical Engineering, Xi'an Jiaotong University, China
 
 * B.S., Business Administration, Xi'an Jiaotong University, China
-
-* Graduate Minor, Statistics, Oklahoma State University, Stillwater, OK
 
 * E-mail: jan.zhang@okstate.edu
 
@@ -121,13 +122,13 @@ main_nav: true
 ![Boris]({{ site.baseurl }}/assets/Boris_2025.png){:.profile}
 #### **Boris Oskolkov, Ph.D., simultaneous M.S. in IEM** (Graduated in Summer 2026) 
 
-* Graduated in Summer 2026
+* First Position: Postdoctoral Associate in the Industrial AI Center at the University of Maryland 
 
-* B.S., Instrumentation Technology, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
+* M.S., Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
 
 * M.S., Instrumentation Technology, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
-* M.S., Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
+* B.S., Instrumentation Technology, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
 * E-mail: boris.oskolkov@okstate.edu
 
@@ -144,11 +145,11 @@ main_nav: true
 
 * Expected to Graduate in Summer 2027 
 
-* B.S.(degree with honors), Business and Economics,  Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
+* M.S. (with Thesis), Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
 
 * M.S.(degree with honors), High Technology and Economics of Innovation, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
-* M.S. (with Thesis), Industrial Engineering and Management, Oklahoma State University, Stillwater, OK
+* B.S.(degree with honors), Business and Economics,  Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
 * E-mail: anastasiia.oskolkova@okstate.edu
 
@@ -159,7 +160,24 @@ main_nav: true
 ***
 
 
-# M.S. Thesis Students & Alumni
+# M.S. (with Thesis) Students & Alumni
+
+&nbsp;
+
+![Jules]({{ site.baseurl }}/assets/Jules_2026.png){:.profile}
+#### **Jules Thibault, M.S. Thesis student**
+
+* B.S., Industrial and Systems Engineering, Thomas Jefferson University, Philadelphia, PA
+
+* E-mail: jules.thibault@okstate.edu
+
+* Thesis Topic: Domain-aware AI Methodology for Scientific Data Analysis and Reasoning
+
+* LinkedIn Page: [Link](http://www.linkedin.com/in/jules-thibault-990a51244)
+
+&nbsp;
+
+***
 
 &nbsp;
 
@@ -172,6 +190,8 @@ main_nav: true
 
 * Thesis Topic: Data Science-empowered Design and Optimization for Medical Devices 
 
+* LinkedIn Page: [Link](https://www.linkedin.com/in/enrique-soto-ballester-1a0436293)
+
 &nbsp;
 
 ***
@@ -181,9 +201,9 @@ main_nav: true
 
 * After Graduation: PhD Student at Oklahoma State University
 
-* B.S.(degree with honors), Business and Economics,  Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
-
 * M.S.(degree with honors), High Technology and Economics of Innovation, Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
+
+* B.S.(degree with honors), Business and Economics,  Saint-Petersburg State University of Aerospace Instrumentation, Saint-Petersburg, Russia
 
 * E-mail: anastasiia.oskolkova@okstate.edu
 
@@ -213,9 +233,9 @@ main_nav: true
 
 * After Graduation: PhD Student at Oklahoma State University 
 
-* B.S., Petroleum Engineering (double Major in Economics), University of Louisiana at Lafayette, Lafayette, Louisiana
-
 * M.A., Applied Economics, University of Houston, Houston, TX
+
+* B.S., Petroleum Engineering (double Major in Economics), University of Louisiana at Lafayette, Lafayette, Louisiana
 
 * E-mail: eyangue@okstate.edu
 
