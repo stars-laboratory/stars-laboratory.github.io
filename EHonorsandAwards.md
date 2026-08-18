@@ -7,6 +7,7 @@ main_nav: true
 
 ### Selected Awards, Honors and Recognitions
 
+* Senior Member, Institute of Electrical and Electronics Engineers (IEEE), 2026
 * IISE Transactions Reviewer of the Year Award, 2026 <!-- * IEM Excellent Faculty Researcher Award, OSU IEM, 2025 -->
 * Young Engineer Award, Computers & Information in Engineering (CIE) Division, ASME, 2024
 * Editor’s Pick and Featured Article, Physics of Fluids, American Institute of Physics (AIP), 2024
@@ -39,6 +40,9 @@ main_nav: true
 * Emmanuel Yangue: Ken & Lynn Case Endowed Scholarship, OSU, 2023
 * Emmanuel Yangue: NSF Student Travel Award, 2023
 * Boris Oskolkov: Ken & Lynn Case Endowed Scholarship, OSU, 2025
+* Boris Oskolkov: Best Doctoral Symposium Award (1st Place) at MSEC 2026, ASME, 2026
+* Boris Oskolkov: Student Research Presentation Finalist Award at NAMRC 54, Society of Manufacturing Engineers (SME), 2026
+* Anastasiia Oskolkova: Best Poster Award (2nd Place Winner), Coalition for Advancing Digital Research & Education (CADRE) Conference, 2026
 * Ziyang Zhang: 3rd Place Award, IEM Student Research Symposium, OSU IEM, 2025
 * Yuxuan Li: NSF Student Travel Award, 2023
 * Yuxuan Li: Doctoral Phoenix Award, OSU, 2023
