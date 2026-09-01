@@ -7,6 +7,42 @@ main_nav: true
 
 ## STARs Lab News and Updates
 
+### 2026
+
+#### Fall
+
+* September 2026: Our collaborative research paper “Generative Modeling Enabled Design De-identification for Enhanced Intellectual Property Protection in Metal-based Additive Manufacturing”, with Dr. Wenmeng Tian’s lab in the School of Industrial Engineering and Management at OSU, has been accepted by the ASME Journal of Computing and Information Science in Engineering (JCISE). 
+* August 2026: Graduate student Enrique Soto Ballester presented his research paper in the 2026 ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE2025), in Houston, TX. His research paper has also been accepted for publication in the conference proceedings. Congratulations!
+* August 2026: Jules Thibault joined our group as a new M.S. thesis student. Welcome!  
+* August 2026: Dr. Liu has been elevated to the grade of IEEE Senior Member.
+
+
+#### Summer
+
+* July 2026: PhD student Anastasiia Oskolkova successfully passed her Ph.D. Qualifying Exam. Congratulations! 
+* June 2026: Ph.D. Candidate Boris Oskolkov successfully defended his Ph.D. dissertation. He will join the Industrial AI Center at the University of Maryland as a Postdoctoral Associate. Congratulations! 
+* June 2026: Ph.D. Candidate Ziyang Zhang successfully defended his Ph.D. dissertation. He received research fellowship from the FDA and will work with FDA on research projects after graduation. Congratulations! 
+* June 2026: Ph.D. Candidate Boris Oskolkov received the Student Research Presentation Finalist Award at NAMRC 54 and the Best Doctoral Symposium Award (1st Place) at MSEC. Congratulations! 
+* June 2026: Ph.D. candidates Ziyang Zhang and Boris Oskolkov presented their research papers at the 54th SME North American Manufacturing Research Conference (NAMRC 54), hosted by Penn State University. Their papers have also been accepted for publication. Congratulations! 
+* June 2026: PhD student Anastasiia Oskolkova won the Second Place in the Best Student Poster Competition during the 8th Annual CADRE conference on “Exploring Artificial Intelligence in Research and Education: Policies, Procedures, Problems, and Solutions”. Congratulations!
+* June 2026: Ph.D. candidates Ziyang Zhang and Boris Oskolkov attended the 2026 ASME Manufacturing Science and Engineering Conference (MSEC 2026), hosted by Penn State University. They presented their research in the MSEC Student Poster Session and Doctoral Symposium (oral presentation). 
+* May 2026: Dr. Liu attended the 2026 IISE Annual Conference. 
+* May 2026: Our recently published work “Computational Fluid Particle Dynamics-Informed Machine Learning Prototype for a User-Centered Smart Inhaler Enabling Uniform Drug Delivery to Small Airways” was highlighted by OSU,  [link](https://news.okstate.edu/articles/engineering-architecture-technology/2026/osu-researchers-using-ai-to-help-inhalers-reach-the-smallest-airways). 
+
+
+#### Spring
+
+* April 2026: Graduate Student Enrique Soto Ballester presented his research paper (poster presentation) at the 2026 ASME Design of Medical Devices Conference (DMD), hosted by the University of Minnesota. His research paper has also been accepted for publication in the conference proceedings. Congratulations! 
+* April 2026: Our collaborative research paper “Computational Fluid Particle Dynamics-Informed Machine Learning Prototype for a User-Centered Smart Inhaler Enabling Uniform Drug Delivery to Small Airways”, with Dr. Yu Feng’s lab in the School of Chemical Engineering at OSU, has been accepted by the Journal of Aerosol Science. 
+* April 2026: Our paper “Teaming Finite Element Analysis and Deep Learning to Advance Inverse Design of Metamaterial with Adaptive Pressure Response in Footwear Design” has been accepted by the ASME Journal of Computing and Information Science in Engineering (JCISE). 
+* April 2026: Ph.D. candidate Ziyang Zhang gave a poster presentation and an oral presentation at the 13th Oklahoma Center for Respiratory and Infectious Diseases (OCRID) Annual Research Symposium. 
+* April 2026: PhD student Anastasiia Oskolkova gave a poster presentation at the 13th Oklahoma Center for Respiratory and Infectious Diseases (OCRID) Annual Research Symposium. 
+* March 2026: Our paper “Knowledge Distillation-Empowered Domain Incremental Learning with Flexible Model Selection for Smart Manufacturing Applications” has been accepted by the Journal of Manufacturing Systems. 
+* March 2026: Ph.D. Candidate Emmanuel Yangue successfully defended his Ph.D. dissertation. He will join RedSail Technologies as a Clinical Data Scientist. Congratulations! 
+* February 2026: Dr. Liu received the IISE Transactions 2026 Reviewer of the Year Award. 
+* January 2026: Undergraduate Researcher Jonas Swope continues his research journey in our lab as a PhD student. Welcome! 
+
+
 ### 2025
 
 #### Fall
