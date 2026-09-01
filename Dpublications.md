@@ -20,6 +20,8 @@ Dr. Liu's [**ResearchGate**](https://www.researchgate.net/profile/Chenang-Liu)
 1. Oskolkov, B.\*, Shi, Z.\*, Tian, W., and Liu, C., 2026, “Knowledge Distillation-Empowered Domain Incremental Learning with Flexible Model Selection for Smart Manufacturing Applications,” *Journal of
 Manufacturing Systems*. Vol. 86, pp. 1180-1189. [Link](https://doi.org/10.1016/j.jmsy.2026.04.011)
 
+1. Fullington, D., Rodriguez, H., Yangue, E.\*, Liu, C., and Tian, W., 2026, “Generative Modeling Enabled Design De-identification for Enhanced Intellectual Property Protection in Metal-based Additive Manufacturing.” *ASME Journal of Computing and Information Science in Engineering*. (Accepted for Publication)
+
 1. Zhang, Z.\*, Yi, H., Kolanjiyil, A., Liu, C., and Feng, Y., 2026, “Computational Fluid Particle Dynamics-Informed Machine Learning Prototype for a User-Centered Smart Inhaler Enabling Uniform Drug Delivery to Small Airways.” *Journal of Aerosol Science*. Vol. 195, p. 106812. [Link](https://doi.org/10.1016/j.jaerosci.2026.106812) 
 
 1. Yangue, E.\*, Tian, W., Feng, Y., and Liu, C., 2026, “Noise-Conditioned Adversarial Diffusion Denoising Implicit Model (NCA-DDIM) for Data Augmentation in Engineering Applications,” *IEEE Transactions on Automation Science and Engineering*. Vol. 23, pp. 2075-2090. [Link](https://doi.org/10.1109/TASE.2025.3641161) 
@@ -121,11 +123,11 @@ through Machine Learning,” *Nature Communications*. Vol. 14 (1), pp. 5765. [Li
 
 1. Swope, J.\*, Feng, Y., and Liu, C., 2026, “Scientific Machine Learning-Based Surrogate Modeling of Aerosol Deposition for Advancing Personalized Inhaler Design,” submitted to the 2026 ASME’s International Mechanical Engineering Congress & Exposition (IMECE). (Accepted for Publication)
 
-1. Soto Ballester, E.\*, Feng, Y., and Liu, C., 2026, “Data-Efficient Adaptive Reduced Order Modeling for Particle Fluid Dynamics Model in Accelerating Personalized Inhaler Design,” submitted to the 2026 ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference. (Accepted for Publication)
+1. Soto Ballester, E.\*, Feng, Y., and Liu, C., 2026, “Data-Efficient Adaptive Reduced Order Modeling for Particle Fluid Dynamics Model in Accelerating Personalized Inhaler Design,” Proceedings of the 2026 ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference. (Accepted for Publication)
 
-1. Zhang, Z.\*, Feng, Y., and Liu, C., 2026, “Loop-wise Structural Footwear Design and Optimization Using FEA-informed Machine Learning and Additive Manufacturing for Adaptive Pressure Distribution with Improved Comfort,” submitted to the 2026 North American Manufacturing Research Conference (NAMRC) 54. (Accepted for Publication)
+1. Zhang, Z.\*, Feng, Y., and Liu, C., 2026, “Loop-wise Structural Footwear Design and Optimization Using FEA-informed Machine Learning and Additive Manufacturing for Adaptive Pressure Distribution with Improved Comfort,” Proceedings of the 2026 North American Manufacturing Research Conference (NAMRC) 54. (Accepted for Publication)
 
-1. Yi, H., Patil, A., Feng, Y., Oskolkova A.\*, and Liu, C., 2026, “Assessment of Children Exposure to Airborne Virus-Laden Aerosols in a Virtual Classroom Using Computational Fluid Particle Dynamics,” submitted to the 2026 ASME Fluids Engineering Division Summer Meeting (FEDSM). (Accepted for Publication)
+1. Yi, H., Patil, A., Feng, Y., Oskolkova A.\*, and Liu, C., 2026, “Assessment of Children Exposure to Airborne Virus-Laden Aerosols in a Virtual Classroom Using Computational Fluid Particle Dynamics,” Proceedings of the 2026 ASME Fluids Engineering Division Summer Meeting (FEDSM). (Accepted for Publication)
 
 1. Soto Ballester, E.\*, Feng, Y., and Liu, C., 2026, ``Toward Rapid Assessment for Personalized Inhaler Design via Machine Learning-based Reduced Ordered Modeling (ROM)," *Proceedings of the 2026 ASME Design of Medical Devices Conference (DMD)*. V001T02A002. ASME. [Link](https://doi.org/10.1115/DMD2026-1011)
 
