@@ -296,13 +296,15 @@ main_nav: true
 
 #### **Ethan Patrick O'Connor (Fall 2023 - Summer 2025)**
 
-* B.S., Industrial Engineering and Management, OSU, Graduated in May 2025
-
-* Summer Research Intern at STARs Lab in Summer 2025
+* B.S., Industrial Engineering and Management, OSU, Graduated in May 2025 (with Research Intern at STARs Lab in Summer 2025)
 
 * Project: Incorporating Effective Feature Extraction to Advance AI - Assisted Inhalation Therapy for Lung Disease
   
 * Supported by OSU CEAT Undergraduate Research Scholarship, Wentz Research Grant, as well as NSF and OCAST Projects
+
+* After Graduation: M.S., Data Science and Analytics, University College Cork, Ireland
+
+* Current Position: Biomedical AI Engineer at the Oklahoma Medical Research Foundation
 
 &nbsp;
 
